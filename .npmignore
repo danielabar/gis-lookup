@@ -1,0 +1,9 @@
+test
+.circleci
+.editorconfig
+.edlintrc.js
+.nvmrc
+.prettier.js
+logs
+.vscode
+historical
