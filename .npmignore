@@ -7,3 +7,5 @@ test
 logs
 .vscode
 historical
+data/current/*.csv
+scripts
