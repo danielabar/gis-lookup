@@ -8,6 +8,9 @@
   },
   "main": "index.js",
   "scripts": {
+    "dev": "mocha test/**/*.test.js --watch",
+    "generate": "node scripts/convert.js",
+    "lint": "eslint index.js test",
     "test": "mocha test/**/*.test.js"
   },
   "keywords": [
