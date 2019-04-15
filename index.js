@@ -1,4 +1,5 @@
 const Decimal = require('decimal.js');
+const metadata = require('./data/current/metadata.json');
 const table1Single = require('./data/current/table1-single.json');
 
 function _lookupTable(status) {
@@ -6,6 +7,7 @@ function _lookupTable(status) {
     return table1Single;
   }
 }
+
 function find(status, income) {
   const lookupTable = _lookupTable(status);
   const result = lookupTable.find(gisData => {
@@ -14,7 +16,11 @@ function find(status, income) {
     const dIncome = new Decimal(income);
     return dFrom.lte(dIncome) && dTo.gte(dIncome);
   });
-  return result;
+  return {
+    input: { status, income },
+    output: result,
+    metadata: metadata,
+  };
 }
 
 module.exports = { find };
