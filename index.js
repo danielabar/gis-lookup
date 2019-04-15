@@ -78,7 +78,7 @@ function find(status, income) {
   });
   return {
     input: { status, income },
-    output: result,
+    output: result ? result : { gis: '0' },
     metadata: metadata,
   };
 }
