@@ -13,13 +13,28 @@ npm install gis-lookup
 ```javascript
 const gisLookup = require('gis-lookup');
 
-const status = 'single';
 const income = 17905;
-const result = gisLookup.find(status, income);
+const result = gisLookup.find(gisLookup.STATUS.SINGLE, income);
 
 console.log(result.output.gis);                         // "13.18"
 console.log(result.metadata.time_period_coverage_start) // for example: "2019-01-01 00:00:00"
 console.log(result.metadata.time_period_coverage_end)   // for example: ""2019-06-30 00:00:00",
+```
+
+Available statuses are as follows:
+
+| Status         | Description                                                              |
+| -------------- | ------------------------------------------------------------------------ |
+| SINGLE         | Single person who receives an OAS pension                                |
+| PARTNER_OAS    | Spouse/common-law partner of someone who receives an OAS pension         |
+| PARTNER_NO_OAS | Spouse/common-law partner of someone who does not receive an OAS pension |
+
+## Maintenance
+
+TBD, too manual currently...
+
+```shell
+npm run generate
 ```
 
 ## Reference Data
