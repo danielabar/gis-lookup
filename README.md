@@ -35,7 +35,7 @@ If something goes wrong, result will contain an `error` property
 const gisLookup = require('gis-lookup');
 
 const result = gisLookup.find('married', 'abc')
-console.log(result.error); // ['Unknown status', 'Invalid income']
+console.log(result.error); // [{"en_CA":"Unknown status","fr_CA":"TBD"},{"en_CA":"Invalid income","fr_CA":"TBD"}]
 ```
 
 ## Maintenance
