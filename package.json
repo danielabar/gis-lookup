@@ -8,7 +8,9 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/**/*.test.js"
+    "test": "mocha test/**/*.test.js",
+    "lint": "eslint index.js test",
+    "dev": "mocha test/**/*.test.js --watch"
   },
   "keywords": [
     "gis",
