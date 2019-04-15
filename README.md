@@ -29,6 +29,15 @@ Available statuses are as follows:
 | PARTNER_OAS    | Spouse/common-law partner of someone who receives an OAS pension         |
 | PARTNER_NO_OAS | Spouse/common-law partner of someone who does not receive an OAS pension |
 
+If something goes wrong, result will contain an `error` property
+
+```javascript
+const gisLookup = require('gis-lookup');
+
+const result = gisLookup.find('married', 'abc')
+console.log(result.error); // [{"en_CA":"Unknown status","fr_CA":"TBD"},{"en_CA":"Invalid income","fr_CA":"TBD"}]
+```
+
 ## Maintenance
 
 TBD, too manual currently...

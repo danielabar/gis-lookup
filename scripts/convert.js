@@ -21,10 +21,10 @@ async function convert(inFile) {
       .fromFile(inFile)
       .subscribe(json => {
         if (Number.isNaN(Number.parseFloat(json.from))) {
-          json.from = 0;
-          json.to = 0;
-          json.gis = 0;
-          json.gisOasCombined = 0;
+          json.from = -999999;
+          json.to = -999999;
+          json.gis = -999999;
+          json.gisOasCombined = -999999;
         } else {
           json.from = json.from.replace(',', '');
           json.to = json.to.replace(',', '');
