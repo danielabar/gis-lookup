@@ -17,7 +17,9 @@ const status = 'single';
 const income = 17905;
 const result = gisLookup.find(status, income);
 
-console.log(result.gis); // 13.18
+console.log(result.output.gis);                         // "13.18"
+console.log(result.metadata.time_period_coverage_start) // for example: "2019-01-01 00:00:00"
+console.log(result.metadata.time_period_coverage_end)   // for example: ""2019-06-30 00:00:00",
 ```
 
 ## Reference Data
