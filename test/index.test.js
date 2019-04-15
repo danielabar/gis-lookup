@@ -55,5 +55,51 @@ describe('index', () => {
       expect(result.output.gis).to.equal('895.32');
       expect(result.metadata).to.exist;
     });
+
+    it('returns result for 0 income', () => {
+      // Given
+      const status = index.STATUS.SINGLE;
+      const income = '0';
+      // When
+      const result = index.find(status, income);
+      // Then
+      expect(result.input.status).to.equal('SINGLE');
+      expect(result.input.income).to.equal('0');
+      expect(result.output.gis).to.equal('898.32');
+      expect(result.metadata).to.exist;
+    });
+
+    it('returns an error for unknown status', () => {
+      // Given
+      const status = 'foo';
+      const income = 100;
+      // When
+      const result = index.find(status, income);
+      // Then
+      expect(result.error[0].en_CA).to.equal('Unknown status');
+      expect(result.error[0].fr_CA).to.equal('TBD');
+    });
+
+    it('returns an error for non numeric income', () => {
+      // Given
+      const status = index.STATUS.SINGLE;
+      const income = 'abc';
+      // When
+      const result = index.find(status, income);
+      // Then
+      expect(result.error[0].en_CA).to.equal('Invalid income');
+      expect(result.error[0].fr_CA).to.equal('TBD');
+    });
+
+    it('returns an error for negative income', () => {
+      // Given
+      const status = index.STATUS.SINGLE;
+      const income = -100;
+      // When
+      const result = index.find(status, income);
+      // Then
+      expect(result.error[0].en_CA).to.equal('Income cannot be negative');
+      expect(result.error[0].fr_CA).to.equal('TBD');
+    });
   });
 });
