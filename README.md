@@ -49,3 +49,5 @@ npm run generate
 ## Reference Data
 
 Lookup [tables](https://open.canada.ca/data/en/dataset/dfa4daf1-669e-4514-82cd-982f27707ed0) from Open Government Canada.
+
+GIS lookup tables licensed under the [Open Government Licence - Canada](https://open.canada.ca/en/open-government-licence-canada)
