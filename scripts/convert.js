@@ -1,5 +1,6 @@
 const csv = require('csvtojson');
 const fs = require('fs');
+const path = require('path');
 
 const CWD = process.cwd();
 const DATA_DIR = './data/current';
@@ -42,7 +43,6 @@ async function convert(inFile) {
   const dataFiles = fs.readdirSync('./data/current');
   const csvFiles = dataFiles.filter(dataFile => dataFile.endsWith('.csv'));
   asyncForEach(csvFiles, async csvFile => {
-    // TODO path.join, path.normalize
-    await convert(`${CWD}/${DATA_DIR}/${csvFile}`);
+    await convert(path.resolve(CWD, DATA_DIR, csvFile));
   });
 })();
