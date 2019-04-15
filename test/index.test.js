@@ -101,5 +101,18 @@ describe('index', () => {
       expect(result.error[0].en_CA).to.equal('Income cannot be negative');
       expect(result.error[0].fr_CA).to.equal('TBD');
     });
+
+    it('returns multiple error messages', () => {
+      // Given
+      const status = 'foo';
+      const income = 'abc';
+      // When
+      const result = index.find(status, income);
+      // Then
+      expect(result.error[0].en_CA).to.equal('Unknown status');
+      expect(result.error[0].fr_CA).to.equal('TBD');
+      expect(result.error[1].en_CA).to.equal('Invalid income');
+      expect(result.error[1].fr_CA).to.equal('TBD');
+    });
   });
 });
