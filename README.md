@@ -43,7 +43,14 @@ console.log(result.error); // [{"en_CA":"Unknown status","fr_CA":"TBD"},{"en_CA"
 TBD, too manual currently...
 
 ```shell
+# time_period_coverage_start and time_period_coverage_end are values from current/metadata.json, just take yyyy-mm-dd
+mkdir data/historica/from-{time_period_coverage_start}-to-{time_period_coverage_end}
+mv current/* historical/from-{time_period_coverage_start}-to-{time_period_coverage_end}
+# download new metadata.json from Open Government Canada site (see Reference Data section below) to data/current
+# download tables 1 through 3 to data/current
 npm run generate
+# update test expected values for new data
+npm test
 ```
 
 ## Reference Data

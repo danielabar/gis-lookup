@@ -24,12 +24,8 @@
     },
     "frequency": "P3M",
     "keywords": {
-      "fr": [
-        "Sécurité de la vieillesse SV"
-      ],
-      "en": [
-        "Old Age Security OAS"
-      ]
+      "fr": ["Sécurité de la vieillesse SV"],
+      "en": ["Old Age Security OAS"]
     },
     "data_series_issue_identification": {
       "fr": "",
@@ -38,13 +34,10 @@
     "ready_to_publish": "true",
     "id": "dfa4daf1-669e-4514-82cd-982f27707ed0",
     "metadata_created": "2016-09-25T15:28:20.763069",
-    "subject": [
-      "processes",
-      "society_and_culture"
-    ],
-    "date_modified": "2019-06-28 00:00:00",
+    "subject": ["processes", "society_and_culture"],
+    "date_modified": "2019-04-01 00:00:00",
     "spatial_representation_type": [],
-    "metadata_modified": "2019-06-28T17:02:46.082695",
+    "metadata_modified": "2019-04-01T14:21:10.867297",
     "author": null,
     "author_email": "open-ouvert@tbs-sct.gc.ca",
     "geographic_region": [],
@@ -60,7 +53,8 @@
       "en": "Old Age Security (OAS) - Table of Benefit Amounts by marital status and income level"
     },
     "type": "dataset",
-    "resources": [{
+    "resources": [
+      {
         "cache_last_updated": null,
         "unique_identifier": "",
         "package_id": "dfa4daf1-669e-4514-82cd-982f27707ed0",
@@ -81,16 +75,13 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 1 - GIS for single person who receives an OAS pension",
-        "language": [
-          "en",
-          "fr"
-        ],
+        "language": ["en", "fr"],
         "created": "2016-10-13T12:56:32.981594",
-        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/pima-igap/Table1_GIS_for_single_who_receives_OAS_pension_July2019.csv",
+        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table1_GIS_for_single_who_receives_OAS_pension_April2019.csv",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 0,
-        "revision_id": "4ac7c5d7-4f1a-4f60-a15a-6017c0f315d6",
+        "revision_id": "c88cc969-275a-4568-ada2-e2658bd90a9e",
         "data_quality": []
       },
       {
@@ -114,16 +105,13 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 2 - GIS for spouse/common-law partner of someone who receives an OAS pension",
-        "language": [
-          "en",
-          "fr"
-        ],
+        "language": ["en", "fr"],
         "created": "2016-10-13T12:56:32.981642",
-        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/pima-igap/Table2_GIS_for_spouse_of_someone_receiving_OAS_pension_July2019.csv",
+        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table2_GIS_for_spouse_of_someone_receiving_OAS_pension_April2019.csv",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 1,
-        "revision_id": "8b98e8dd-3162-426e-b711-4a0d3937e414",
+        "revision_id": "e250ef2a-c01b-4bb5-829f-4e192e8f5050",
         "data_quality": []
       },
       {
@@ -147,16 +135,13 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 3 - GIS for spouse/common-law partner of someone who does not receive an OAS pension",
-        "language": [
-          "en",
-          "fr"
-        ],
+        "language": ["en", "fr"],
         "created": "2016-10-13T12:56:32.981656",
-        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/pima-igap/Table3_GIS_for_spouse_of_someone_who_does_not_receive_OAS_pension_July2019.csv",
+        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table3_GIS_for_spouse_of_someone_who_does_not_receive_OAS_pension_April2019.csv",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 2,
-        "revision_id": "8b98e8dd-3162-426e-b711-4a0d3937e414",
+        "revision_id": "e250ef2a-c01b-4bb5-829f-4e192e8f5050",
         "data_quality": []
       },
       {
@@ -180,16 +165,13 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 4 - GIS and Allowance for couple",
-        "language": [
-          "en",
-          "fr"
-        ],
+        "language": ["en", "fr"],
         "created": "2016-10-13T12:56:32.981668",
-        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/pima-igap/Table4_GIS_and_Allowance_for_couple_July2019.csv",
+        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table4_GIS_and_Allowance_for_couple_April2019.csv",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 3,
-        "revision_id": "8b98e8dd-3162-426e-b711-4a0d3937e414",
+        "revision_id": "e250ef2a-c01b-4bb5-829f-4e192e8f5050",
         "data_quality": []
       },
       {
@@ -213,16 +195,13 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 5 - Allowance for the Survivor",
-        "language": [
-          "en",
-          "fr"
-        ],
+        "language": ["en", "fr"],
         "created": "2016-10-13T12:56:32.981681",
-        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/pima-igap/Table5_Allowance_for_the_survivor_July2019.csv",
+        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table5_Allowance_for_the_survivor_April2019.csv",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 4,
-        "revision_id": "8b98e8dd-3162-426e-b711-4a0d3937e414",
+        "revision_id": "e250ef2a-c01b-4bb5-829f-4e192e8f5050",
         "data_quality": []
       },
       {
@@ -246,16 +225,13 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 1 - GIS for single person who receives an OAS pension",
-        "language": [
-          "en",
-          "fr"
-        ],
+        "language": ["en", "fr"],
         "created": "2016-12-29T12:10:17.254609",
-        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/pima-igap/Table1_GIS_for_single_who_receives_OAS_pension_July2019.xlsx",
+        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table1_GIS_for_single_who_receives_OAS_pension_April2019.xlsx",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 5,
-        "revision_id": "8b98e8dd-3162-426e-b711-4a0d3937e414",
+        "revision_id": "e250ef2a-c01b-4bb5-829f-4e192e8f5050",
         "data_quality": []
       },
       {
@@ -279,16 +255,13 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 2 - GIS for spouse/common-law partner of someone who receives an OAS pension",
-        "language": [
-          "en",
-          "fr"
-        ],
+        "language": ["en", "fr"],
         "created": "2016-12-29T12:20:17.757598",
-        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/pima-igap/Table2_GIS_for_spouse_of_someone_receiving_OAS_pension_July2019.xlsx",
+        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table2_GIS_for_spouse_of_someone_receiving_OAS_pension_April2019.xlsx",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 6,
-        "revision_id": "8b98e8dd-3162-426e-b711-4a0d3937e414",
+        "revision_id": "e250ef2a-c01b-4bb5-829f-4e192e8f5050",
         "data_quality": []
       },
       {
@@ -312,16 +285,13 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 3 - GIS for spouse/common-law partner of someone who does not receive an OAS pension",
-        "language": [
-          "en",
-          "fr"
-        ],
+        "language": ["en", "fr"],
         "created": "2016-12-29T12:20:17.757684",
-        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/pima-igap/Table3_GIS_for_spouse_of_someone_who_does_not_receive_OAS_pension_July2019.xlsx",
+        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table3_GIS_for_spouse_of_someone_who_does_not_receive_OAS_pension_April2019.xlsx",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 7,
-        "revision_id": "8b98e8dd-3162-426e-b711-4a0d3937e414",
+        "revision_id": "e250ef2a-c01b-4bb5-829f-4e192e8f5050",
         "data_quality": []
       },
       {
@@ -345,16 +315,13 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 4 - GIS and Allowance for couple",
-        "language": [
-          "en",
-          "fr"
-        ],
+        "language": ["en", "fr"],
         "created": "2016-12-29T12:30:17.927871",
-        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/pima-igap/Table4_GIS_and_Allowance_for_couple_July2019.xlsx",
+        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table4_GIS_and_Allowance_for_couple_April2019.xlsx",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 8,
-        "revision_id": "8b98e8dd-3162-426e-b711-4a0d3937e414",
+        "revision_id": "e250ef2a-c01b-4bb5-829f-4e192e8f5050",
         "data_quality": []
       },
       {
@@ -378,16 +345,13 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 5 - Allowance for the Survivor",
-        "language": [
-          "en",
-          "fr"
-        ],
+        "language": ["en", "fr"],
         "created": "2016-12-29T12:30:17.927907",
-        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/pima-igap/Table5_Allowance_for_the_survivor_July2019.xlsx",
+        "url": "http://www.edsc-esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table5_Allowance_for_the_survivor_April2019.xlsx",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 9,
-        "revision_id": "8b98e8dd-3162-426e-b711-4a0d3937e414",
+        "revision_id": "e250ef2a-c01b-4bb5-829f-4e192e8f5050",
         "data_quality": []
       }
     ],
@@ -412,7 +376,7 @@
     },
     "relationships_as_subject": [],
     "license_title": "Open Government Licence - Canada",
-    "time_period_coverage_end": "2019-09-30 00:00:00",
+    "time_period_coverage_end": "2019-06-30 00:00:00",
     "restrictions": "unrestricted",
     "organization": {
       "description": "",
