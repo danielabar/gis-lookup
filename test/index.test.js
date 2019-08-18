@@ -56,6 +56,17 @@ describe('index', () => {
       expect(result.metadata).to.exist;
     });
 
+    it('parses metadata for coverage period', () => {
+      // Given
+      const status = index.STATUS.SINGLE;
+      const income = 72.01;
+      // When
+      const result = index.find(status, income);
+      // Then
+      expect(result.coverage.start).to.equal('2019-01-01');
+      expect(result.coverage.end).to.equal('2019-09-30');
+    });
+
     it('returns result for 0 income', () => {
       // Given
       const status = index.STATUS.SINGLE;

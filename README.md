@@ -1,6 +1,6 @@
 # GIS Lookup
 
-> PROTOTYPE: Lookup GIS (Guaranteed Income Supplement) amount by income and marital status.
+> Lookup GIS (Guaranteed Income Supplement) amount by income and marital status.
 
 ## Install
 

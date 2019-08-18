@@ -60,6 +60,17 @@ function _lookupTable(status) {
   }
 }
 
+function splitDate(val) {
+  const parts = val.split(' ');
+  return parts[0];
+}
+
+function parseCoveragePeriod(metadata) {
+  const start = splitDate(metadata.result.time_period_coverage_start);
+  const end = splitDate(metadata.result.time_period_coverage_end);
+  return { start, end };
+}
+
 function find(status, income) {
   const validateResult = _validate(status, income);
   if (!validateResult.isValid) {
@@ -80,6 +91,7 @@ function find(status, income) {
     input: { status, income },
     output: result ? result : { gis: '0' },
     metadata: metadata,
+    coverage: parseCoveragePeriod(metadata),
   };
 }
 
