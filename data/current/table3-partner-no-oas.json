@@ -20,5449 +20,5503 @@
   {
     "from": "0",
     "to": "4095.99",
-    "gis": "907.3",
-    "gisOasCombined": "1514.76"
+    "gis": "916.38",
+    "gisOasCombined": "1529.91"
   },
   {
     "from": "4096.00",
     "to": "4191.99",
-    "gis": "906.3",
-    "gisOasCombined": "1513.76"
+    "gis": "915.38",
+    "gisOasCombined": "1528.91"
   },
   {
     "from": "4192.00",
     "to": "4287.99",
-    "gis": "905.3",
-    "gisOasCombined": "1512.76"
+    "gis": "914.38",
+    "gisOasCombined": "1527.91"
   },
   {
     "from": "4288.00",
     "to": "4383.99",
-    "gis": "904.3",
-    "gisOasCombined": "1511.76"
+    "gis": "913.38",
+    "gisOasCombined": "1526.91"
   },
   {
     "from": "4384.00",
     "to": "4479.99",
-    "gis": "903.3",
-    "gisOasCombined": "1510.76"
+    "gis": "912.38",
+    "gisOasCombined": "1525.91"
   },
   {
     "from": "4480.00",
     "to": "4575.99",
-    "gis": "902.3",
-    "gisOasCombined": "1509.76"
+    "gis": "911.38",
+    "gisOasCombined": "1524.91"
   },
   {
     "from": "4576.00",
     "to": "4671.99",
-    "gis": "901.3",
-    "gisOasCombined": "1508.76"
+    "gis": "910.38",
+    "gisOasCombined": "1523.91"
   },
   {
     "from": "4672.00",
     "to": "4767.99",
-    "gis": "900.3",
-    "gisOasCombined": "1507.76"
+    "gis": "909.38",
+    "gisOasCombined": "1522.91"
   },
   {
     "from": "4768.00",
     "to": "4863.99",
-    "gis": "899.3",
-    "gisOasCombined": "1506.76"
+    "gis": "908.38",
+    "gisOasCombined": "1521.91"
   },
   {
     "from": "4864.00",
     "to": "4959.99",
-    "gis": "898.3",
-    "gisOasCombined": "1505.76"
+    "gis": "907.38",
+    "gisOasCombined": "1520.91"
   },
   {
     "from": "4960.00",
     "to": "5055.99",
-    "gis": "897.3",
-    "gisOasCombined": "1504.76"
+    "gis": "906.38",
+    "gisOasCombined": "1519.91"
   },
   {
     "from": "5056.00",
     "to": "5151.99",
-    "gis": "896.3",
-    "gisOasCombined": "1503.76"
+    "gis": "905.38",
+    "gisOasCombined": "1518.91"
   },
   {
     "from": "5152.00",
     "to": "5247.99",
-    "gis": "895.3",
-    "gisOasCombined": "1502.76"
+    "gis": "904.38",
+    "gisOasCombined": "1517.91"
   },
   {
     "from": "5248.00",
     "to": "5343.99",
-    "gis": "894.3",
-    "gisOasCombined": "1501.76"
+    "gis": "903.38",
+    "gisOasCombined": "1516.91"
   },
   {
     "from": "5344.00",
     "to": "5439.99",
-    "gis": "893.3",
-    "gisOasCombined": "1500.76"
+    "gis": "902.38",
+    "gisOasCombined": "1515.91"
   },
   {
     "from": "5440.00",
     "to": "5535.99",
-    "gis": "892.3",
-    "gisOasCombined": "1499.76"
+    "gis": "901.38",
+    "gisOasCombined": "1514.91"
   },
   {
     "from": "5536.00",
     "to": "5631.99",
-    "gis": "891.3",
-    "gisOasCombined": "1498.76"
+    "gis": "900.38",
+    "gisOasCombined": "1513.91"
   },
   {
     "from": "5632.00",
     "to": "5727.99",
-    "gis": "890.3",
-    "gisOasCombined": "1497.76"
+    "gis": "899.38",
+    "gisOasCombined": "1512.91"
   },
   {
     "from": "5728.00",
     "to": "5823.99",
-    "gis": "889.3",
-    "gisOasCombined": "1496.76"
+    "gis": "898.38",
+    "gisOasCombined": "1511.91"
   },
   {
     "from": "5824.00",
     "to": "5919.99",
-    "gis": "888.3",
-    "gisOasCombined": "1495.76"
+    "gis": "897.38",
+    "gisOasCombined": "1510.91"
   },
   {
     "from": "5920.00",
     "to": "6015.99",
-    "gis": "887.3",
-    "gisOasCombined": "1494.76"
+    "gis": "896.38",
+    "gisOasCombined": "1509.91"
   },
   {
     "from": "6016.00",
     "to": "6111.99",
-    "gis": "886.3",
-    "gisOasCombined": "1493.76"
+    "gis": "895.38",
+    "gisOasCombined": "1508.91"
   },
   {
     "from": "6112.00",
     "to": "6207.99",
-    "gis": "885.3",
-    "gisOasCombined": "1492.76"
+    "gis": "894.38",
+    "gisOasCombined": "1507.91"
   },
   {
     "from": "6208.00",
     "to": "6303.99",
-    "gis": "884.3",
-    "gisOasCombined": "1491.76"
+    "gis": "893.38",
+    "gisOasCombined": "1506.91"
   },
   {
     "from": "6304.00",
     "to": "6399.99",
-    "gis": "883.3",
-    "gisOasCombined": "1490.76"
+    "gis": "892.38",
+    "gisOasCombined": "1505.91"
   },
   {
     "from": "6400.00",
     "to": "6495.99",
-    "gis": "882.3",
-    "gisOasCombined": "1489.76"
+    "gis": "891.38",
+    "gisOasCombined": "1504.91"
   },
   {
     "from": "6496.00",
     "to": "6591.99",
-    "gis": "881.3",
-    "gisOasCombined": "1488.76"
+    "gis": "890.38",
+    "gisOasCombined": "1503.91"
   },
   {
     "from": "6592.00",
     "to": "6687.99",
-    "gis": "880.3",
-    "gisOasCombined": "1487.76"
+    "gis": "889.38",
+    "gisOasCombined": "1502.91"
   },
   {
     "from": "6688.00",
     "to": "6783.99",
-    "gis": "879.3",
-    "gisOasCombined": "1486.76"
+    "gis": "888.38",
+    "gisOasCombined": "1501.91"
   },
   {
     "from": "6784.00",
     "to": "6879.99",
-    "gis": "878.3",
-    "gisOasCombined": "1485.76"
+    "gis": "887.38",
+    "gisOasCombined": "1500.91"
   },
   {
     "from": "6880.00",
     "to": "6975.99",
-    "gis": "877.3",
-    "gisOasCombined": "1484.76"
+    "gis": "886.38",
+    "gisOasCombined": "1499.91"
   },
   {
     "from": "6976.00",
     "to": "7071.99",
-    "gis": "876.3",
-    "gisOasCombined": "1483.76"
+    "gis": "885.38",
+    "gisOasCombined": "1498.91"
   },
   {
     "from": "7072.00",
     "to": "7167.99",
-    "gis": "875.3",
-    "gisOasCombined": "1482.76"
+    "gis": "884.38",
+    "gisOasCombined": "1497.91"
   },
   {
     "from": "7168.00",
     "to": "7263.99",
-    "gis": "874.3",
-    "gisOasCombined": "1481.76"
+    "gis": "883.38",
+    "gisOasCombined": "1496.91"
   },
   {
     "from": "7264.00",
-    "to": "7343.99",
-    "gis": "873.3",
-    "gisOasCombined": "1480.76"
-  },
-  {
-    "from": "7344.00",
     "to": "7359.99",
-    "gis": "872.3",
-    "gisOasCombined": "1479.76"
+    "gis": "882.38",
+    "gisOasCombined": "1495.91"
   },
   {
     "from": "7360.00",
-    "to": "7391.99",
-    "gis": "871.3",
-    "gisOasCombined": "1478.76"
-  },
-  {
-    "from": "7392.00",
     "to": "7439.99",
-    "gis": "870.3",
-    "gisOasCombined": "1477.76"
+    "gis": "881.38",
+    "gisOasCombined": "1494.91"
   },
   {
     "from": "7440.00",
     "to": "7455.99",
-    "gis": "869.3",
-    "gisOasCombined": "1476.76"
+    "gis": "880.38",
+    "gisOasCombined": "1493.91"
   },
   {
     "from": "7456.00",
     "to": "7487.99",
-    "gis": "868.3",
-    "gisOasCombined": "1475.76"
+    "gis": "879.38",
+    "gisOasCombined": "1492.91"
   },
   {
     "from": "7488.00",
     "to": "7535.99",
-    "gis": "867.3",
-    "gisOasCombined": "1474.76"
+    "gis": "878.38",
+    "gisOasCombined": "1491.91"
   },
   {
     "from": "7536.00",
     "to": "7551.99",
-    "gis": "866.3",
-    "gisOasCombined": "1473.76"
+    "gis": "877.38",
+    "gisOasCombined": "1490.91"
   },
   {
     "from": "7552.00",
     "to": "7583.99",
-    "gis": "865.3",
-    "gisOasCombined": "1472.76"
+    "gis": "876.38",
+    "gisOasCombined": "1489.91"
   },
   {
     "from": "7584.00",
     "to": "7631.99",
-    "gis": "864.3",
-    "gisOasCombined": "1471.76"
+    "gis": "875.38",
+    "gisOasCombined": "1488.91"
   },
   {
     "from": "7632.00",
     "to": "7647.99",
-    "gis": "863.3",
-    "gisOasCombined": "1470.76"
+    "gis": "874.38",
+    "gisOasCombined": "1487.91"
   },
   {
     "from": "7648.00",
     "to": "7679.99",
-    "gis": "862.3",
-    "gisOasCombined": "1469.76"
+    "gis": "873.38",
+    "gisOasCombined": "1486.91"
   },
   {
     "from": "7680.00",
     "to": "7727.99",
-    "gis": "861.3",
-    "gisOasCombined": "1468.76"
+    "gis": "872.38",
+    "gisOasCombined": "1485.91"
   },
   {
     "from": "7728.00",
     "to": "7743.99",
-    "gis": "860.3",
-    "gisOasCombined": "1467.76"
+    "gis": "871.38",
+    "gisOasCombined": "1484.91"
   },
   {
     "from": "7744.00",
     "to": "7775.99",
-    "gis": "859.3",
-    "gisOasCombined": "1466.76"
+    "gis": "870.38",
+    "gisOasCombined": "1483.91"
   },
   {
     "from": "7776.00",
     "to": "7823.99",
-    "gis": "858.3",
-    "gisOasCombined": "1465.76"
+    "gis": "869.38",
+    "gisOasCombined": "1482.91"
   },
   {
     "from": "7824.00",
     "to": "7839.99",
-    "gis": "857.3",
-    "gisOasCombined": "1464.76"
+    "gis": "868.38",
+    "gisOasCombined": "1481.91"
   },
   {
     "from": "7840.00",
     "to": "7871.99",
-    "gis": "856.3",
-    "gisOasCombined": "1463.76"
+    "gis": "867.38",
+    "gisOasCombined": "1480.91"
   },
   {
     "from": "7872.00",
     "to": "7919.99",
-    "gis": "855.3",
-    "gisOasCombined": "1462.76"
+    "gis": "866.38",
+    "gisOasCombined": "1479.91"
   },
   {
     "from": "7920.00",
     "to": "7935.99",
-    "gis": "854.3",
-    "gisOasCombined": "1461.76"
+    "gis": "865.38",
+    "gisOasCombined": "1478.91"
   },
   {
     "from": "7936.00",
     "to": "7967.99",
-    "gis": "853.3",
-    "gisOasCombined": "1460.76"
+    "gis": "864.38",
+    "gisOasCombined": "1477.91"
   },
   {
     "from": "7968.00",
     "to": "8015.99",
-    "gis": "852.3",
-    "gisOasCombined": "1459.76"
+    "gis": "863.38",
+    "gisOasCombined": "1476.91"
   },
   {
     "from": "8016.00",
     "to": "8031.99",
-    "gis": "851.3",
-    "gisOasCombined": "1458.76"
+    "gis": "862.38",
+    "gisOasCombined": "1475.91"
   },
   {
     "from": "8032.00",
     "to": "8063.99",
-    "gis": "850.3",
-    "gisOasCombined": "1457.76"
+    "gis": "861.38",
+    "gisOasCombined": "1474.91"
   },
   {
     "from": "8064.00",
     "to": "8111.99",
-    "gis": "849.3",
-    "gisOasCombined": "1456.76"
+    "gis": "860.38",
+    "gisOasCombined": "1473.91"
   },
   {
     "from": "8112.00",
     "to": "8127.99",
-    "gis": "848.3",
-    "gisOasCombined": "1455.76"
+    "gis": "859.38",
+    "gisOasCombined": "1472.91"
   },
   {
     "from": "8128.00",
     "to": "8159.99",
-    "gis": "847.3",
-    "gisOasCombined": "1454.76"
+    "gis": "858.38",
+    "gisOasCombined": "1471.91"
   },
   {
     "from": "8160.00",
     "to": "8207.99",
-    "gis": "846.3",
-    "gisOasCombined": "1453.76"
+    "gis": "857.38",
+    "gisOasCombined": "1470.91"
   },
   {
     "from": "8208.00",
     "to": "8223.99",
-    "gis": "845.3",
-    "gisOasCombined": "1452.76"
+    "gis": "856.38",
+    "gisOasCombined": "1469.91"
   },
   {
     "from": "8224.00",
     "to": "8255.99",
-    "gis": "844.3",
-    "gisOasCombined": "1451.76"
+    "gis": "855.38",
+    "gisOasCombined": "1468.91"
   },
   {
     "from": "8256.00",
     "to": "8303.99",
-    "gis": "843.3",
-    "gisOasCombined": "1450.76"
+    "gis": "854.38",
+    "gisOasCombined": "1467.91"
   },
   {
     "from": "8304.00",
     "to": "8319.99",
-    "gis": "842.3",
-    "gisOasCombined": "1449.76"
+    "gis": "853.38",
+    "gisOasCombined": "1466.91"
   },
   {
     "from": "8320.00",
     "to": "8351.99",
-    "gis": "841.3",
-    "gisOasCombined": "1448.76"
+    "gis": "852.38",
+    "gisOasCombined": "1465.91"
   },
   {
     "from": "8352.00",
     "to": "8399.99",
-    "gis": "840.3",
-    "gisOasCombined": "1447.76"
+    "gis": "851.38",
+    "gisOasCombined": "1464.91"
   },
   {
     "from": "8400.00",
     "to": "8415.99",
-    "gis": "839.3",
-    "gisOasCombined": "1446.76"
+    "gis": "850.38",
+    "gisOasCombined": "1463.91"
   },
   {
     "from": "8416.00",
     "to": "8447.99",
-    "gis": "838.3",
-    "gisOasCombined": "1445.76"
+    "gis": "849.38",
+    "gisOasCombined": "1462.91"
   },
   {
     "from": "8448.00",
     "to": "8495.99",
-    "gis": "837.3",
-    "gisOasCombined": "1444.76"
+    "gis": "848.38",
+    "gisOasCombined": "1461.91"
   },
   {
     "from": "8496.00",
     "to": "8511.99",
-    "gis": "836.3",
-    "gisOasCombined": "1443.76"
+    "gis": "847.38",
+    "gisOasCombined": "1460.91"
   },
   {
     "from": "8512.00",
     "to": "8543.99",
-    "gis": "835.3",
-    "gisOasCombined": "1442.76"
+    "gis": "846.38",
+    "gisOasCombined": "1459.91"
   },
   {
     "from": "8544.00",
     "to": "8591.99",
-    "gis": "834.3",
-    "gisOasCombined": "1441.76"
+    "gis": "845.38",
+    "gisOasCombined": "1458.91"
   },
   {
     "from": "8592.00",
     "to": "8607.99",
-    "gis": "833.3",
-    "gisOasCombined": "1440.76"
+    "gis": "844.38",
+    "gisOasCombined": "1457.91"
   },
   {
     "from": "8608.00",
     "to": "8639.99",
-    "gis": "832.3",
-    "gisOasCombined": "1439.76"
+    "gis": "843.38",
+    "gisOasCombined": "1456.91"
   },
   {
     "from": "8640.00",
     "to": "8687.99",
-    "gis": "831.3",
-    "gisOasCombined": "1438.76"
+    "gis": "842.38",
+    "gisOasCombined": "1455.91"
   },
   {
     "from": "8688.00",
     "to": "8703.99",
-    "gis": "830.3",
-    "gisOasCombined": "1437.76"
+    "gis": "841.38",
+    "gisOasCombined": "1454.91"
   },
   {
     "from": "8704.00",
     "to": "8735.99",
-    "gis": "829.3",
-    "gisOasCombined": "1436.76"
+    "gis": "840.38",
+    "gisOasCombined": "1453.91"
   },
   {
     "from": "8736.00",
     "to": "8783.99",
-    "gis": "828.3",
-    "gisOasCombined": "1435.76"
+    "gis": "839.38",
+    "gisOasCombined": "1452.91"
   },
   {
     "from": "8784.00",
     "to": "8799.99",
-    "gis": "827.3",
-    "gisOasCombined": "1434.76"
+    "gis": "838.38",
+    "gisOasCombined": "1451.91"
   },
   {
     "from": "8800.00",
     "to": "8831.99",
-    "gis": "826.3",
-    "gisOasCombined": "1433.76"
+    "gis": "837.38",
+    "gisOasCombined": "1450.91"
   },
   {
     "from": "8832.00",
     "to": "8879.99",
-    "gis": "825.3",
-    "gisOasCombined": "1432.76"
+    "gis": "836.38",
+    "gisOasCombined": "1449.91"
   },
   {
     "from": "8880.00",
     "to": "8895.99",
-    "gis": "824.3",
-    "gisOasCombined": "1431.76"
+    "gis": "835.38",
+    "gisOasCombined": "1448.91"
   },
   {
     "from": "8896.00",
     "to": "8927.99",
-    "gis": "823.3",
-    "gisOasCombined": "1430.76"
+    "gis": "834.38",
+    "gisOasCombined": "1447.91"
   },
   {
     "from": "8928.00",
     "to": "8975.99",
-    "gis": "822.3",
-    "gisOasCombined": "1429.76"
+    "gis": "833.38",
+    "gisOasCombined": "1446.91"
   },
   {
     "from": "8976.00",
     "to": "8991.99",
-    "gis": "821.3",
-    "gisOasCombined": "1428.76"
+    "gis": "832.38",
+    "gisOasCombined": "1445.91"
   },
   {
     "from": "8992.00",
     "to": "9023.99",
-    "gis": "820.3",
-    "gisOasCombined": "1427.76"
+    "gis": "831.38",
+    "gisOasCombined": "1444.91"
   },
   {
     "from": "9024.00",
     "to": "9071.99",
-    "gis": "819.3",
-    "gisOasCombined": "1426.76"
+    "gis": "830.38",
+    "gisOasCombined": "1443.91"
   },
   {
     "from": "9072.00",
     "to": "9087.99",
-    "gis": "818.3",
-    "gisOasCombined": "1425.76"
+    "gis": "829.38",
+    "gisOasCombined": "1442.91"
   },
   {
     "from": "9088.00",
     "to": "9119.99",
-    "gis": "817.3",
-    "gisOasCombined": "1424.76"
+    "gis": "828.38",
+    "gisOasCombined": "1441.91"
   },
   {
     "from": "9120.00",
     "to": "9167.99",
-    "gis": "816.3",
-    "gisOasCombined": "1423.76"
+    "gis": "827.38",
+    "gisOasCombined": "1440.91"
   },
   {
     "from": "9168.00",
     "to": "9183.99",
-    "gis": "815.3",
-    "gisOasCombined": "1422.76"
+    "gis": "826.38",
+    "gisOasCombined": "1439.91"
   },
   {
     "from": "9184.00",
     "to": "9215.99",
-    "gis": "814.3",
-    "gisOasCombined": "1421.76"
+    "gis": "825.38",
+    "gisOasCombined": "1438.91"
   },
   {
     "from": "9216.00",
     "to": "9263.99",
-    "gis": "813.3",
-    "gisOasCombined": "1420.76"
+    "gis": "824.38",
+    "gisOasCombined": "1437.91"
   },
   {
     "from": "9264.00",
     "to": "9279.99",
-    "gis": "812.3",
-    "gisOasCombined": "1419.76"
+    "gis": "823.38",
+    "gisOasCombined": "1436.91"
   },
   {
     "from": "9280.00",
     "to": "9311.99",
-    "gis": "811.3",
-    "gisOasCombined": "1418.76"
+    "gis": "822.38",
+    "gisOasCombined": "1435.91"
   },
   {
     "from": "9312.00",
     "to": "9359.99",
-    "gis": "810.3",
-    "gisOasCombined": "1417.76"
+    "gis": "821.38",
+    "gisOasCombined": "1434.91"
   },
   {
     "from": "9360.00",
     "to": "9375.99",
-    "gis": "809.3",
-    "gisOasCombined": "1416.76"
+    "gis": "820.38",
+    "gisOasCombined": "1433.91"
   },
   {
     "from": "9376.00",
     "to": "9407.99",
-    "gis": "808.3",
-    "gisOasCombined": "1415.76"
+    "gis": "819.38",
+    "gisOasCombined": "1432.91"
   },
   {
     "from": "9408.00",
     "to": "9455.99",
-    "gis": "807.3",
-    "gisOasCombined": "1414.76"
+    "gis": "818.38",
+    "gisOasCombined": "1431.91"
   },
   {
     "from": "9456.00",
     "to": "9471.99",
-    "gis": "806.3",
-    "gisOasCombined": "1413.76"
+    "gis": "817.38",
+    "gisOasCombined": "1430.91"
   },
   {
     "from": "9472.00",
     "to": "9503.99",
-    "gis": "805.3",
-    "gisOasCombined": "1412.76"
+    "gis": "816.38",
+    "gisOasCombined": "1429.91"
   },
   {
     "from": "9504.00",
     "to": "9551.99",
-    "gis": "804.3",
-    "gisOasCombined": "1411.76"
+    "gis": "815.38",
+    "gisOasCombined": "1428.91"
   },
   {
     "from": "9552.00",
     "to": "9567.99",
-    "gis": "803.3",
-    "gisOasCombined": "1410.76"
+    "gis": "814.38",
+    "gisOasCombined": "1427.91"
   },
   {
     "from": "9568.00",
     "to": "9599.99",
-    "gis": "802.3",
-    "gisOasCombined": "1409.76"
+    "gis": "813.38",
+    "gisOasCombined": "1426.91"
   },
   {
     "from": "9600.00",
     "to": "9647.99",
-    "gis": "801.3",
-    "gisOasCombined": "1408.76"
+    "gis": "812.38",
+    "gisOasCombined": "1425.91"
   },
   {
     "from": "9648.00",
     "to": "9663.99",
-    "gis": "800.3",
-    "gisOasCombined": "1407.76"
+    "gis": "811.38",
+    "gisOasCombined": "1424.91"
   },
   {
     "from": "9664.00",
     "to": "9695.99",
-    "gis": "799.3",
-    "gisOasCombined": "1406.76"
+    "gis": "810.38",
+    "gisOasCombined": "1423.91"
   },
   {
     "from": "9696.00",
     "to": "9743.99",
-    "gis": "798.3",
-    "gisOasCombined": "1405.76"
+    "gis": "809.38",
+    "gisOasCombined": "1422.91"
   },
   {
     "from": "9744.00",
     "to": "9759.99",
-    "gis": "797.3",
-    "gisOasCombined": "1404.76"
+    "gis": "808.38",
+    "gisOasCombined": "1421.91"
   },
   {
     "from": "9760.00",
     "to": "9791.99",
-    "gis": "796.3",
-    "gisOasCombined": "1403.76"
+    "gis": "807.38",
+    "gisOasCombined": "1420.91"
   },
   {
     "from": "9792.00",
     "to": "9839.99",
-    "gis": "795.3",
-    "gisOasCombined": "1402.76"
+    "gis": "806.38",
+    "gisOasCombined": "1419.91"
   },
   {
     "from": "9840.00",
     "to": "9855.99",
-    "gis": "794.3",
-    "gisOasCombined": "1401.76"
+    "gis": "805.38",
+    "gisOasCombined": "1418.91"
   },
   {
     "from": "9856.00",
     "to": "9887.99",
-    "gis": "793.3",
-    "gisOasCombined": "1400.76"
+    "gis": "804.38",
+    "gisOasCombined": "1417.91"
   },
   {
     "from": "9888.00",
     "to": "9935.99",
-    "gis": "792.3",
-    "gisOasCombined": "1399.76"
+    "gis": "803.38",
+    "gisOasCombined": "1416.91"
   },
   {
     "from": "9936.00",
     "to": "9951.99",
-    "gis": "791.3",
-    "gisOasCombined": "1398.76"
+    "gis": "802.38",
+    "gisOasCombined": "1415.91"
   },
   {
     "from": "9952.00",
     "to": "9983.99",
-    "gis": "790.3",
-    "gisOasCombined": "1397.76"
+    "gis": "801.38",
+    "gisOasCombined": "1414.91"
   },
   {
     "from": "9984.00",
     "to": "10031.99",
-    "gis": "789.3",
-    "gisOasCombined": "1396.76"
+    "gis": "800.38",
+    "gisOasCombined": "1413.91"
   },
   {
     "from": "10032.00",
     "to": "10047.99",
-    "gis": "788.3",
-    "gisOasCombined": "1395.76"
+    "gis": "799.38",
+    "gisOasCombined": "1412.91"
   },
   {
     "from": "10048.00",
     "to": "10079.99",
-    "gis": "787.3",
-    "gisOasCombined": "1394.76"
+    "gis": "798.38",
+    "gisOasCombined": "1411.91"
   },
   {
     "from": "10080.00",
     "to": "10127.99",
-    "gis": "786.3",
-    "gisOasCombined": "1393.76"
+    "gis": "797.38",
+    "gisOasCombined": "1410.91"
   },
   {
     "from": "10128.00",
     "to": "10143.99",
-    "gis": "785.3",
-    "gisOasCombined": "1392.76"
+    "gis": "796.38",
+    "gisOasCombined": "1409.91"
   },
   {
     "from": "10144.00",
     "to": "10175.99",
-    "gis": "784.3",
-    "gisOasCombined": "1391.76"
+    "gis": "795.38",
+    "gisOasCombined": "1408.91"
   },
   {
     "from": "10176.00",
     "to": "10223.99",
-    "gis": "783.3",
-    "gisOasCombined": "1390.76"
+    "gis": "794.38",
+    "gisOasCombined": "1407.91"
   },
   {
     "from": "10224.00",
     "to": "10239.99",
-    "gis": "782.3",
-    "gisOasCombined": "1389.76"
+    "gis": "793.38",
+    "gisOasCombined": "1406.91"
   },
   {
     "from": "10240.00",
     "to": "10271.99",
-    "gis": "781.3",
-    "gisOasCombined": "1388.76"
+    "gis": "792.38",
+    "gisOasCombined": "1405.91"
   },
   {
     "from": "10272.00",
     "to": "10319.99",
-    "gis": "780.3",
-    "gisOasCombined": "1387.76"
+    "gis": "791.38",
+    "gisOasCombined": "1404.91"
   },
   {
     "from": "10320.00",
     "to": "10335.99",
-    "gis": "779.3",
-    "gisOasCombined": "1386.76"
+    "gis": "790.38",
+    "gisOasCombined": "1403.91"
   },
   {
     "from": "10336.00",
     "to": "10367.99",
-    "gis": "778.3",
-    "gisOasCombined": "1385.76"
+    "gis": "789.38",
+    "gisOasCombined": "1402.91"
   },
   {
     "from": "10368.00",
     "to": "10415.99",
-    "gis": "777.3",
-    "gisOasCombined": "1384.76"
+    "gis": "788.38",
+    "gisOasCombined": "1401.91"
   },
   {
     "from": "10416.00",
     "to": "10431.99",
-    "gis": "776.3",
-    "gisOasCombined": "1383.76"
+    "gis": "787.38",
+    "gisOasCombined": "1400.91"
   },
   {
     "from": "10432.00",
     "to": "10463.99",
-    "gis": "775.3",
-    "gisOasCombined": "1382.76"
+    "gis": "786.38",
+    "gisOasCombined": "1399.91"
   },
   {
     "from": "10464.00",
     "to": "10511.99",
-    "gis": "774.3",
-    "gisOasCombined": "1381.76"
+    "gis": "785.38",
+    "gisOasCombined": "1398.91"
   },
   {
     "from": "10512.00",
     "to": "10527.99",
-    "gis": "773.3",
-    "gisOasCombined": "1380.76"
+    "gis": "784.38",
+    "gisOasCombined": "1397.91"
   },
   {
     "from": "10528.00",
     "to": "10559.99",
-    "gis": "772.3",
-    "gisOasCombined": "1379.76"
+    "gis": "783.38",
+    "gisOasCombined": "1396.91"
   },
   {
     "from": "10560.00",
     "to": "10607.99",
-    "gis": "771.3",
-    "gisOasCombined": "1378.76"
+    "gis": "782.38",
+    "gisOasCombined": "1395.91"
   },
   {
     "from": "10608.00",
     "to": "10623.99",
-    "gis": "770.3",
-    "gisOasCombined": "1377.76"
+    "gis": "781.38",
+    "gisOasCombined": "1394.91"
   },
   {
     "from": "10624.00",
     "to": "10655.99",
-    "gis": "769.3",
-    "gisOasCombined": "1376.76"
+    "gis": "780.38",
+    "gisOasCombined": "1393.91"
   },
   {
     "from": "10656.00",
     "to": "10703.99",
-    "gis": "768.3",
-    "gisOasCombined": "1375.76"
+    "gis": "779.38",
+    "gisOasCombined": "1392.91"
   },
   {
     "from": "10704.00",
     "to": "10719.99",
-    "gis": "767.3",
-    "gisOasCombined": "1374.76"
+    "gis": "778.38",
+    "gisOasCombined": "1391.91"
   },
   {
     "from": "10720.00",
     "to": "10751.99",
-    "gis": "766.3",
-    "gisOasCombined": "1373.76"
+    "gis": "777.38",
+    "gisOasCombined": "1390.91"
   },
   {
     "from": "10752.00",
     "to": "10799.99",
-    "gis": "765.3",
-    "gisOasCombined": "1372.76"
+    "gis": "776.38",
+    "gisOasCombined": "1389.91"
   },
   {
     "from": "10800.00",
     "to": "10815.99",
-    "gis": "764.3",
-    "gisOasCombined": "1371.76"
+    "gis": "775.38",
+    "gisOasCombined": "1388.91"
   },
   {
     "from": "10816.00",
     "to": "10847.99",
-    "gis": "763.3",
-    "gisOasCombined": "1370.76"
+    "gis": "774.38",
+    "gisOasCombined": "1387.91"
   },
   {
     "from": "10848.00",
     "to": "10895.99",
-    "gis": "762.3",
-    "gisOasCombined": "1369.76"
+    "gis": "773.38",
+    "gisOasCombined": "1386.91"
   },
   {
     "from": "10896.00",
     "to": "10911.99",
-    "gis": "761.3",
-    "gisOasCombined": "1368.76"
+    "gis": "772.38",
+    "gisOasCombined": "1385.91"
   },
   {
     "from": "10912.00",
     "to": "10943.99",
-    "gis": "760.3",
-    "gisOasCombined": "1367.76"
+    "gis": "771.38",
+    "gisOasCombined": "1384.91"
   },
   {
     "from": "10944.00",
     "to": "10991.99",
-    "gis": "759.3",
-    "gisOasCombined": "1366.76"
+    "gis": "770.38",
+    "gisOasCombined": "1383.91"
   },
   {
     "from": "10992.00",
     "to": "11007.99",
-    "gis": "758.3",
-    "gisOasCombined": "1365.76"
+    "gis": "769.38",
+    "gisOasCombined": "1382.91"
   },
   {
     "from": "11008.00",
     "to": "11039.99",
-    "gis": "757.3",
-    "gisOasCombined": "1364.76"
+    "gis": "768.38",
+    "gisOasCombined": "1381.91"
   },
   {
     "from": "11040.00",
     "to": "11087.99",
-    "gis": "756.3",
-    "gisOasCombined": "1363.76"
+    "gis": "767.38",
+    "gisOasCombined": "1380.91"
   },
   {
     "from": "11088.00",
     "to": "11103.99",
-    "gis": "755.3",
-    "gisOasCombined": "1362.76"
+    "gis": "766.38",
+    "gisOasCombined": "1379.91"
   },
   {
     "from": "11104.00",
     "to": "11135.99",
-    "gis": "754.3",
-    "gisOasCombined": "1361.76"
+    "gis": "765.38",
+    "gisOasCombined": "1378.91"
   },
   {
     "from": "11136.00",
     "to": "11183.99",
-    "gis": "753.3",
-    "gisOasCombined": "1360.76"
+    "gis": "764.38",
+    "gisOasCombined": "1377.91"
   },
   {
     "from": "11184.00",
     "to": "11199.99",
-    "gis": "752.3",
-    "gisOasCombined": "1359.76"
+    "gis": "763.38",
+    "gisOasCombined": "1376.91"
   },
   {
     "from": "11200.00",
     "to": "11231.99",
-    "gis": "751.3",
-    "gisOasCombined": "1358.76"
+    "gis": "762.38",
+    "gisOasCombined": "1375.91"
   },
   {
     "from": "11232.00",
     "to": "11279.99",
-    "gis": "750.3",
-    "gisOasCombined": "1357.76"
+    "gis": "761.38",
+    "gisOasCombined": "1374.91"
   },
   {
     "from": "11280.00",
     "to": "11295.99",
-    "gis": "749.3",
-    "gisOasCombined": "1356.76"
+    "gis": "760.38",
+    "gisOasCombined": "1373.91"
   },
   {
     "from": "11296.00",
     "to": "11327.99",
-    "gis": "748.3",
-    "gisOasCombined": "1355.76"
+    "gis": "759.38",
+    "gisOasCombined": "1372.91"
   },
   {
     "from": "11328.00",
     "to": "11375.99",
-    "gis": "747.3",
-    "gisOasCombined": "1354.76"
+    "gis": "758.38",
+    "gisOasCombined": "1371.91"
   },
   {
     "from": "11376.00",
     "to": "11391.99",
-    "gis": "746.3",
-    "gisOasCombined": "1353.76"
+    "gis": "757.38",
+    "gisOasCombined": "1370.91"
   },
   {
     "from": "11392.00",
     "to": "11423.99",
-    "gis": "745.3",
-    "gisOasCombined": "1352.76"
+    "gis": "756.38",
+    "gisOasCombined": "1369.91"
   },
   {
     "from": "11424.00",
     "to": "11471.99",
-    "gis": "744.3",
-    "gisOasCombined": "1351.76"
+    "gis": "755.38",
+    "gisOasCombined": "1368.91"
   },
   {
     "from": "11472.00",
     "to": "11487.99",
-    "gis": "743.3",
-    "gisOasCombined": "1350.76"
+    "gis": "754.38",
+    "gisOasCombined": "1367.91"
   },
   {
     "from": "11488.00",
     "to": "11519.99",
-    "gis": "742.3",
-    "gisOasCombined": "1349.76"
+    "gis": "753.38",
+    "gisOasCombined": "1366.91"
   },
   {
     "from": "11520.00",
     "to": "11567.99",
-    "gis": "741.3",
-    "gisOasCombined": "1348.76"
+    "gis": "752.38",
+    "gisOasCombined": "1365.91"
   },
   {
     "from": "11568.00",
     "to": "11583.99",
-    "gis": "740.3",
-    "gisOasCombined": "1347.76"
+    "gis": "751.38",
+    "gisOasCombined": "1364.91"
   },
   {
     "from": "11584.00",
     "to": "11615.99",
-    "gis": "739.3",
-    "gisOasCombined": "1346.76"
+    "gis": "750.38",
+    "gisOasCombined": "1363.91"
   },
   {
     "from": "11616.00",
     "to": "11663.99",
-    "gis": "738.3",
-    "gisOasCombined": "1345.76"
+    "gis": "749.38",
+    "gisOasCombined": "1362.91"
   },
   {
     "from": "11664.00",
     "to": "11679.99",
-    "gis": "737.3",
-    "gisOasCombined": "1344.76"
+    "gis": "748.38",
+    "gisOasCombined": "1361.91"
   },
   {
     "from": "11680.00",
     "to": "11711.99",
-    "gis": "736.3",
-    "gisOasCombined": "1343.76"
+    "gis": "747.38",
+    "gisOasCombined": "1360.91"
   },
   {
     "from": "11712.00",
     "to": "11759.99",
-    "gis": "735.3",
-    "gisOasCombined": "1342.76"
+    "gis": "746.38",
+    "gisOasCombined": "1359.91"
   },
   {
     "from": "11760.00",
     "to": "11775.99",
-    "gis": "734.3",
-    "gisOasCombined": "1341.76"
+    "gis": "745.38",
+    "gisOasCombined": "1358.91"
   },
   {
     "from": "11776.00",
     "to": "11807.99",
-    "gis": "733.3",
-    "gisOasCombined": "1340.76"
+    "gis": "744.38",
+    "gisOasCombined": "1357.91"
   },
   {
     "from": "11808.00",
     "to": "11855.99",
-    "gis": "732.3",
-    "gisOasCombined": "1339.76"
+    "gis": "743.38",
+    "gisOasCombined": "1356.91"
   },
   {
     "from": "11856.00",
     "to": "11871.99",
-    "gis": "731.3",
-    "gisOasCombined": "1338.76"
+    "gis": "742.38",
+    "gisOasCombined": "1355.91"
   },
   {
     "from": "11872.00",
     "to": "11903.99",
-    "gis": "730.3",
-    "gisOasCombined": "1337.76"
+    "gis": "741.38",
+    "gisOasCombined": "1354.91"
   },
   {
     "from": "11904.00",
     "to": "11951.99",
-    "gis": "729.3",
-    "gisOasCombined": "1336.76"
+    "gis": "740.38",
+    "gisOasCombined": "1353.91"
   },
   {
     "from": "11952.00",
     "to": "11967.99",
-    "gis": "728.3",
-    "gisOasCombined": "1335.76"
+    "gis": "739.38",
+    "gisOasCombined": "1352.91"
   },
   {
     "from": "11968.00",
     "to": "11999.99",
-    "gis": "727.3",
-    "gisOasCombined": "1334.76"
+    "gis": "738.38",
+    "gisOasCombined": "1351.91"
   },
   {
     "from": "12000.00",
     "to": "12047.99",
-    "gis": "726.3",
-    "gisOasCombined": "1333.76"
+    "gis": "737.38",
+    "gisOasCombined": "1350.91"
   },
   {
     "from": "12048.00",
     "to": "12063.99",
-    "gis": "725.3",
-    "gisOasCombined": "1332.76"
+    "gis": "736.38",
+    "gisOasCombined": "1349.91"
   },
   {
     "from": "12064.00",
     "to": "12095.99",
-    "gis": "724.3",
-    "gisOasCombined": "1331.76"
+    "gis": "735.38",
+    "gisOasCombined": "1348.91"
   },
   {
     "from": "12096.00",
     "to": "12143.99",
-    "gis": "723.3",
-    "gisOasCombined": "1330.76"
+    "gis": "734.38",
+    "gisOasCombined": "1347.91"
   },
   {
     "from": "12144.00",
     "to": "12159.99",
-    "gis": "722.3",
-    "gisOasCombined": "1329.76"
+    "gis": "733.38",
+    "gisOasCombined": "1346.91"
   },
   {
     "from": "12160.00",
     "to": "12191.99",
-    "gis": "721.3",
-    "gisOasCombined": "1328.76"
+    "gis": "732.38",
+    "gisOasCombined": "1345.91"
   },
   {
     "from": "12192.00",
     "to": "12239.99",
-    "gis": "720.3",
-    "gisOasCombined": "1327.76"
+    "gis": "731.38",
+    "gisOasCombined": "1344.91"
   },
   {
     "from": "12240.00",
     "to": "12255.99",
-    "gis": "719.3",
-    "gisOasCombined": "1326.76"
+    "gis": "730.38",
+    "gisOasCombined": "1343.91"
   },
   {
     "from": "12256.00",
     "to": "12287.99",
-    "gis": "718.3",
-    "gisOasCombined": "1325.76"
+    "gis": "729.38",
+    "gisOasCombined": "1342.91"
   },
   {
     "from": "12288.00",
     "to": "12335.99",
-    "gis": "717.3",
-    "gisOasCombined": "1324.76"
+    "gis": "728.38",
+    "gisOasCombined": "1341.91"
   },
   {
     "from": "12336.00",
     "to": "12351.99",
-    "gis": "716.3",
-    "gisOasCombined": "1323.76"
+    "gis": "727.38",
+    "gisOasCombined": "1340.91"
   },
   {
     "from": "12352.00",
     "to": "12383.99",
-    "gis": "715.3",
-    "gisOasCombined": "1322.76"
+    "gis": "726.38",
+    "gisOasCombined": "1339.91"
   },
   {
     "from": "12384.00",
     "to": "12431.99",
-    "gis": "714.3",
-    "gisOasCombined": "1321.76"
+    "gis": "725.38",
+    "gisOasCombined": "1338.91"
   },
   {
     "from": "12432.00",
     "to": "12447.99",
-    "gis": "713.3",
-    "gisOasCombined": "1320.76"
+    "gis": "724.38",
+    "gisOasCombined": "1337.91"
   },
   {
     "from": "12448.00",
     "to": "12479.99",
-    "gis": "712.3",
-    "gisOasCombined": "1319.76"
+    "gis": "723.38",
+    "gisOasCombined": "1336.91"
   },
   {
     "from": "12480.00",
     "to": "12527.99",
-    "gis": "711.3",
-    "gisOasCombined": "1318.76"
+    "gis": "722.38",
+    "gisOasCombined": "1335.91"
   },
   {
     "from": "12528.00",
     "to": "12543.99",
-    "gis": "710.3",
-    "gisOasCombined": "1317.76"
+    "gis": "721.38",
+    "gisOasCombined": "1334.91"
   },
   {
     "from": "12544.00",
     "to": "12575.99",
-    "gis": "709.3",
-    "gisOasCombined": "1316.76"
+    "gis": "720.38",
+    "gisOasCombined": "1333.91"
   },
   {
     "from": "12576.00",
     "to": "12623.99",
-    "gis": "708.3",
-    "gisOasCombined": "1315.76"
+    "gis": "719.38",
+    "gisOasCombined": "1332.91"
   },
   {
     "from": "12624.00",
     "to": "12639.99",
-    "gis": "707.3",
-    "gisOasCombined": "1314.76"
+    "gis": "718.38",
+    "gisOasCombined": "1331.91"
   },
   {
     "from": "12640.00",
     "to": "12671.99",
-    "gis": "706.3",
-    "gisOasCombined": "1313.76"
+    "gis": "717.38",
+    "gisOasCombined": "1330.91"
   },
   {
     "from": "12672.00",
     "to": "12719.99",
-    "gis": "705.3",
-    "gisOasCombined": "1312.76"
+    "gis": "716.38",
+    "gisOasCombined": "1329.91"
   },
   {
     "from": "12720.00",
     "to": "12735.99",
-    "gis": "704.3",
-    "gisOasCombined": "1311.76"
+    "gis": "715.38",
+    "gisOasCombined": "1328.91"
   },
   {
     "from": "12736.00",
     "to": "12767.99",
-    "gis": "703.3",
-    "gisOasCombined": "1310.76"
+    "gis": "714.38",
+    "gisOasCombined": "1327.91"
   },
   {
     "from": "12768.00",
     "to": "12815.99",
-    "gis": "702.3",
-    "gisOasCombined": "1309.76"
+    "gis": "713.38",
+    "gisOasCombined": "1326.91"
   },
   {
     "from": "12816.00",
     "to": "12831.99",
-    "gis": "701.3",
-    "gisOasCombined": "1308.76"
+    "gis": "712.38",
+    "gisOasCombined": "1325.91"
   },
   {
     "from": "12832.00",
     "to": "12863.99",
-    "gis": "700.3",
-    "gisOasCombined": "1307.76"
+    "gis": "711.38",
+    "gisOasCombined": "1324.91"
   },
   {
     "from": "12864.00",
     "to": "12911.99",
-    "gis": "699.3",
-    "gisOasCombined": "1306.76"
+    "gis": "710.38",
+    "gisOasCombined": "1323.91"
   },
   {
     "from": "12912.00",
     "to": "12927.99",
-    "gis": "698.3",
-    "gisOasCombined": "1305.76"
+    "gis": "709.38",
+    "gisOasCombined": "1322.91"
   },
   {
     "from": "12928.00",
     "to": "12959.99",
-    "gis": "697.3",
-    "gisOasCombined": "1304.76"
+    "gis": "708.38",
+    "gisOasCombined": "1321.91"
   },
   {
     "from": "12960.00",
     "to": "13007.99",
-    "gis": "696.3",
-    "gisOasCombined": "1303.76"
+    "gis": "707.38",
+    "gisOasCombined": "1320.91"
   },
   {
     "from": "13008.00",
     "to": "13023.99",
-    "gis": "695.3",
-    "gisOasCombined": "1302.76"
+    "gis": "706.38",
+    "gisOasCombined": "1319.91"
   },
   {
     "from": "13024.00",
     "to": "13055.99",
-    "gis": "694.3",
-    "gisOasCombined": "1301.76"
+    "gis": "705.38",
+    "gisOasCombined": "1318.91"
   },
   {
     "from": "13056.00",
     "to": "13103.99",
-    "gis": "693.3",
-    "gisOasCombined": "1300.76"
+    "gis": "704.38",
+    "gisOasCombined": "1317.91"
   },
   {
     "from": "13104.00",
     "to": "13119.99",
-    "gis": "692.3",
-    "gisOasCombined": "1299.76"
+    "gis": "703.38",
+    "gisOasCombined": "1316.91"
   },
   {
     "from": "13120.00",
     "to": "13151.99",
-    "gis": "691.3",
-    "gisOasCombined": "1298.76"
+    "gis": "702.38",
+    "gisOasCombined": "1315.91"
   },
   {
     "from": "13152.00",
     "to": "13199.99",
-    "gis": "690.3",
-    "gisOasCombined": "1297.76"
+    "gis": "701.38",
+    "gisOasCombined": "1314.91"
   },
   {
     "from": "13200.00",
     "to": "13215.99",
-    "gis": "689.3",
-    "gisOasCombined": "1296.76"
+    "gis": "700.38",
+    "gisOasCombined": "1313.91"
   },
   {
     "from": "13216.00",
     "to": "13247.99",
-    "gis": "688.3",
-    "gisOasCombined": "1295.76"
+    "gis": "699.38",
+    "gisOasCombined": "1312.91"
   },
   {
     "from": "13248.00",
     "to": "13295.99",
-    "gis": "687.3",
-    "gisOasCombined": "1294.76"
+    "gis": "698.38",
+    "gisOasCombined": "1311.91"
   },
   {
     "from": "13296.00",
     "to": "13311.99",
-    "gis": "686.3",
-    "gisOasCombined": "1293.76"
+    "gis": "697.38",
+    "gisOasCombined": "1310.91"
   },
   {
     "from": "13312.00",
     "to": "13343.99",
-    "gis": "685.3",
-    "gisOasCombined": "1292.76"
+    "gis": "696.38",
+    "gisOasCombined": "1309.91"
   },
   {
     "from": "13344.00",
     "to": "13391.99",
-    "gis": "684.3",
-    "gisOasCombined": "1291.76"
+    "gis": "695.38",
+    "gisOasCombined": "1308.91"
   },
   {
     "from": "13392.00",
     "to": "13407.99",
-    "gis": "683.3",
-    "gisOasCombined": "1290.76"
+    "gis": "694.38",
+    "gisOasCombined": "1307.91"
   },
   {
     "from": "13408.00",
     "to": "13439.99",
-    "gis": "682.3",
-    "gisOasCombined": "1289.76"
+    "gis": "693.38",
+    "gisOasCombined": "1306.91"
   },
   {
     "from": "13440.00",
     "to": "13487.99",
-    "gis": "681.3",
-    "gisOasCombined": "1288.76"
+    "gis": "692.38",
+    "gisOasCombined": "1305.91"
   },
   {
     "from": "13488.00",
     "to": "13503.99",
-    "gis": "680.3",
-    "gisOasCombined": "1287.76"
+    "gis": "691.38",
+    "gisOasCombined": "1304.91"
   },
   {
     "from": "13504.00",
     "to": "13535.99",
-    "gis": "679.3",
-    "gisOasCombined": "1286.76"
+    "gis": "690.38",
+    "gisOasCombined": "1303.91"
   },
   {
     "from": "13536.00",
     "to": "13583.99",
-    "gis": "678.3",
-    "gisOasCombined": "1285.76"
+    "gis": "689.38",
+    "gisOasCombined": "1302.91"
   },
   {
     "from": "13584.00",
     "to": "13599.99",
-    "gis": "677.3",
-    "gisOasCombined": "1284.76"
+    "gis": "688.38",
+    "gisOasCombined": "1301.91"
   },
   {
     "from": "13600.00",
     "to": "13631.99",
-    "gis": "676.3",
-    "gisOasCombined": "1283.76"
+    "gis": "687.38",
+    "gisOasCombined": "1300.91"
   },
   {
     "from": "13632.00",
     "to": "13679.99",
-    "gis": "675.3",
-    "gisOasCombined": "1282.76"
+    "gis": "686.38",
+    "gisOasCombined": "1299.91"
   },
   {
     "from": "13680.00",
     "to": "13695.99",
-    "gis": "674.3",
-    "gisOasCombined": "1281.76"
+    "gis": "685.38",
+    "gisOasCombined": "1298.91"
   },
   {
     "from": "13696.00",
     "to": "13727.99",
-    "gis": "673.3",
-    "gisOasCombined": "1280.76"
+    "gis": "684.38",
+    "gisOasCombined": "1297.91"
   },
   {
     "from": "13728.00",
     "to": "13775.99",
-    "gis": "672.3",
-    "gisOasCombined": "1279.76"
+    "gis": "683.38",
+    "gisOasCombined": "1296.91"
   },
   {
     "from": "13776.00",
     "to": "13791.99",
-    "gis": "671.3",
-    "gisOasCombined": "1278.76"
+    "gis": "682.38",
+    "gisOasCombined": "1295.91"
   },
   {
     "from": "13792.00",
     "to": "13823.99",
-    "gis": "670.3",
-    "gisOasCombined": "1277.76"
+    "gis": "681.38",
+    "gisOasCombined": "1294.91"
   },
   {
     "from": "13824.00",
     "to": "13871.99",
-    "gis": "669.3",
-    "gisOasCombined": "1276.76"
+    "gis": "680.38",
+    "gisOasCombined": "1293.91"
   },
   {
     "from": "13872.00",
     "to": "13887.99",
-    "gis": "668.3",
-    "gisOasCombined": "1275.76"
+    "gis": "679.38",
+    "gisOasCombined": "1292.91"
   },
   {
     "from": "13888.00",
     "to": "13919.99",
-    "gis": "667.3",
-    "gisOasCombined": "1274.76"
+    "gis": "678.38",
+    "gisOasCombined": "1291.91"
   },
   {
     "from": "13920.00",
     "to": "13967.99",
-    "gis": "666.3",
-    "gisOasCombined": "1273.76"
+    "gis": "677.38",
+    "gisOasCombined": "1290.91"
   },
   {
     "from": "13968.00",
     "to": "13983.99",
-    "gis": "665.3",
-    "gisOasCombined": "1272.76"
+    "gis": "676.38",
+    "gisOasCombined": "1289.91"
   },
   {
     "from": "13984.00",
     "to": "14015.99",
-    "gis": "664.3",
-    "gisOasCombined": "1271.76"
+    "gis": "675.38",
+    "gisOasCombined": "1288.91"
   },
   {
     "from": "14016.00",
     "to": "14063.99",
-    "gis": "663.3",
-    "gisOasCombined": "1270.76"
+    "gis": "674.38",
+    "gisOasCombined": "1287.91"
   },
   {
     "from": "14064.00",
     "to": "14079.99",
-    "gis": "662.3",
-    "gisOasCombined": "1269.76"
+    "gis": "673.38",
+    "gisOasCombined": "1286.91"
   },
   {
     "from": "14080.00",
     "to": "14111.99",
-    "gis": "661.3",
-    "gisOasCombined": "1268.76"
+    "gis": "672.38",
+    "gisOasCombined": "1285.91"
   },
   {
     "from": "14112.00",
     "to": "14159.99",
-    "gis": "660.3",
-    "gisOasCombined": "1267.76"
+    "gis": "671.38",
+    "gisOasCombined": "1284.91"
   },
   {
     "from": "14160.00",
     "to": "14175.99",
-    "gis": "659.3",
-    "gisOasCombined": "1266.76"
+    "gis": "670.38",
+    "gisOasCombined": "1283.91"
   },
   {
     "from": "14176.00",
     "to": "14207.99",
-    "gis": "658.3",
-    "gisOasCombined": "1265.76"
+    "gis": "669.38",
+    "gisOasCombined": "1282.91"
   },
   {
     "from": "14208.00",
     "to": "14255.99",
-    "gis": "657.3",
-    "gisOasCombined": "1264.76"
+    "gis": "668.38",
+    "gisOasCombined": "1281.91"
   },
   {
     "from": "14256.00",
     "to": "14271.99",
-    "gis": "656.3",
-    "gisOasCombined": "1263.76"
+    "gis": "667.38",
+    "gisOasCombined": "1280.91"
   },
   {
     "from": "14272.00",
     "to": "14303.99",
-    "gis": "655.3",
-    "gisOasCombined": "1262.76"
+    "gis": "666.38",
+    "gisOasCombined": "1279.91"
   },
   {
     "from": "14304.00",
     "to": "14351.99",
-    "gis": "654.3",
-    "gisOasCombined": "1261.76"
+    "gis": "665.38",
+    "gisOasCombined": "1278.91"
   },
   {
     "from": "14352.00",
     "to": "14367.99",
-    "gis": "653.3",
-    "gisOasCombined": "1260.76"
+    "gis": "664.38",
+    "gisOasCombined": "1277.91"
   },
   {
     "from": "14368.00",
     "to": "14399.99",
-    "gis": "652.3",
-    "gisOasCombined": "1259.76"
+    "gis": "663.38",
+    "gisOasCombined": "1276.91"
   },
   {
     "from": "14400.00",
     "to": "14447.99",
-    "gis": "651.3",
-    "gisOasCombined": "1258.76"
+    "gis": "662.38",
+    "gisOasCombined": "1275.91"
   },
   {
     "from": "14448.00",
     "to": "14463.99",
-    "gis": "650.3",
-    "gisOasCombined": "1257.76"
+    "gis": "661.38",
+    "gisOasCombined": "1274.91"
   },
   {
     "from": "14464.00",
     "to": "14495.99",
-    "gis": "649.3",
-    "gisOasCombined": "1256.76"
+    "gis": "660.38",
+    "gisOasCombined": "1273.91"
   },
   {
     "from": "14496.00",
     "to": "14543.99",
-    "gis": "648.3",
-    "gisOasCombined": "1255.76"
+    "gis": "659.38",
+    "gisOasCombined": "1272.91"
   },
   {
     "from": "14544.00",
     "to": "14559.99",
-    "gis": "647.3",
-    "gisOasCombined": "1254.76"
+    "gis": "658.38",
+    "gisOasCombined": "1271.91"
   },
   {
     "from": "14560.00",
     "to": "14591.99",
-    "gis": "646.3",
-    "gisOasCombined": "1253.76"
+    "gis": "657.38",
+    "gisOasCombined": "1270.91"
   },
   {
     "from": "14592.00",
     "to": "14639.99",
-    "gis": "645.3",
-    "gisOasCombined": "1252.76"
+    "gis": "656.38",
+    "gisOasCombined": "1269.91"
   },
   {
     "from": "14640.00",
     "to": "14655.99",
-    "gis": "644.3",
-    "gisOasCombined": "1251.76"
+    "gis": "655.38",
+    "gisOasCombined": "1268.91"
   },
   {
     "from": "14656.00",
     "to": "14687.99",
-    "gis": "643.3",
-    "gisOasCombined": "1250.76"
+    "gis": "654.38",
+    "gisOasCombined": "1267.91"
   },
   {
     "from": "14688.00",
     "to": "14735.99",
-    "gis": "642.3",
-    "gisOasCombined": "1249.76"
+    "gis": "653.38",
+    "gisOasCombined": "1266.91"
   },
   {
     "from": "14736.00",
     "to": "14751.99",
-    "gis": "641.3",
-    "gisOasCombined": "1248.76"
+    "gis": "652.38",
+    "gisOasCombined": "1265.91"
   },
   {
     "from": "14752.00",
     "to": "14783.99",
-    "gis": "640.3",
-    "gisOasCombined": "1247.76"
+    "gis": "651.38",
+    "gisOasCombined": "1264.91"
   },
   {
     "from": "14784.00",
     "to": "14831.99",
-    "gis": "639.3",
-    "gisOasCombined": "1246.76"
+    "gis": "650.38",
+    "gisOasCombined": "1263.91"
   },
   {
     "from": "14832.00",
     "to": "14847.99",
-    "gis": "638.3",
-    "gisOasCombined": "1245.76"
+    "gis": "649.38",
+    "gisOasCombined": "1262.91"
   },
   {
     "from": "14848.00",
     "to": "14879.99",
-    "gis": "637.3",
-    "gisOasCombined": "1244.76"
+    "gis": "648.38",
+    "gisOasCombined": "1261.91"
   },
   {
     "from": "14880.00",
     "to": "14927.99",
-    "gis": "636.3",
-    "gisOasCombined": "1243.76"
+    "gis": "647.38",
+    "gisOasCombined": "1260.91"
   },
   {
     "from": "14928.00",
     "to": "14943.99",
-    "gis": "635.3",
-    "gisOasCombined": "1242.76"
+    "gis": "646.38",
+    "gisOasCombined": "1259.91"
   },
   {
     "from": "14944.00",
     "to": "14975.99",
-    "gis": "634.3",
-    "gisOasCombined": "1241.76"
+    "gis": "645.38",
+    "gisOasCombined": "1258.91"
   },
   {
     "from": "14976.00",
     "to": "15023.99",
-    "gis": "633.3",
-    "gisOasCombined": "1240.76"
+    "gis": "644.38",
+    "gisOasCombined": "1257.91"
   },
   {
     "from": "15024.00",
     "to": "15039.99",
-    "gis": "632.3",
-    "gisOasCombined": "1239.76"
+    "gis": "643.38",
+    "gisOasCombined": "1256.91"
   },
   {
     "from": "15040.00",
     "to": "15071.99",
-    "gis": "631.3",
-    "gisOasCombined": "1238.76"
+    "gis": "642.38",
+    "gisOasCombined": "1255.91"
   },
   {
     "from": "15072.00",
     "to": "15119.99",
-    "gis": "630.3",
-    "gisOasCombined": "1237.76"
+    "gis": "641.38",
+    "gisOasCombined": "1254.91"
   },
   {
     "from": "15120.00",
     "to": "15135.99",
-    "gis": "629.3",
-    "gisOasCombined": "1236.76"
+    "gis": "640.38",
+    "gisOasCombined": "1253.91"
   },
   {
     "from": "15136.00",
     "to": "15167.99",
-    "gis": "628.3",
-    "gisOasCombined": "1235.76"
+    "gis": "639.38",
+    "gisOasCombined": "1252.91"
   },
   {
     "from": "15168.00",
     "to": "15215.99",
-    "gis": "627.3",
-    "gisOasCombined": "1234.76"
+    "gis": "638.38",
+    "gisOasCombined": "1251.91"
   },
   {
     "from": "15216.00",
     "to": "15231.99",
-    "gis": "626.3",
-    "gisOasCombined": "1233.76"
+    "gis": "637.38",
+    "gisOasCombined": "1250.91"
   },
   {
     "from": "15232.00",
     "to": "15263.99",
-    "gis": "625.3",
-    "gisOasCombined": "1232.76"
+    "gis": "636.38",
+    "gisOasCombined": "1249.91"
   },
   {
     "from": "15264.00",
     "to": "15311.99",
-    "gis": "624.3",
-    "gisOasCombined": "1231.76"
+    "gis": "635.38",
+    "gisOasCombined": "1248.91"
   },
   {
     "from": "15312.00",
     "to": "15327.99",
-    "gis": "623.3",
-    "gisOasCombined": "1230.76"
+    "gis": "634.38",
+    "gisOasCombined": "1247.91"
   },
   {
     "from": "15328.00",
     "to": "15359.99",
-    "gis": "622.3",
-    "gisOasCombined": "1229.76"
+    "gis": "633.38",
+    "gisOasCombined": "1246.91"
   },
   {
     "from": "15360.00",
     "to": "15407.99",
-    "gis": "621.3",
-    "gisOasCombined": "1228.76"
+    "gis": "632.38",
+    "gisOasCombined": "1245.91"
   },
   {
     "from": "15408.00",
     "to": "15423.99",
-    "gis": "620.3",
-    "gisOasCombined": "1227.76"
+    "gis": "631.38",
+    "gisOasCombined": "1244.91"
   },
   {
     "from": "15424.00",
     "to": "15455.99",
-    "gis": "619.3",
-    "gisOasCombined": "1226.76"
+    "gis": "630.38",
+    "gisOasCombined": "1243.91"
   },
   {
     "from": "15456.00",
     "to": "15503.99",
-    "gis": "618.3",
-    "gisOasCombined": "1225.76"
+    "gis": "629.38",
+    "gisOasCombined": "1242.91"
   },
   {
     "from": "15504.00",
     "to": "15519.99",
-    "gis": "617.3",
-    "gisOasCombined": "1224.76"
+    "gis": "628.38",
+    "gisOasCombined": "1241.91"
   },
   {
     "from": "15520.00",
     "to": "15551.99",
-    "gis": "616.3",
-    "gisOasCombined": "1223.76"
+    "gis": "627.38",
+    "gisOasCombined": "1240.91"
   },
   {
     "from": "15552.00",
     "to": "15599.99",
-    "gis": "615.3",
-    "gisOasCombined": "1222.76"
+    "gis": "626.38",
+    "gisOasCombined": "1239.91"
   },
   {
     "from": "15600.00",
     "to": "15615.99",
-    "gis": "614.3",
-    "gisOasCombined": "1221.76"
+    "gis": "625.38",
+    "gisOasCombined": "1238.91"
   },
   {
     "from": "15616.00",
     "to": "15647.99",
-    "gis": "613.3",
-    "gisOasCombined": "1220.76"
+    "gis": "624.38",
+    "gisOasCombined": "1237.91"
   },
   {
     "from": "15648.00",
     "to": "15695.99",
-    "gis": "612.3",
-    "gisOasCombined": "1219.76"
+    "gis": "623.38",
+    "gisOasCombined": "1236.91"
   },
   {
     "from": "15696.00",
     "to": "15711.99",
-    "gis": "611.3",
-    "gisOasCombined": "1218.76"
+    "gis": "622.38",
+    "gisOasCombined": "1235.91"
   },
   {
     "from": "15712.00",
     "to": "15743.99",
-    "gis": "610.3",
-    "gisOasCombined": "1217.76"
+    "gis": "621.38",
+    "gisOasCombined": "1234.91"
   },
   {
     "from": "15744.00",
     "to": "15791.99",
-    "gis": "609.3",
-    "gisOasCombined": "1216.76"
+    "gis": "620.38",
+    "gisOasCombined": "1233.91"
   },
   {
     "from": "15792.00",
     "to": "15807.99",
-    "gis": "608.3",
-    "gisOasCombined": "1215.76"
+    "gis": "619.38",
+    "gisOasCombined": "1232.91"
   },
   {
     "from": "15808.00",
     "to": "15839.99",
-    "gis": "607.3",
-    "gisOasCombined": "1214.76"
+    "gis": "618.38",
+    "gisOasCombined": "1231.91"
   },
   {
     "from": "15840.00",
     "to": "15887.99",
-    "gis": "606.3",
-    "gisOasCombined": "1213.76"
+    "gis": "617.38",
+    "gisOasCombined": "1230.91"
   },
   {
     "from": "15888.00",
     "to": "15903.99",
-    "gis": "605.3",
-    "gisOasCombined": "1212.76"
+    "gis": "616.38",
+    "gisOasCombined": "1229.91"
   },
   {
     "from": "15904.00",
     "to": "15935.99",
-    "gis": "604.3",
-    "gisOasCombined": "1211.76"
+    "gis": "615.38",
+    "gisOasCombined": "1228.91"
   },
   {
     "from": "15936.00",
     "to": "15983.99",
-    "gis": "603.3",
-    "gisOasCombined": "1210.76"
+    "gis": "614.38",
+    "gisOasCombined": "1227.91"
   },
   {
     "from": "15984.00",
     "to": "15999.99",
-    "gis": "602.3",
-    "gisOasCombined": "1209.76"
+    "gis": "613.38",
+    "gisOasCombined": "1226.91"
   },
   {
     "from": "16000.00",
     "to": "16031.99",
-    "gis": "601.3",
-    "gisOasCombined": "1208.76"
+    "gis": "612.38",
+    "gisOasCombined": "1225.91"
   },
   {
     "from": "16032.00",
     "to": "16079.99",
-    "gis": "600.3",
-    "gisOasCombined": "1207.76"
+    "gis": "611.38",
+    "gisOasCombined": "1224.91"
   },
   {
     "from": "16080.00",
     "to": "16095.99",
-    "gis": "599.3",
-    "gisOasCombined": "1206.76"
+    "gis": "610.38",
+    "gisOasCombined": "1223.91"
   },
   {
     "from": "16096.00",
     "to": "16127.99",
-    "gis": "598.3",
-    "gisOasCombined": "1205.76"
+    "gis": "609.38",
+    "gisOasCombined": "1222.91"
   },
   {
     "from": "16128.00",
     "to": "16175.99",
-    "gis": "597.3",
-    "gisOasCombined": "1204.76"
+    "gis": "608.38",
+    "gisOasCombined": "1221.91"
   },
   {
     "from": "16176.00",
     "to": "16191.99",
-    "gis": "596.3",
-    "gisOasCombined": "1203.76"
+    "gis": "607.38",
+    "gisOasCombined": "1220.91"
   },
   {
     "from": "16192.00",
     "to": "16223.99",
-    "gis": "595.3",
-    "gisOasCombined": "1202.76"
+    "gis": "606.38",
+    "gisOasCombined": "1219.91"
   },
   {
     "from": "16224.00",
     "to": "16271.99",
-    "gis": "594.3",
-    "gisOasCombined": "1201.76"
+    "gis": "605.38",
+    "gisOasCombined": "1218.91"
   },
   {
     "from": "16272.00",
     "to": "16287.99",
-    "gis": "593.3",
-    "gisOasCombined": "1200.76"
+    "gis": "604.38",
+    "gisOasCombined": "1217.91"
   },
   {
     "from": "16288.00",
     "to": "16319.99",
-    "gis": "592.3",
-    "gisOasCombined": "1199.76"
+    "gis": "603.38",
+    "gisOasCombined": "1216.91"
   },
   {
     "from": "16320.00",
     "to": "16367.99",
-    "gis": "591.3",
-    "gisOasCombined": "1198.76"
+    "gis": "602.38",
+    "gisOasCombined": "1215.91"
   },
   {
     "from": "16368.00",
     "to": "16383.99",
-    "gis": "590.3",
-    "gisOasCombined": "1197.76"
+    "gis": "601.38",
+    "gisOasCombined": "1214.91"
   },
   {
     "from": "16384.00",
     "to": "16415.99",
-    "gis": "589.3",
-    "gisOasCombined": "1196.76"
+    "gis": "600.38",
+    "gisOasCombined": "1213.91"
   },
   {
     "from": "16416.00",
     "to": "16463.99",
-    "gis": "588.3",
-    "gisOasCombined": "1195.76"
+    "gis": "599.38",
+    "gisOasCombined": "1212.91"
   },
   {
     "from": "16464.00",
     "to": "16479.99",
-    "gis": "587.3",
-    "gisOasCombined": "1194.76"
+    "gis": "598.38",
+    "gisOasCombined": "1211.91"
   },
   {
     "from": "16480.00",
     "to": "16511.99",
-    "gis": "586.3",
-    "gisOasCombined": "1193.76"
+    "gis": "597.38",
+    "gisOasCombined": "1210.91"
   },
   {
     "from": "16512.00",
     "to": "16559.99",
-    "gis": "585.3",
-    "gisOasCombined": "1192.76"
+    "gis": "596.38",
+    "gisOasCombined": "1209.91"
   },
   {
     "from": "16560.00",
     "to": "16575.99",
-    "gis": "584.3",
-    "gisOasCombined": "1191.76"
+    "gis": "595.38",
+    "gisOasCombined": "1208.91"
   },
   {
     "from": "16576.00",
     "to": "16607.99",
-    "gis": "583.3",
-    "gisOasCombined": "1190.76"
+    "gis": "594.38",
+    "gisOasCombined": "1207.91"
   },
   {
     "from": "16608.00",
     "to": "16655.99",
-    "gis": "582.3",
-    "gisOasCombined": "1189.76"
+    "gis": "593.38",
+    "gisOasCombined": "1206.91"
   },
   {
     "from": "16656.00",
     "to": "16671.99",
-    "gis": "581.3",
-    "gisOasCombined": "1188.76"
+    "gis": "592.38",
+    "gisOasCombined": "1205.91"
   },
   {
     "from": "16672.00",
     "to": "16703.99",
-    "gis": "580.3",
-    "gisOasCombined": "1187.76"
+    "gis": "591.38",
+    "gisOasCombined": "1204.91"
   },
   {
     "from": "16704.00",
     "to": "16751.99",
-    "gis": "579.3",
-    "gisOasCombined": "1186.76"
+    "gis": "590.38",
+    "gisOasCombined": "1203.91"
   },
   {
     "from": "16752.00",
     "to": "16767.99",
-    "gis": "578.3",
-    "gisOasCombined": "1185.76"
+    "gis": "589.38",
+    "gisOasCombined": "1202.91"
   },
   {
     "from": "16768.00",
     "to": "16799.99",
-    "gis": "577.3",
-    "gisOasCombined": "1184.76"
+    "gis": "588.38",
+    "gisOasCombined": "1201.91"
   },
   {
     "from": "16800.00",
     "to": "16847.99",
-    "gis": "576.3",
-    "gisOasCombined": "1183.76"
+    "gis": "587.38",
+    "gisOasCombined": "1200.91"
   },
   {
     "from": "16848.00",
     "to": "16863.99",
-    "gis": "575.3",
-    "gisOasCombined": "1182.76"
+    "gis": "586.38",
+    "gisOasCombined": "1199.91"
   },
   {
     "from": "16864.00",
     "to": "16895.99",
-    "gis": "574.3",
-    "gisOasCombined": "1181.76"
+    "gis": "585.38",
+    "gisOasCombined": "1198.91"
   },
   {
     "from": "16896.00",
     "to": "16943.99",
-    "gis": "573.3",
-    "gisOasCombined": "1180.76"
+    "gis": "584.38",
+    "gisOasCombined": "1197.91"
   },
   {
     "from": "16944.00",
     "to": "16959.99",
-    "gis": "572.3",
-    "gisOasCombined": "1179.76"
+    "gis": "583.38",
+    "gisOasCombined": "1196.91"
   },
   {
     "from": "16960.00",
     "to": "16991.99",
-    "gis": "571.3",
-    "gisOasCombined": "1178.76"
+    "gis": "582.38",
+    "gisOasCombined": "1195.91"
   },
   {
     "from": "16992.00",
     "to": "17039.99",
-    "gis": "570.3",
-    "gisOasCombined": "1177.76"
+    "gis": "581.38",
+    "gisOasCombined": "1194.91"
   },
   {
     "from": "17040.00",
     "to": "17055.99",
-    "gis": "569.3",
-    "gisOasCombined": "1176.76"
+    "gis": "580.38",
+    "gisOasCombined": "1193.91"
   },
   {
     "from": "17056.00",
     "to": "17087.99",
-    "gis": "568.3",
-    "gisOasCombined": "1175.76"
+    "gis": "579.38",
+    "gisOasCombined": "1192.91"
   },
   {
     "from": "17088.00",
     "to": "17135.99",
-    "gis": "567.3",
-    "gisOasCombined": "1174.76"
+    "gis": "578.38",
+    "gisOasCombined": "1191.91"
   },
   {
     "from": "17136.00",
     "to": "17151.99",
-    "gis": "566.3",
-    "gisOasCombined": "1173.76"
+    "gis": "577.38",
+    "gisOasCombined": "1190.91"
   },
   {
     "from": "17152.00",
     "to": "17183.99",
-    "gis": "565.3",
-    "gisOasCombined": "1172.76"
+    "gis": "576.38",
+    "gisOasCombined": "1189.91"
   },
   {
     "from": "17184.00",
     "to": "17231.99",
-    "gis": "564.3",
-    "gisOasCombined": "1171.76"
+    "gis": "575.38",
+    "gisOasCombined": "1188.91"
   },
   {
     "from": "17232.00",
     "to": "17247.99",
-    "gis": "563.3",
-    "gisOasCombined": "1170.76"
+    "gis": "574.38",
+    "gisOasCombined": "1187.91"
   },
   {
     "from": "17248.00",
     "to": "17279.99",
-    "gis": "562.3",
-    "gisOasCombined": "1169.76"
+    "gis": "573.38",
+    "gisOasCombined": "1186.91"
   },
   {
     "from": "17280.00",
     "to": "17327.99",
-    "gis": "561.3",
-    "gisOasCombined": "1168.76"
+    "gis": "572.38",
+    "gisOasCombined": "1185.91"
   },
   {
     "from": "17328.00",
     "to": "17343.99",
-    "gis": "560.3",
-    "gisOasCombined": "1167.76"
+    "gis": "571.38",
+    "gisOasCombined": "1184.91"
   },
   {
     "from": "17344.00",
     "to": "17375.99",
-    "gis": "559.3",
-    "gisOasCombined": "1166.76"
+    "gis": "570.38",
+    "gisOasCombined": "1183.91"
   },
   {
     "from": "17376.00",
     "to": "17423.99",
-    "gis": "558.3",
-    "gisOasCombined": "1165.76"
+    "gis": "569.38",
+    "gisOasCombined": "1182.91"
   },
   {
     "from": "17424.00",
     "to": "17439.99",
-    "gis": "557.3",
-    "gisOasCombined": "1164.76"
+    "gis": "568.38",
+    "gisOasCombined": "1181.91"
   },
   {
     "from": "17440.00",
     "to": "17471.99",
-    "gis": "556.3",
-    "gisOasCombined": "1163.76"
+    "gis": "567.38",
+    "gisOasCombined": "1180.91"
   },
   {
     "from": "17472.00",
     "to": "17519.99",
-    "gis": "555.3",
-    "gisOasCombined": "1162.76"
+    "gis": "566.38",
+    "gisOasCombined": "1179.91"
   },
   {
     "from": "17520.00",
     "to": "17535.99",
-    "gis": "554.3",
-    "gisOasCombined": "1161.76"
+    "gis": "565.38",
+    "gisOasCombined": "1178.91"
   },
   {
     "from": "17536.00",
     "to": "17567.99",
-    "gis": "553.77",
-    "gisOasCombined": "1161.23"
+    "gis": "564.38",
+    "gisOasCombined": "1177.91"
   },
   {
     "from": "17568.00",
     "to": "17615.99",
-    "gis": "552.77",
-    "gisOasCombined": "1160.23"
+    "gis": "563.38",
+    "gisOasCombined": "1176.91"
   },
   {
     "from": "17616.00",
+    "to": "17631.99",
+    "gis": "562.38",
+    "gisOasCombined": "1175.91"
+  },
+  {
+    "from": "17632.00",
     "to": "17663.99",
-    "gis": "551.77",
-    "gisOasCombined": "1159.23"
+    "gis": "561.44",
+    "gisOasCombined": "1174.97"
   },
   {
     "from": "17664.00",
     "to": "17711.99",
-    "gis": "550.77",
-    "gisOasCombined": "1158.23"
+    "gis": "560.44",
+    "gisOasCombined": "1173.97"
   },
   {
     "from": "17712.00",
     "to": "17759.99",
-    "gis": "549.77",
-    "gisOasCombined": "1157.23"
+    "gis": "559.44",
+    "gisOasCombined": "1172.97"
   },
   {
     "from": "17760.00",
     "to": "17807.99",
-    "gis": "548.77",
-    "gisOasCombined": "1156.23"
+    "gis": "558.44",
+    "gisOasCombined": "1171.97"
   },
   {
     "from": "17808.00",
     "to": "17855.99",
-    "gis": "547.77",
-    "gisOasCombined": "1155.23"
+    "gis": "557.44",
+    "gisOasCombined": "1170.97"
   },
   {
     "from": "17856.00",
     "to": "17903.99",
-    "gis": "546.77",
-    "gisOasCombined": "1154.23"
+    "gis": "556.44",
+    "gisOasCombined": "1169.97"
   },
   {
     "from": "17904.00",
     "to": "17951.99",
-    "gis": "545.77",
-    "gisOasCombined": "1153.23"
+    "gis": "555.44",
+    "gisOasCombined": "1168.97"
   },
   {
     "from": "17952.00",
     "to": "17999.99",
-    "gis": "544.77",
-    "gisOasCombined": "1152.23"
+    "gis": "554.44",
+    "gisOasCombined": "1167.97"
   },
   {
     "from": "18000.00",
     "to": "18047.99",
-    "gis": "543.77",
-    "gisOasCombined": "1151.23"
+    "gis": "553.44",
+    "gisOasCombined": "1166.97"
   },
   {
     "from": "18048.00",
     "to": "18095.99",
-    "gis": "542.77",
-    "gisOasCombined": "1150.23"
+    "gis": "552.44",
+    "gisOasCombined": "1165.97"
   },
   {
     "from": "18096.00",
     "to": "18143.99",
-    "gis": "541.77",
-    "gisOasCombined": "1149.23"
+    "gis": "551.44",
+    "gisOasCombined": "1164.97"
   },
   {
     "from": "18144.00",
     "to": "18191.99",
-    "gis": "540.77",
-    "gisOasCombined": "1148.23"
+    "gis": "550.44",
+    "gisOasCombined": "1163.97"
   },
   {
     "from": "18192.00",
     "to": "18239.99",
-    "gis": "539.77",
-    "gisOasCombined": "1147.23"
+    "gis": "549.44",
+    "gisOasCombined": "1162.97"
   },
   {
     "from": "18240.00",
     "to": "18287.99",
-    "gis": "538.77",
-    "gisOasCombined": "1146.23"
+    "gis": "548.44",
+    "gisOasCombined": "1161.97"
   },
   {
     "from": "18288.00",
     "to": "18335.99",
-    "gis": "537.77",
-    "gisOasCombined": "1145.23"
+    "gis": "547.44",
+    "gisOasCombined": "1160.97"
   },
   {
     "from": "18336.00",
     "to": "18383.99",
-    "gis": "536.77",
-    "gisOasCombined": "1144.23"
+    "gis": "546.44",
+    "gisOasCombined": "1159.97"
   },
   {
     "from": "18384.00",
     "to": "18431.99",
-    "gis": "535.77",
-    "gisOasCombined": "1143.23"
+    "gis": "545.44",
+    "gisOasCombined": "1158.97"
   },
   {
     "from": "18432.00",
     "to": "18479.99",
-    "gis": "534.77",
-    "gisOasCombined": "1142.23"
+    "gis": "544.44",
+    "gisOasCombined": "1157.97"
   },
   {
     "from": "18480.00",
     "to": "18527.99",
-    "gis": "533.77",
-    "gisOasCombined": "1141.23"
+    "gis": "543.44",
+    "gisOasCombined": "1156.97"
   },
   {
     "from": "18528.00",
     "to": "18575.99",
-    "gis": "532.77",
-    "gisOasCombined": "1140.23"
+    "gis": "542.44",
+    "gisOasCombined": "1155.97"
   },
   {
     "from": "18576.00",
     "to": "18623.99",
-    "gis": "531.77",
-    "gisOasCombined": "1139.23"
+    "gis": "541.44",
+    "gisOasCombined": "1154.97"
   },
   {
     "from": "18624.00",
     "to": "18671.99",
-    "gis": "530.77",
-    "gisOasCombined": "1138.23"
+    "gis": "540.44",
+    "gisOasCombined": "1153.97"
   },
   {
     "from": "18672.00",
     "to": "18719.99",
-    "gis": "529.77",
-    "gisOasCombined": "1137.23"
+    "gis": "539.44",
+    "gisOasCombined": "1152.97"
   },
   {
     "from": "18720.00",
     "to": "18767.99",
-    "gis": "528.77",
-    "gisOasCombined": "1136.23"
+    "gis": "538.44",
+    "gisOasCombined": "1151.97"
   },
   {
     "from": "18768.00",
     "to": "18815.99",
-    "gis": "527.77",
-    "gisOasCombined": "1135.23"
+    "gis": "537.44",
+    "gisOasCombined": "1150.97"
   },
   {
     "from": "18816.00",
     "to": "18863.99",
-    "gis": "526.77",
-    "gisOasCombined": "1134.23"
+    "gis": "536.44",
+    "gisOasCombined": "1149.97"
   },
   {
     "from": "18864.00",
     "to": "18911.99",
-    "gis": "525.77",
-    "gisOasCombined": "1133.23"
+    "gis": "535.44",
+    "gisOasCombined": "1148.97"
   },
   {
     "from": "18912.00",
     "to": "18959.99",
-    "gis": "524.77",
-    "gisOasCombined": "1132.23"
+    "gis": "534.44",
+    "gisOasCombined": "1147.97"
   },
   {
     "from": "18960.00",
     "to": "19007.99",
-    "gis": "523.77",
-    "gisOasCombined": "1131.23"
+    "gis": "533.44",
+    "gisOasCombined": "1146.97"
   },
   {
     "from": "19008.00",
     "to": "19055.99",
-    "gis": "522.77",
-    "gisOasCombined": "1130.23"
+    "gis": "532.44",
+    "gisOasCombined": "1145.97"
   },
   {
     "from": "19056.00",
     "to": "19103.99",
-    "gis": "521.77",
-    "gisOasCombined": "1129.23"
+    "gis": "531.44",
+    "gisOasCombined": "1144.97"
   },
   {
     "from": "19104.00",
     "to": "19151.99",
-    "gis": "520.77",
-    "gisOasCombined": "1128.23"
+    "gis": "530.44",
+    "gisOasCombined": "1143.97"
   },
   {
     "from": "19152.00",
     "to": "19199.99",
-    "gis": "519.77",
-    "gisOasCombined": "1127.23"
+    "gis": "529.44",
+    "gisOasCombined": "1142.97"
   },
   {
     "from": "19200.00",
     "to": "19247.99",
-    "gis": "518.77",
-    "gisOasCombined": "1126.23"
+    "gis": "528.44",
+    "gisOasCombined": "1141.97"
   },
   {
     "from": "19248.00",
     "to": "19295.99",
-    "gis": "517.77",
-    "gisOasCombined": "1125.23"
+    "gis": "527.44",
+    "gisOasCombined": "1140.97"
   },
   {
     "from": "19296.00",
     "to": "19343.99",
-    "gis": "516.77",
-    "gisOasCombined": "1124.23"
+    "gis": "526.44",
+    "gisOasCombined": "1139.97"
   },
   {
     "from": "19344.00",
     "to": "19391.99",
-    "gis": "515.77",
-    "gisOasCombined": "1123.23"
+    "gis": "525.44",
+    "gisOasCombined": "1138.97"
   },
   {
     "from": "19392.00",
     "to": "19439.99",
-    "gis": "514.77",
-    "gisOasCombined": "1122.23"
+    "gis": "524.44",
+    "gisOasCombined": "1137.97"
   },
   {
     "from": "19440.00",
     "to": "19487.99",
-    "gis": "513.77",
-    "gisOasCombined": "1121.23"
+    "gis": "523.44",
+    "gisOasCombined": "1136.97"
   },
   {
     "from": "19488.00",
     "to": "19535.99",
-    "gis": "512.77",
-    "gisOasCombined": "1120.23"
+    "gis": "522.44",
+    "gisOasCombined": "1135.97"
   },
   {
     "from": "19536.00",
     "to": "19583.99",
-    "gis": "511.77",
-    "gisOasCombined": "1119.23"
+    "gis": "521.44",
+    "gisOasCombined": "1134.97"
   },
   {
     "from": "19584.00",
     "to": "19631.99",
-    "gis": "510.77",
-    "gisOasCombined": "1118.23"
+    "gis": "520.44",
+    "gisOasCombined": "1133.97"
   },
   {
     "from": "19632.00",
     "to": "19679.99",
-    "gis": "509.77",
-    "gisOasCombined": "1117.23"
+    "gis": "519.44",
+    "gisOasCombined": "1132.97"
   },
   {
     "from": "19680.00",
     "to": "19727.99",
-    "gis": "508.77",
-    "gisOasCombined": "1116.23"
+    "gis": "518.44",
+    "gisOasCombined": "1131.97"
   },
   {
     "from": "19728.00",
     "to": "19775.99",
-    "gis": "507.77",
-    "gisOasCombined": "1115.23"
+    "gis": "517.44",
+    "gisOasCombined": "1130.97"
   },
   {
     "from": "19776.00",
     "to": "19823.99",
-    "gis": "506.77",
-    "gisOasCombined": "1114.23"
+    "gis": "516.44",
+    "gisOasCombined": "1129.97"
   },
   {
     "from": "19824.00",
     "to": "19871.99",
-    "gis": "505.77",
-    "gisOasCombined": "1113.23"
+    "gis": "515.44",
+    "gisOasCombined": "1128.97"
   },
   {
     "from": "19872.00",
     "to": "19919.99",
-    "gis": "504.77",
-    "gisOasCombined": "1112.23"
+    "gis": "514.44",
+    "gisOasCombined": "1127.97"
   },
   {
     "from": "19920.00",
     "to": "19967.99",
-    "gis": "503.77",
-    "gisOasCombined": "1111.23"
+    "gis": "513.44",
+    "gisOasCombined": "1126.97"
   },
   {
     "from": "19968.00",
     "to": "20015.99",
-    "gis": "502.77",
-    "gisOasCombined": "1110.23"
+    "gis": "512.44",
+    "gisOasCombined": "1125.97"
   },
   {
     "from": "20016.00",
     "to": "20063.99",
-    "gis": "501.77",
-    "gisOasCombined": "1109.23"
+    "gis": "511.44",
+    "gisOasCombined": "1124.97"
   },
   {
     "from": "20064.00",
     "to": "20111.99",
-    "gis": "500.77",
-    "gisOasCombined": "1108.23"
+    "gis": "510.44",
+    "gisOasCombined": "1123.97"
   },
   {
     "from": "20112.00",
     "to": "20159.99",
-    "gis": "499.77",
-    "gisOasCombined": "1107.23"
+    "gis": "509.44",
+    "gisOasCombined": "1122.97"
   },
   {
     "from": "20160.00",
     "to": "20207.99",
-    "gis": "498.77",
-    "gisOasCombined": "1106.23"
+    "gis": "508.44",
+    "gisOasCombined": "1121.97"
   },
   {
     "from": "20208.00",
     "to": "20255.99",
-    "gis": "497.77",
-    "gisOasCombined": "1105.23"
+    "gis": "507.44",
+    "gisOasCombined": "1120.97"
   },
   {
     "from": "20256.00",
     "to": "20303.99",
-    "gis": "496.77",
-    "gisOasCombined": "1104.23"
+    "gis": "506.44",
+    "gisOasCombined": "1119.97"
   },
   {
     "from": "20304.00",
     "to": "20351.99",
-    "gis": "495.77",
-    "gisOasCombined": "1103.23"
+    "gis": "505.44",
+    "gisOasCombined": "1118.97"
   },
   {
     "from": "20352.00",
     "to": "20399.99",
-    "gis": "494.77",
-    "gisOasCombined": "1102.23"
+    "gis": "504.44",
+    "gisOasCombined": "1117.97"
   },
   {
     "from": "20400.00",
     "to": "20447.99",
-    "gis": "493.77",
-    "gisOasCombined": "1101.23"
+    "gis": "503.44",
+    "gisOasCombined": "1116.97"
   },
   {
     "from": "20448.00",
     "to": "20495.99",
-    "gis": "492.77",
-    "gisOasCombined": "1100.23"
+    "gis": "502.44",
+    "gisOasCombined": "1115.97"
   },
   {
     "from": "20496.00",
     "to": "20543.99",
-    "gis": "491.77",
-    "gisOasCombined": "1099.23"
+    "gis": "501.44",
+    "gisOasCombined": "1114.97"
   },
   {
     "from": "20544.00",
     "to": "20591.99",
-    "gis": "490.77",
-    "gisOasCombined": "1098.23"
+    "gis": "500.44",
+    "gisOasCombined": "1113.97"
   },
   {
     "from": "20592.00",
     "to": "20639.99",
-    "gis": "489.77",
-    "gisOasCombined": "1097.23"
+    "gis": "499.44",
+    "gisOasCombined": "1112.97"
   },
   {
     "from": "20640.00",
     "to": "20687.99",
-    "gis": "488.77",
-    "gisOasCombined": "1096.23"
+    "gis": "498.44",
+    "gisOasCombined": "1111.97"
   },
   {
     "from": "20688.00",
     "to": "20735.99",
-    "gis": "487.77",
-    "gisOasCombined": "1095.23"
+    "gis": "497.44",
+    "gisOasCombined": "1110.97"
   },
   {
     "from": "20736.00",
     "to": "20783.99",
-    "gis": "486.77",
-    "gisOasCombined": "1094.23"
+    "gis": "496.44",
+    "gisOasCombined": "1109.97"
   },
   {
     "from": "20784.00",
     "to": "20831.99",
-    "gis": "485.77",
-    "gisOasCombined": "1093.23"
+    "gis": "495.44",
+    "gisOasCombined": "1108.97"
   },
   {
     "from": "20832.00",
     "to": "20879.99",
-    "gis": "484.77",
-    "gisOasCombined": "1092.23"
+    "gis": "494.44",
+    "gisOasCombined": "1107.97"
   },
   {
     "from": "20880.00",
     "to": "20927.99",
-    "gis": "483.77",
-    "gisOasCombined": "1091.23"
+    "gis": "493.44",
+    "gisOasCombined": "1106.97"
   },
   {
     "from": "20928.00",
     "to": "20975.99",
-    "gis": "482.77",
-    "gisOasCombined": "1090.23"
+    "gis": "492.44",
+    "gisOasCombined": "1105.97"
   },
   {
     "from": "20976.00",
     "to": "21023.99",
-    "gis": "481.77",
-    "gisOasCombined": "1089.23"
+    "gis": "491.44",
+    "gisOasCombined": "1104.97"
   },
   {
     "from": "21024.00",
     "to": "21071.99",
-    "gis": "480.77",
-    "gisOasCombined": "1088.23"
+    "gis": "490.44",
+    "gisOasCombined": "1103.97"
   },
   {
     "from": "21072.00",
     "to": "21119.99",
-    "gis": "479.77",
-    "gisOasCombined": "1087.23"
+    "gis": "489.44",
+    "gisOasCombined": "1102.97"
   },
   {
     "from": "21120.00",
     "to": "21167.99",
-    "gis": "478.77",
-    "gisOasCombined": "1086.23"
+    "gis": "488.44",
+    "gisOasCombined": "1101.97"
   },
   {
     "from": "21168.00",
     "to": "21215.99",
-    "gis": "477.77",
-    "gisOasCombined": "1085.23"
+    "gis": "487.44",
+    "gisOasCombined": "1100.97"
   },
   {
     "from": "21216.00",
     "to": "21263.99",
-    "gis": "476.77",
-    "gisOasCombined": "1084.23"
+    "gis": "486.44",
+    "gisOasCombined": "1099.97"
   },
   {
     "from": "21264.00",
     "to": "21311.99",
-    "gis": "475.77",
-    "gisOasCombined": "1083.23"
+    "gis": "485.44",
+    "gisOasCombined": "1098.97"
   },
   {
     "from": "21312.00",
     "to": "21359.99",
-    "gis": "474.77",
-    "gisOasCombined": "1082.23"
+    "gis": "484.44",
+    "gisOasCombined": "1097.97"
   },
   {
     "from": "21360.00",
     "to": "21407.99",
-    "gis": "473.77",
-    "gisOasCombined": "1081.23"
+    "gis": "483.44",
+    "gisOasCombined": "1096.97"
   },
   {
     "from": "21408.00",
     "to": "21455.99",
-    "gis": "472.77",
-    "gisOasCombined": "1080.23"
+    "gis": "482.44",
+    "gisOasCombined": "1095.97"
   },
   {
     "from": "21456.00",
     "to": "21503.99",
-    "gis": "471.77",
-    "gisOasCombined": "1079.23"
+    "gis": "481.44",
+    "gisOasCombined": "1094.97"
   },
   {
     "from": "21504.00",
     "to": "21551.99",
-    "gis": "470.77",
-    "gisOasCombined": "1078.23"
+    "gis": "480.44",
+    "gisOasCombined": "1093.97"
   },
   {
     "from": "21552.00",
     "to": "21599.99",
-    "gis": "469.77",
-    "gisOasCombined": "1077.23"
+    "gis": "479.44",
+    "gisOasCombined": "1092.97"
   },
   {
     "from": "21600.00",
     "to": "21647.99",
-    "gis": "468.77",
-    "gisOasCombined": "1076.23"
+    "gis": "478.44",
+    "gisOasCombined": "1091.97"
   },
   {
     "from": "21648.00",
     "to": "21695.99",
-    "gis": "467.77",
-    "gisOasCombined": "1075.23"
+    "gis": "477.44",
+    "gisOasCombined": "1090.97"
   },
   {
     "from": "21696.00",
     "to": "21743.99",
-    "gis": "466.77",
-    "gisOasCombined": "1074.23"
+    "gis": "476.44",
+    "gisOasCombined": "1089.97"
   },
   {
     "from": "21744.00",
     "to": "21791.99",
-    "gis": "465.77",
-    "gisOasCombined": "1073.23"
+    "gis": "475.44",
+    "gisOasCombined": "1088.97"
   },
   {
     "from": "21792.00",
     "to": "21839.99",
-    "gis": "464.77",
-    "gisOasCombined": "1072.23"
+    "gis": "474.44",
+    "gisOasCombined": "1087.97"
   },
   {
     "from": "21840.00",
     "to": "21887.99",
-    "gis": "463.77",
-    "gisOasCombined": "1071.23"
+    "gis": "473.44",
+    "gisOasCombined": "1086.97"
   },
   {
     "from": "21888.00",
     "to": "21935.99",
-    "gis": "462.77",
-    "gisOasCombined": "1070.23"
+    "gis": "472.44",
+    "gisOasCombined": "1085.97"
   },
   {
     "from": "21936.00",
     "to": "21983.99",
-    "gis": "461.77",
-    "gisOasCombined": "1069.23"
+    "gis": "471.44",
+    "gisOasCombined": "1084.97"
   },
   {
     "from": "21984.00",
     "to": "22031.99",
-    "gis": "460.77",
-    "gisOasCombined": "1068.23"
+    "gis": "470.44",
+    "gisOasCombined": "1083.97"
   },
   {
     "from": "22032.00",
     "to": "22079.99",
-    "gis": "459.77",
-    "gisOasCombined": "1067.23"
+    "gis": "469.44",
+    "gisOasCombined": "1082.97"
   },
   {
     "from": "22080.00",
     "to": "22127.99",
-    "gis": "458.77",
-    "gisOasCombined": "1066.23"
+    "gis": "468.44",
+    "gisOasCombined": "1081.97"
   },
   {
     "from": "22128.00",
     "to": "22175.99",
-    "gis": "457.77",
-    "gisOasCombined": "1065.23"
+    "gis": "467.44",
+    "gisOasCombined": "1080.97"
   },
   {
     "from": "22176.00",
     "to": "22223.99",
-    "gis": "456.77",
-    "gisOasCombined": "1064.23"
+    "gis": "466.44",
+    "gisOasCombined": "1079.97"
   },
   {
     "from": "22224.00",
     "to": "22271.99",
-    "gis": "455.77",
-    "gisOasCombined": "1063.23"
+    "gis": "465.44",
+    "gisOasCombined": "1078.97"
   },
   {
     "from": "22272.00",
     "to": "22319.99",
-    "gis": "454.77",
-    "gisOasCombined": "1062.23"
+    "gis": "464.44",
+    "gisOasCombined": "1077.97"
   },
   {
     "from": "22320.00",
     "to": "22367.99",
-    "gis": "453.77",
-    "gisOasCombined": "1061.23"
+    "gis": "463.44",
+    "gisOasCombined": "1076.97"
   },
   {
     "from": "22368.00",
     "to": "22415.99",
-    "gis": "452.77",
-    "gisOasCombined": "1060.23"
+    "gis": "462.44",
+    "gisOasCombined": "1075.97"
   },
   {
     "from": "22416.00",
     "to": "22463.99",
-    "gis": "451.77",
-    "gisOasCombined": "1059.23"
+    "gis": "461.44",
+    "gisOasCombined": "1074.97"
   },
   {
     "from": "22464.00",
     "to": "22511.99",
-    "gis": "450.77",
-    "gisOasCombined": "1058.23"
+    "gis": "460.44",
+    "gisOasCombined": "1073.97"
   },
   {
     "from": "22512.00",
     "to": "22559.99",
-    "gis": "449.77",
-    "gisOasCombined": "1057.23"
+    "gis": "459.44",
+    "gisOasCombined": "1072.97"
   },
   {
     "from": "22560.00",
     "to": "22607.99",
-    "gis": "448.77",
-    "gisOasCombined": "1056.23"
+    "gis": "458.44",
+    "gisOasCombined": "1071.97"
   },
   {
     "from": "22608.00",
     "to": "22655.99",
-    "gis": "447.77",
-    "gisOasCombined": "1055.23"
+    "gis": "457.44",
+    "gisOasCombined": "1070.97"
   },
   {
     "from": "22656.00",
     "to": "22703.99",
-    "gis": "446.77",
-    "gisOasCombined": "1054.23"
+    "gis": "456.44",
+    "gisOasCombined": "1069.97"
   },
   {
     "from": "22704.00",
     "to": "22751.99",
-    "gis": "445.77",
-    "gisOasCombined": "1053.23"
+    "gis": "455.44",
+    "gisOasCombined": "1068.97"
   },
   {
     "from": "22752.00",
     "to": "22799.99",
-    "gis": "444.77",
-    "gisOasCombined": "1052.23"
+    "gis": "454.44",
+    "gisOasCombined": "1067.97"
   },
   {
     "from": "22800.00",
     "to": "22847.99",
-    "gis": "443.77",
-    "gisOasCombined": "1051.23"
+    "gis": "453.44",
+    "gisOasCombined": "1066.97"
   },
   {
     "from": "22848.00",
     "to": "22895.99",
-    "gis": "442.77",
-    "gisOasCombined": "1050.23"
+    "gis": "452.44",
+    "gisOasCombined": "1065.97"
   },
   {
     "from": "22896.00",
     "to": "22943.99",
-    "gis": "441.77",
-    "gisOasCombined": "1049.23"
+    "gis": "451.44",
+    "gisOasCombined": "1064.97"
   },
   {
     "from": "22944.00",
     "to": "22991.99",
-    "gis": "440.77",
-    "gisOasCombined": "1048.23"
+    "gis": "450.44",
+    "gisOasCombined": "1063.97"
   },
   {
     "from": "22992.00",
     "to": "23039.99",
-    "gis": "439.77",
-    "gisOasCombined": "1047.23"
+    "gis": "449.44",
+    "gisOasCombined": "1062.97"
   },
   {
     "from": "23040.00",
     "to": "23087.99",
-    "gis": "438.77",
-    "gisOasCombined": "1046.23"
+    "gis": "448.44",
+    "gisOasCombined": "1061.97"
   },
   {
     "from": "23088.00",
     "to": "23135.99",
-    "gis": "437.77",
-    "gisOasCombined": "1045.23"
+    "gis": "447.44",
+    "gisOasCombined": "1060.97"
   },
   {
     "from": "23136.00",
     "to": "23183.99",
-    "gis": "436.77",
-    "gisOasCombined": "1044.23"
+    "gis": "446.44",
+    "gisOasCombined": "1059.97"
   },
   {
     "from": "23184.00",
     "to": "23231.99",
-    "gis": "435.77",
-    "gisOasCombined": "1043.23"
+    "gis": "445.44",
+    "gisOasCombined": "1058.97"
   },
   {
     "from": "23232.00",
     "to": "23279.99",
-    "gis": "434.77",
-    "gisOasCombined": "1042.23"
+    "gis": "444.44",
+    "gisOasCombined": "1057.97"
   },
   {
     "from": "23280.00",
     "to": "23327.99",
-    "gis": "433.77",
-    "gisOasCombined": "1041.23"
+    "gis": "443.44",
+    "gisOasCombined": "1056.97"
   },
   {
     "from": "23328.00",
     "to": "23375.99",
-    "gis": "432.77",
-    "gisOasCombined": "1040.23"
+    "gis": "442.44",
+    "gisOasCombined": "1055.97"
   },
   {
     "from": "23376.00",
     "to": "23423.99",
-    "gis": "431.77",
-    "gisOasCombined": "1039.23"
+    "gis": "441.44",
+    "gisOasCombined": "1054.97"
   },
   {
     "from": "23424.00",
     "to": "23471.99",
-    "gis": "430.77",
-    "gisOasCombined": "1038.23"
+    "gis": "440.44",
+    "gisOasCombined": "1053.97"
   },
   {
     "from": "23472.00",
     "to": "23519.99",
-    "gis": "429.77",
-    "gisOasCombined": "1037.23"
+    "gis": "439.44",
+    "gisOasCombined": "1052.97"
   },
   {
     "from": "23520.00",
     "to": "23567.99",
-    "gis": "428.77",
-    "gisOasCombined": "1036.23"
+    "gis": "438.44",
+    "gisOasCombined": "1051.97"
   },
   {
     "from": "23568.00",
     "to": "23615.99",
-    "gis": "427.77",
-    "gisOasCombined": "1035.23"
+    "gis": "437.44",
+    "gisOasCombined": "1050.97"
   },
   {
     "from": "23616.00",
     "to": "23663.99",
-    "gis": "426.77",
-    "gisOasCombined": "1034.23"
+    "gis": "436.44",
+    "gisOasCombined": "1049.97"
   },
   {
     "from": "23664.00",
     "to": "23711.99",
-    "gis": "425.77",
-    "gisOasCombined": "1033.23"
+    "gis": "435.44",
+    "gisOasCombined": "1048.97"
   },
   {
     "from": "23712.00",
     "to": "23759.99",
-    "gis": "424.77",
-    "gisOasCombined": "1032.23"
+    "gis": "434.44",
+    "gisOasCombined": "1047.97"
   },
   {
     "from": "23760.00",
     "to": "23807.99",
-    "gis": "423.77",
-    "gisOasCombined": "1031.23"
+    "gis": "433.44",
+    "gisOasCombined": "1046.97"
   },
   {
     "from": "23808.00",
     "to": "23855.99",
-    "gis": "422.77",
-    "gisOasCombined": "1030.23"
+    "gis": "432.44",
+    "gisOasCombined": "1045.97"
   },
   {
     "from": "23856.00",
     "to": "23903.99",
-    "gis": "421.77",
-    "gisOasCombined": "1029.23"
+    "gis": "431.44",
+    "gisOasCombined": "1044.97"
   },
   {
     "from": "23904.00",
     "to": "23951.99",
-    "gis": "420.77",
-    "gisOasCombined": "1028.23"
+    "gis": "430.44",
+    "gisOasCombined": "1043.97"
   },
   {
     "from": "23952.00",
     "to": "23999.99",
-    "gis": "419.77",
-    "gisOasCombined": "1027.23"
+    "gis": "429.44",
+    "gisOasCombined": "1042.97"
   },
   {
     "from": "24000.00",
     "to": "24047.99",
-    "gis": "418.77",
-    "gisOasCombined": "1026.23"
+    "gis": "428.44",
+    "gisOasCombined": "1041.97"
   },
   {
     "from": "24048.00",
     "to": "24095.99",
-    "gis": "417.77",
-    "gisOasCombined": "1025.23"
+    "gis": "427.44",
+    "gisOasCombined": "1040.97"
   },
   {
     "from": "24096.00",
     "to": "24143.99",
-    "gis": "416.77",
-    "gisOasCombined": "1024.23"
+    "gis": "426.44",
+    "gisOasCombined": "1039.97"
   },
   {
     "from": "24144.00",
     "to": "24191.99",
-    "gis": "415.77",
-    "gisOasCombined": "1023.23"
+    "gis": "425.44",
+    "gisOasCombined": "1038.97"
   },
   {
     "from": "24192.00",
     "to": "24239.99",
-    "gis": "414.77",
-    "gisOasCombined": "1022.23"
+    "gis": "424.44",
+    "gisOasCombined": "1037.97"
   },
   {
     "from": "24240.00",
     "to": "24287.99",
-    "gis": "413.77",
-    "gisOasCombined": "1021.23"
+    "gis": "423.44",
+    "gisOasCombined": "1036.97"
   },
   {
     "from": "24288.00",
     "to": "24335.99",
-    "gis": "412.77",
-    "gisOasCombined": "1020.23"
+    "gis": "422.44",
+    "gisOasCombined": "1035.97"
   },
   {
     "from": "24336.00",
     "to": "24383.99",
-    "gis": "411.77",
-    "gisOasCombined": "1019.23"
+    "gis": "421.44",
+    "gisOasCombined": "1034.97"
   },
   {
     "from": "24384.00",
     "to": "24431.99",
-    "gis": "410.77",
-    "gisOasCombined": "1018.23"
+    "gis": "420.44",
+    "gisOasCombined": "1033.97"
   },
   {
     "from": "24432.00",
     "to": "24479.99",
-    "gis": "409.77",
-    "gisOasCombined": "1017.23"
+    "gis": "419.44",
+    "gisOasCombined": "1032.97"
   },
   {
     "from": "24480.00",
     "to": "24527.99",
-    "gis": "408.77",
-    "gisOasCombined": "1016.23"
+    "gis": "418.44",
+    "gisOasCombined": "1031.97"
   },
   {
     "from": "24528.00",
     "to": "24575.99",
-    "gis": "407.77",
-    "gisOasCombined": "1015.23"
+    "gis": "417.44",
+    "gisOasCombined": "1030.97"
   },
   {
     "from": "24576.00",
     "to": "24623.99",
-    "gis": "406.77",
-    "gisOasCombined": "1014.23"
+    "gis": "416.44",
+    "gisOasCombined": "1029.97"
   },
   {
     "from": "24624.00",
     "to": "24671.99",
-    "gis": "405.77",
-    "gisOasCombined": "1013.23"
+    "gis": "415.44",
+    "gisOasCombined": "1028.97"
   },
   {
     "from": "24672.00",
     "to": "24719.99",
-    "gis": "404.77",
-    "gisOasCombined": "1012.23"
+    "gis": "414.44",
+    "gisOasCombined": "1027.97"
   },
   {
     "from": "24720.00",
     "to": "24767.99",
-    "gis": "403.77",
-    "gisOasCombined": "1011.23"
+    "gis": "413.44",
+    "gisOasCombined": "1026.97"
   },
   {
     "from": "24768.00",
     "to": "24815.99",
-    "gis": "402.77",
-    "gisOasCombined": "1010.23"
+    "gis": "412.44",
+    "gisOasCombined": "1025.97"
   },
   {
     "from": "24816.00",
     "to": "24863.99",
-    "gis": "401.77",
-    "gisOasCombined": "1009.23"
+    "gis": "411.44",
+    "gisOasCombined": "1024.97"
   },
   {
     "from": "24864.00",
     "to": "24911.99",
-    "gis": "400.77",
-    "gisOasCombined": "1008.23"
+    "gis": "410.44",
+    "gisOasCombined": "1023.97"
   },
   {
     "from": "24912.00",
     "to": "24959.99",
-    "gis": "399.77",
-    "gisOasCombined": "1007.23"
+    "gis": "409.44",
+    "gisOasCombined": "1022.97"
   },
   {
     "from": "24960.00",
     "to": "25007.99",
-    "gis": "398.77",
-    "gisOasCombined": "1006.23"
+    "gis": "408.44",
+    "gisOasCombined": "1021.97"
   },
   {
     "from": "25008.00",
     "to": "25055.99",
-    "gis": "397.77",
-    "gisOasCombined": "1005.23"
+    "gis": "407.44",
+    "gisOasCombined": "1020.97"
   },
   {
     "from": "25056.00",
     "to": "25103.99",
-    "gis": "396.77",
-    "gisOasCombined": "1004.23"
+    "gis": "406.44",
+    "gisOasCombined": "1019.97"
   },
   {
     "from": "25104.00",
     "to": "25151.99",
-    "gis": "395.77",
-    "gisOasCombined": "1003.23"
+    "gis": "405.44",
+    "gisOasCombined": "1018.97"
   },
   {
     "from": "25152.00",
     "to": "25199.99",
-    "gis": "394.77",
-    "gisOasCombined": "1002.23"
+    "gis": "404.44",
+    "gisOasCombined": "1017.97"
   },
   {
     "from": "25200.00",
     "to": "25247.99",
-    "gis": "393.77",
-    "gisOasCombined": "1001.23"
+    "gis": "403.44",
+    "gisOasCombined": "1016.97"
   },
   {
     "from": "25248.00",
     "to": "25295.99",
-    "gis": "392.77",
-    "gisOasCombined": "1000.23"
+    "gis": "402.44",
+    "gisOasCombined": "1015.97"
   },
   {
     "from": "25296.00",
     "to": "25343.99",
-    "gis": "391.77",
-    "gisOasCombined": "999.23"
+    "gis": "401.44",
+    "gisOasCombined": "1014.97"
   },
   {
     "from": "25344.00",
     "to": "25391.99",
-    "gis": "390.77",
-    "gisOasCombined": "998.23"
+    "gis": "400.44",
+    "gisOasCombined": "1013.97"
   },
   {
     "from": "25392.00",
     "to": "25439.99",
-    "gis": "389.77",
-    "gisOasCombined": "997.23"
+    "gis": "399.44",
+    "gisOasCombined": "1012.97"
   },
   {
     "from": "25440.00",
     "to": "25487.99",
-    "gis": "388.77",
-    "gisOasCombined": "996.23"
+    "gis": "398.44",
+    "gisOasCombined": "1011.97"
   },
   {
     "from": "25488.00",
     "to": "25535.99",
-    "gis": "387.77",
-    "gisOasCombined": "995.23"
+    "gis": "397.44",
+    "gisOasCombined": "1010.97"
   },
   {
     "from": "25536.00",
     "to": "25583.99",
-    "gis": "386.77",
-    "gisOasCombined": "994.23"
+    "gis": "396.44",
+    "gisOasCombined": "1009.97"
   },
   {
     "from": "25584.00",
     "to": "25631.99",
-    "gis": "385.77",
-    "gisOasCombined": "993.23"
+    "gis": "395.44",
+    "gisOasCombined": "1008.97"
   },
   {
     "from": "25632.00",
     "to": "25679.99",
-    "gis": "384.77",
-    "gisOasCombined": "992.23"
+    "gis": "394.44",
+    "gisOasCombined": "1007.97"
   },
   {
     "from": "25680.00",
     "to": "25727.99",
-    "gis": "383.77",
-    "gisOasCombined": "991.23"
+    "gis": "393.44",
+    "gisOasCombined": "1006.97"
   },
   {
     "from": "25728.00",
     "to": "25775.99",
-    "gis": "382.77",
-    "gisOasCombined": "990.23"
+    "gis": "392.44",
+    "gisOasCombined": "1005.97"
   },
   {
     "from": "25776.00",
     "to": "25823.99",
-    "gis": "381.77",
-    "gisOasCombined": "989.23"
+    "gis": "391.44",
+    "gisOasCombined": "1004.97"
   },
   {
     "from": "25824.00",
     "to": "25871.99",
-    "gis": "380.77",
-    "gisOasCombined": "988.23"
+    "gis": "390.44",
+    "gisOasCombined": "1003.97"
   },
   {
     "from": "25872.00",
     "to": "25919.99",
-    "gis": "379.77",
-    "gisOasCombined": "987.23"
+    "gis": "389.44",
+    "gisOasCombined": "1002.97"
   },
   {
     "from": "25920.00",
     "to": "25967.99",
-    "gis": "378.77",
-    "gisOasCombined": "986.23"
+    "gis": "388.44",
+    "gisOasCombined": "1001.97"
   },
   {
     "from": "25968.00",
     "to": "26015.99",
-    "gis": "377.77",
-    "gisOasCombined": "985.23"
+    "gis": "387.44",
+    "gisOasCombined": "1000.97"
   },
   {
     "from": "26016.00",
     "to": "26063.99",
-    "gis": "376.77",
-    "gisOasCombined": "984.23"
+    "gis": "386.44",
+    "gisOasCombined": "999.97"
   },
   {
     "from": "26064.00",
     "to": "26111.99",
-    "gis": "375.77",
-    "gisOasCombined": "983.23"
+    "gis": "385.44",
+    "gisOasCombined": "998.97"
   },
   {
     "from": "26112.00",
     "to": "26159.99",
-    "gis": "374.77",
-    "gisOasCombined": "982.23"
+    "gis": "384.44",
+    "gisOasCombined": "997.97"
   },
   {
     "from": "26160.00",
     "to": "26207.99",
-    "gis": "373.77",
-    "gisOasCombined": "981.23"
+    "gis": "383.44",
+    "gisOasCombined": "996.97"
   },
   {
     "from": "26208.00",
     "to": "26255.99",
-    "gis": "372.77",
-    "gisOasCombined": "980.23"
+    "gis": "382.44",
+    "gisOasCombined": "995.97"
   },
   {
     "from": "26256.00",
     "to": "26303.99",
-    "gis": "371.77",
-    "gisOasCombined": "979.23"
+    "gis": "381.44",
+    "gisOasCombined": "994.97"
   },
   {
     "from": "26304.00",
     "to": "26351.99",
-    "gis": "370.77",
-    "gisOasCombined": "978.23"
+    "gis": "380.44",
+    "gisOasCombined": "993.97"
   },
   {
     "from": "26352.00",
     "to": "26399.99",
-    "gis": "369.77",
-    "gisOasCombined": "977.23"
+    "gis": "379.44",
+    "gisOasCombined": "992.97"
   },
   {
     "from": "26400.00",
     "to": "26447.99",
-    "gis": "368.77",
-    "gisOasCombined": "976.23"
+    "gis": "378.44",
+    "gisOasCombined": "991.97"
   },
   {
     "from": "26448.00",
     "to": "26495.99",
-    "gis": "367.77",
-    "gisOasCombined": "975.23"
+    "gis": "377.44",
+    "gisOasCombined": "990.97"
   },
   {
     "from": "26496.00",
     "to": "26543.99",
-    "gis": "366.77",
-    "gisOasCombined": "974.23"
+    "gis": "376.44",
+    "gisOasCombined": "989.97"
   },
   {
     "from": "26544.00",
     "to": "26591.99",
-    "gis": "365.77",
-    "gisOasCombined": "973.23"
+    "gis": "375.44",
+    "gisOasCombined": "988.97"
   },
   {
     "from": "26592.00",
     "to": "26639.99",
-    "gis": "364.77",
-    "gisOasCombined": "972.23"
+    "gis": "374.44",
+    "gisOasCombined": "987.97"
   },
   {
     "from": "26640.00",
     "to": "26687.99",
-    "gis": "363.77",
-    "gisOasCombined": "971.23"
+    "gis": "373.44",
+    "gisOasCombined": "986.97"
   },
   {
     "from": "26688.00",
     "to": "26735.99",
-    "gis": "362.77",
-    "gisOasCombined": "970.23"
+    "gis": "372.44",
+    "gisOasCombined": "985.97"
   },
   {
     "from": "26736.00",
     "to": "26783.99",
-    "gis": "361.77",
-    "gisOasCombined": "969.23"
+    "gis": "371.44",
+    "gisOasCombined": "984.97"
   },
   {
     "from": "26784.00",
     "to": "26831.99",
-    "gis": "360.77",
-    "gisOasCombined": "968.23"
+    "gis": "370.44",
+    "gisOasCombined": "983.97"
   },
   {
     "from": "26832.00",
     "to": "26879.99",
-    "gis": "359.77",
-    "gisOasCombined": "967.23"
+    "gis": "369.44",
+    "gisOasCombined": "982.97"
   },
   {
     "from": "26880.00",
     "to": "26927.99",
-    "gis": "358.77",
-    "gisOasCombined": "966.23"
+    "gis": "368.44",
+    "gisOasCombined": "981.97"
   },
   {
     "from": "26928.00",
     "to": "26975.99",
-    "gis": "357.77",
-    "gisOasCombined": "965.23"
+    "gis": "367.44",
+    "gisOasCombined": "980.97"
   },
   {
     "from": "26976.00",
     "to": "27023.99",
-    "gis": "356.77",
-    "gisOasCombined": "964.23"
+    "gis": "366.44",
+    "gisOasCombined": "979.97"
   },
   {
     "from": "27024.00",
     "to": "27071.99",
-    "gis": "355.77",
-    "gisOasCombined": "963.23"
+    "gis": "365.44",
+    "gisOasCombined": "978.97"
   },
   {
     "from": "27072.00",
     "to": "27119.99",
-    "gis": "354.77",
-    "gisOasCombined": "962.23"
+    "gis": "364.44",
+    "gisOasCombined": "977.97"
   },
   {
     "from": "27120.00",
     "to": "27167.99",
-    "gis": "353.77",
-    "gisOasCombined": "961.23"
+    "gis": "363.44",
+    "gisOasCombined": "976.97"
   },
   {
     "from": "27168.00",
     "to": "27215.99",
-    "gis": "352.77",
-    "gisOasCombined": "960.23"
+    "gis": "362.44",
+    "gisOasCombined": "975.97"
   },
   {
     "from": "27216.00",
     "to": "27263.99",
-    "gis": "351.77",
-    "gisOasCombined": "959.23"
+    "gis": "361.44",
+    "gisOasCombined": "974.97"
   },
   {
     "from": "27264.00",
     "to": "27311.99",
-    "gis": "350.77",
-    "gisOasCombined": "958.23"
+    "gis": "360.44",
+    "gisOasCombined": "973.97"
   },
   {
     "from": "27312.00",
     "to": "27359.99",
-    "gis": "349.77",
-    "gisOasCombined": "957.23"
+    "gis": "359.44",
+    "gisOasCombined": "972.97"
   },
   {
     "from": "27360.00",
     "to": "27407.99",
-    "gis": "348.77",
-    "gisOasCombined": "956.23"
+    "gis": "358.44",
+    "gisOasCombined": "971.97"
   },
   {
     "from": "27408.00",
     "to": "27455.99",
-    "gis": "347.77",
-    "gisOasCombined": "955.23"
+    "gis": "357.44",
+    "gisOasCombined": "970.97"
   },
   {
     "from": "27456.00",
     "to": "27503.99",
-    "gis": "346.77",
-    "gisOasCombined": "954.23"
+    "gis": "356.44",
+    "gisOasCombined": "969.97"
   },
   {
     "from": "27504.00",
     "to": "27551.99",
-    "gis": "345.77",
-    "gisOasCombined": "953.23"
+    "gis": "355.44",
+    "gisOasCombined": "968.97"
   },
   {
     "from": "27552.00",
     "to": "27599.99",
-    "gis": "344.77",
-    "gisOasCombined": "952.23"
+    "gis": "354.44",
+    "gisOasCombined": "967.97"
   },
   {
     "from": "27600.00",
     "to": "27647.99",
-    "gis": "343.77",
-    "gisOasCombined": "951.23"
+    "gis": "353.44",
+    "gisOasCombined": "966.97"
   },
   {
     "from": "27648.00",
     "to": "27695.99",
-    "gis": "342.77",
-    "gisOasCombined": "950.23"
+    "gis": "352.44",
+    "gisOasCombined": "965.97"
   },
   {
     "from": "27696.00",
     "to": "27743.99",
-    "gis": "341.77",
-    "gisOasCombined": "949.23"
+    "gis": "351.44",
+    "gisOasCombined": "964.97"
   },
   {
     "from": "27744.00",
     "to": "27791.99",
-    "gis": "340.77",
-    "gisOasCombined": "948.23"
+    "gis": "350.44",
+    "gisOasCombined": "963.97"
   },
   {
     "from": "27792.00",
     "to": "27839.99",
-    "gis": "339.77",
-    "gisOasCombined": "947.23"
+    "gis": "349.44",
+    "gisOasCombined": "962.97"
   },
   {
     "from": "27840.00",
     "to": "27887.99",
-    "gis": "338.77",
-    "gisOasCombined": "946.23"
+    "gis": "348.44",
+    "gisOasCombined": "961.97"
   },
   {
     "from": "27888.00",
     "to": "27935.99",
-    "gis": "337.77",
-    "gisOasCombined": "945.23"
+    "gis": "347.44",
+    "gisOasCombined": "960.97"
   },
   {
     "from": "27936.00",
     "to": "27983.99",
-    "gis": "336.77",
-    "gisOasCombined": "944.23"
+    "gis": "346.44",
+    "gisOasCombined": "959.97"
   },
   {
     "from": "27984.00",
     "to": "28031.99",
-    "gis": "335.77",
-    "gisOasCombined": "943.23"
+    "gis": "345.44",
+    "gisOasCombined": "958.97"
   },
   {
     "from": "28032.00",
     "to": "28079.99",
-    "gis": "334.77",
-    "gisOasCombined": "942.23"
+    "gis": "344.44",
+    "gisOasCombined": "957.97"
   },
   {
     "from": "28080.00",
     "to": "28127.99",
-    "gis": "333.77",
-    "gisOasCombined": "941.23"
+    "gis": "343.44",
+    "gisOasCombined": "956.97"
   },
   {
     "from": "28128.00",
     "to": "28175.99",
-    "gis": "332.77",
-    "gisOasCombined": "940.23"
+    "gis": "342.44",
+    "gisOasCombined": "955.97"
   },
   {
     "from": "28176.00",
     "to": "28223.99",
-    "gis": "331.77",
-    "gisOasCombined": "939.23"
+    "gis": "341.44",
+    "gisOasCombined": "954.97"
   },
   {
     "from": "28224.00",
     "to": "28271.99",
-    "gis": "330.77",
-    "gisOasCombined": "938.23"
+    "gis": "340.44",
+    "gisOasCombined": "953.97"
   },
   {
     "from": "28272.00",
     "to": "28319.99",
-    "gis": "329.77",
-    "gisOasCombined": "937.23"
+    "gis": "339.44",
+    "gisOasCombined": "952.97"
   },
   {
     "from": "28320.00",
     "to": "28367.99",
-    "gis": "328.77",
-    "gisOasCombined": "936.23"
+    "gis": "338.44",
+    "gisOasCombined": "951.97"
   },
   {
     "from": "28368.00",
     "to": "28415.99",
-    "gis": "327.77",
-    "gisOasCombined": "935.23"
+    "gis": "337.44",
+    "gisOasCombined": "950.97"
   },
   {
     "from": "28416.00",
     "to": "28463.99",
-    "gis": "326.77",
-    "gisOasCombined": "934.23"
+    "gis": "336.44",
+    "gisOasCombined": "949.97"
   },
   {
     "from": "28464.00",
     "to": "28511.99",
-    "gis": "325.77",
-    "gisOasCombined": "933.23"
+    "gis": "335.44",
+    "gisOasCombined": "948.97"
   },
   {
     "from": "28512.00",
     "to": "28559.99",
-    "gis": "324.77",
-    "gisOasCombined": "932.23"
+    "gis": "334.44",
+    "gisOasCombined": "947.97"
   },
   {
     "from": "28560.00",
     "to": "28607.99",
-    "gis": "323.77",
-    "gisOasCombined": "931.23"
+    "gis": "333.44",
+    "gisOasCombined": "946.97"
   },
   {
     "from": "28608.00",
     "to": "28655.99",
-    "gis": "322.77",
-    "gisOasCombined": "930.23"
+    "gis": "332.44",
+    "gisOasCombined": "945.97"
   },
   {
     "from": "28656.00",
     "to": "28703.99",
-    "gis": "321.77",
-    "gisOasCombined": "929.23"
+    "gis": "331.44",
+    "gisOasCombined": "944.97"
   },
   {
     "from": "28704.00",
     "to": "28751.99",
-    "gis": "320.77",
-    "gisOasCombined": "928.23"
+    "gis": "330.44",
+    "gisOasCombined": "943.97"
   },
   {
     "from": "28752.00",
     "to": "28799.99",
-    "gis": "319.77",
-    "gisOasCombined": "927.23"
+    "gis": "329.44",
+    "gisOasCombined": "942.97"
   },
   {
     "from": "28800.00",
     "to": "28847.99",
-    "gis": "318.77",
-    "gisOasCombined": "926.23"
+    "gis": "328.44",
+    "gisOasCombined": "941.97"
   },
   {
     "from": "28848.00",
     "to": "28895.99",
-    "gis": "317.77",
-    "gisOasCombined": "925.23"
+    "gis": "327.44",
+    "gisOasCombined": "940.97"
   },
   {
     "from": "28896.00",
     "to": "28943.99",
-    "gis": "316.77",
-    "gisOasCombined": "924.23"
+    "gis": "326.44",
+    "gisOasCombined": "939.97"
   },
   {
     "from": "28944.00",
     "to": "28991.99",
-    "gis": "315.77",
-    "gisOasCombined": "923.23"
+    "gis": "325.44",
+    "gisOasCombined": "938.97"
   },
   {
     "from": "28992.00",
     "to": "29039.99",
-    "gis": "314.77",
-    "gisOasCombined": "922.23"
+    "gis": "324.44",
+    "gisOasCombined": "937.97"
   },
   {
     "from": "29040.00",
     "to": "29087.99",
-    "gis": "313.77",
-    "gisOasCombined": "921.23"
+    "gis": "323.44",
+    "gisOasCombined": "936.97"
   },
   {
     "from": "29088.00",
     "to": "29135.99",
-    "gis": "312.77",
-    "gisOasCombined": "920.23"
+    "gis": "322.44",
+    "gisOasCombined": "935.97"
   },
   {
     "from": "29136.00",
     "to": "29183.99",
-    "gis": "311.77",
-    "gisOasCombined": "919.23"
+    "gis": "321.44",
+    "gisOasCombined": "934.97"
   },
   {
     "from": "29184.00",
     "to": "29231.99",
-    "gis": "310.77",
-    "gisOasCombined": "918.23"
+    "gis": "320.44",
+    "gisOasCombined": "933.97"
   },
   {
     "from": "29232.00",
     "to": "29279.99",
-    "gis": "309.77",
-    "gisOasCombined": "917.23"
+    "gis": "319.44",
+    "gisOasCombined": "932.97"
   },
   {
     "from": "29280.00",
     "to": "29327.99",
-    "gis": "308.77",
-    "gisOasCombined": "916.23"
+    "gis": "318.44",
+    "gisOasCombined": "931.97"
   },
   {
     "from": "29328.00",
     "to": "29375.99",
-    "gis": "307.77",
-    "gisOasCombined": "915.23"
+    "gis": "317.44",
+    "gisOasCombined": "930.97"
   },
   {
     "from": "29376.00",
     "to": "29423.99",
-    "gis": "306.77",
-    "gisOasCombined": "914.23"
+    "gis": "316.44",
+    "gisOasCombined": "929.97"
   },
   {
     "from": "29424.00",
     "to": "29471.99",
-    "gis": "305.77",
-    "gisOasCombined": "913.23"
+    "gis": "315.44",
+    "gisOasCombined": "928.97"
   },
   {
     "from": "29472.00",
     "to": "29519.99",
-    "gis": "304.77",
-    "gisOasCombined": "912.23"
+    "gis": "314.44",
+    "gisOasCombined": "927.97"
   },
   {
     "from": "29520.00",
     "to": "29567.99",
-    "gis": "303.77",
-    "gisOasCombined": "911.23"
+    "gis": "313.44",
+    "gisOasCombined": "926.97"
   },
   {
     "from": "29568.00",
     "to": "29615.99",
-    "gis": "302.77",
-    "gisOasCombined": "910.23"
+    "gis": "312.44",
+    "gisOasCombined": "925.97"
   },
   {
     "from": "29616.00",
     "to": "29663.99",
-    "gis": "301.77",
-    "gisOasCombined": "909.23"
+    "gis": "311.44",
+    "gisOasCombined": "924.97"
   },
   {
     "from": "29664.00",
     "to": "29711.99",
-    "gis": "300.77",
-    "gisOasCombined": "908.23"
+    "gis": "310.44",
+    "gisOasCombined": "923.97"
   },
   {
     "from": "29712.00",
     "to": "29759.99",
-    "gis": "299.77",
-    "gisOasCombined": "907.23"
+    "gis": "309.44",
+    "gisOasCombined": "922.97"
   },
   {
     "from": "29760.00",
     "to": "29807.99",
-    "gis": "298.77",
-    "gisOasCombined": "906.23"
+    "gis": "308.44",
+    "gisOasCombined": "921.97"
   },
   {
     "from": "29808.00",
     "to": "29855.99",
-    "gis": "297.77",
-    "gisOasCombined": "905.23"
+    "gis": "307.44",
+    "gisOasCombined": "920.97"
   },
   {
     "from": "29856.00",
     "to": "29903.99",
-    "gis": "296.77",
-    "gisOasCombined": "904.23"
+    "gis": "306.44",
+    "gisOasCombined": "919.97"
   },
   {
     "from": "29904.00",
     "to": "29951.99",
-    "gis": "295.77",
-    "gisOasCombined": "903.23"
+    "gis": "305.44",
+    "gisOasCombined": "918.97"
   },
   {
     "from": "29952.00",
     "to": "29999.99",
-    "gis": "294.77",
-    "gisOasCombined": "902.23"
+    "gis": "304.44",
+    "gisOasCombined": "917.97"
   },
   {
     "from": "30000.00",
     "to": "30047.99",
-    "gis": "293.77",
-    "gisOasCombined": "901.23"
+    "gis": "303.44",
+    "gisOasCombined": "916.97"
   },
   {
     "from": "30048.00",
     "to": "30095.99",
-    "gis": "292.77",
-    "gisOasCombined": "900.23"
+    "gis": "302.44",
+    "gisOasCombined": "915.97"
   },
   {
     "from": "30096.00",
     "to": "30143.99",
-    "gis": "291.77",
-    "gisOasCombined": "899.23"
+    "gis": "301.44",
+    "gisOasCombined": "914.97"
   },
   {
     "from": "30144.00",
     "to": "30191.99",
-    "gis": "290.77",
-    "gisOasCombined": "898.23"
+    "gis": "300.44",
+    "gisOasCombined": "913.97"
   },
   {
     "from": "30192.00",
     "to": "30239.99",
-    "gis": "289.77",
-    "gisOasCombined": "897.23"
+    "gis": "299.44",
+    "gisOasCombined": "912.97"
   },
   {
     "from": "30240.00",
     "to": "30287.99",
-    "gis": "288.77",
-    "gisOasCombined": "896.23"
+    "gis": "298.44",
+    "gisOasCombined": "911.97"
   },
   {
     "from": "30288.00",
     "to": "30335.99",
-    "gis": "287.77",
-    "gisOasCombined": "895.23"
+    "gis": "297.44",
+    "gisOasCombined": "910.97"
   },
   {
     "from": "30336.00",
     "to": "30383.99",
-    "gis": "286.77",
-    "gisOasCombined": "894.23"
+    "gis": "296.44",
+    "gisOasCombined": "909.97"
   },
   {
     "from": "30384.00",
     "to": "30431.99",
-    "gis": "285.77",
-    "gisOasCombined": "893.23"
+    "gis": "295.44",
+    "gisOasCombined": "908.97"
   },
   {
     "from": "30432.00",
     "to": "30479.99",
-    "gis": "284.77",
-    "gisOasCombined": "892.23"
+    "gis": "294.44",
+    "gisOasCombined": "907.97"
   },
   {
     "from": "30480.00",
     "to": "30527.99",
-    "gis": "283.77",
-    "gisOasCombined": "891.23"
+    "gis": "293.44",
+    "gisOasCombined": "906.97"
   },
   {
     "from": "30528.00",
     "to": "30575.99",
-    "gis": "282.77",
-    "gisOasCombined": "890.23"
+    "gis": "292.44",
+    "gisOasCombined": "905.97"
   },
   {
     "from": "30576.00",
     "to": "30623.99",
-    "gis": "281.77",
-    "gisOasCombined": "889.23"
+    "gis": "291.44",
+    "gisOasCombined": "904.97"
   },
   {
     "from": "30624.00",
     "to": "30671.99",
-    "gis": "280.77",
-    "gisOasCombined": "888.23"
+    "gis": "290.44",
+    "gisOasCombined": "903.97"
   },
   {
     "from": "30672.00",
     "to": "30719.99",
-    "gis": "279.77",
-    "gisOasCombined": "887.23"
+    "gis": "289.44",
+    "gisOasCombined": "902.97"
   },
   {
     "from": "30720.00",
     "to": "30767.99",
-    "gis": "278.77",
-    "gisOasCombined": "886.23"
+    "gis": "288.44",
+    "gisOasCombined": "901.97"
   },
   {
     "from": "30768.00",
     "to": "30815.99",
-    "gis": "277.77",
-    "gisOasCombined": "885.23"
+    "gis": "287.44",
+    "gisOasCombined": "900.97"
   },
   {
     "from": "30816.00",
     "to": "30863.99",
-    "gis": "276.77",
-    "gisOasCombined": "884.23"
+    "gis": "286.44",
+    "gisOasCombined": "899.97"
   },
   {
     "from": "30864.00",
     "to": "30911.99",
-    "gis": "275.77",
-    "gisOasCombined": "883.23"
+    "gis": "285.44",
+    "gisOasCombined": "898.97"
   },
   {
     "from": "30912.00",
     "to": "30959.99",
-    "gis": "274.77",
-    "gisOasCombined": "882.23"
+    "gis": "284.44",
+    "gisOasCombined": "897.97"
   },
   {
     "from": "30960.00",
     "to": "31007.99",
-    "gis": "273.77",
-    "gisOasCombined": "881.23"
+    "gis": "283.44",
+    "gisOasCombined": "896.97"
   },
   {
     "from": "31008.00",
     "to": "31055.99",
-    "gis": "272.77",
-    "gisOasCombined": "880.23"
+    "gis": "282.44",
+    "gisOasCombined": "895.97"
   },
   {
     "from": "31056.00",
     "to": "31103.99",
-    "gis": "271.77",
-    "gisOasCombined": "879.23"
+    "gis": "281.44",
+    "gisOasCombined": "894.97"
   },
   {
     "from": "31104.00",
     "to": "31151.99",
-    "gis": "270.77",
-    "gisOasCombined": "878.23"
+    "gis": "280.44",
+    "gisOasCombined": "893.97"
   },
   {
     "from": "31152.00",
     "to": "31199.99",
-    "gis": "269.77",
-    "gisOasCombined": "877.23"
+    "gis": "279.44",
+    "gisOasCombined": "892.97"
   },
   {
     "from": "31200.00",
     "to": "31247.99",
-    "gis": "268.77",
-    "gisOasCombined": "876.23"
+    "gis": "278.44",
+    "gisOasCombined": "891.97"
   },
   {
     "from": "31248.00",
     "to": "31295.99",
-    "gis": "267.77",
-    "gisOasCombined": "875.23"
+    "gis": "277.44",
+    "gisOasCombined": "890.97"
   },
   {
     "from": "31296.00",
     "to": "31343.99",
-    "gis": "266.77",
-    "gisOasCombined": "874.23"
+    "gis": "276.44",
+    "gisOasCombined": "889.97"
   },
   {
     "from": "31344.00",
     "to": "31391.99",
-    "gis": "265.77",
-    "gisOasCombined": "873.23"
+    "gis": "275.44",
+    "gisOasCombined": "888.97"
   },
   {
     "from": "31392.00",
     "to": "31439.99",
-    "gis": "264.77",
-    "gisOasCombined": "872.23"
+    "gis": "274.44",
+    "gisOasCombined": "887.97"
   },
   {
     "from": "31440.00",
     "to": "31487.99",
-    "gis": "263.77",
-    "gisOasCombined": "871.23"
+    "gis": "273.44",
+    "gisOasCombined": "886.97"
   },
   {
     "from": "31488.00",
     "to": "31535.99",
-    "gis": "262.77",
-    "gisOasCombined": "870.23"
+    "gis": "272.44",
+    "gisOasCombined": "885.97"
   },
   {
     "from": "31536.00",
     "to": "31583.99",
-    "gis": "261.77",
-    "gisOasCombined": "869.23"
+    "gis": "271.44",
+    "gisOasCombined": "884.97"
   },
   {
     "from": "31584.00",
     "to": "31631.99",
-    "gis": "260.77",
-    "gisOasCombined": "868.23"
+    "gis": "270.44",
+    "gisOasCombined": "883.97"
   },
   {
     "from": "31632.00",
     "to": "31679.99",
-    "gis": "259.77",
-    "gisOasCombined": "867.23"
+    "gis": "269.44",
+    "gisOasCombined": "882.97"
   },
   {
     "from": "31680.00",
     "to": "31727.99",
-    "gis": "258.77",
-    "gisOasCombined": "866.23"
+    "gis": "268.44",
+    "gisOasCombined": "881.97"
   },
   {
     "from": "31728.00",
     "to": "31775.99",
-    "gis": "257.77",
-    "gisOasCombined": "865.23"
+    "gis": "267.44",
+    "gisOasCombined": "880.97"
   },
   {
     "from": "31776.00",
     "to": "31823.99",
-    "gis": "256.77",
-    "gisOasCombined": "864.23"
+    "gis": "266.44",
+    "gisOasCombined": "879.97"
   },
   {
     "from": "31824.00",
     "to": "31871.99",
-    "gis": "255.77",
-    "gisOasCombined": "863.23"
+    "gis": "265.44",
+    "gisOasCombined": "878.97"
   },
   {
     "from": "31872.00",
     "to": "31919.99",
-    "gis": "254.77",
-    "gisOasCombined": "862.23"
+    "gis": "264.44",
+    "gisOasCombined": "877.97"
   },
   {
     "from": "31920.00",
     "to": "31967.99",
-    "gis": "253.77",
-    "gisOasCombined": "861.23"
+    "gis": "263.44",
+    "gisOasCombined": "876.97"
   },
   {
     "from": "31968.00",
     "to": "32015.99",
-    "gis": "252.77",
-    "gisOasCombined": "860.23"
+    "gis": "262.44",
+    "gisOasCombined": "875.97"
   },
   {
     "from": "32016.00",
     "to": "32063.99",
-    "gis": "251.77",
-    "gisOasCombined": "859.23"
+    "gis": "261.44",
+    "gisOasCombined": "874.97"
   },
   {
     "from": "32064.00",
     "to": "32111.99",
-    "gis": "250.77",
-    "gisOasCombined": "858.23"
+    "gis": "260.44",
+    "gisOasCombined": "873.97"
   },
   {
     "from": "32112.00",
     "to": "32159.99",
-    "gis": "249.77",
-    "gisOasCombined": "857.23"
+    "gis": "259.44",
+    "gisOasCombined": "872.97"
   },
   {
     "from": "32160.00",
     "to": "32207.99",
-    "gis": "248.77",
-    "gisOasCombined": "856.23"
+    "gis": "258.44",
+    "gisOasCombined": "871.97"
   },
   {
     "from": "32208.00",
     "to": "32255.99",
-    "gis": "247.77",
-    "gisOasCombined": "855.23"
+    "gis": "257.44",
+    "gisOasCombined": "870.97"
   },
   {
     "from": "32256.00",
     "to": "32303.99",
-    "gis": "246.77",
-    "gisOasCombined": "854.23"
+    "gis": "256.44",
+    "gisOasCombined": "869.97"
   },
   {
     "from": "32304.00",
     "to": "32351.99",
-    "gis": "245.77",
-    "gisOasCombined": "853.23"
+    "gis": "255.44",
+    "gisOasCombined": "868.97"
   },
   {
     "from": "32352.00",
     "to": "32399.99",
-    "gis": "244.77",
-    "gisOasCombined": "852.23"
+    "gis": "254.44",
+    "gisOasCombined": "867.97"
   },
   {
     "from": "32400.00",
     "to": "32447.99",
-    "gis": "243.77",
-    "gisOasCombined": "851.23"
+    "gis": "253.44",
+    "gisOasCombined": "866.97"
   },
   {
     "from": "32448.00",
     "to": "32495.99",
-    "gis": "242.77",
-    "gisOasCombined": "850.23"
+    "gis": "252.44",
+    "gisOasCombined": "865.97"
   },
   {
     "from": "32496.00",
     "to": "32543.99",
-    "gis": "241.77",
-    "gisOasCombined": "849.23"
+    "gis": "251.44",
+    "gisOasCombined": "864.97"
   },
   {
     "from": "32544.00",
     "to": "32591.99",
-    "gis": "240.77",
-    "gisOasCombined": "848.23"
+    "gis": "250.44",
+    "gisOasCombined": "863.97"
   },
   {
     "from": "32592.00",
     "to": "32639.99",
-    "gis": "239.77",
-    "gisOasCombined": "847.23"
+    "gis": "249.44",
+    "gisOasCombined": "862.97"
   },
   {
     "from": "32640.00",
     "to": "32687.99",
-    "gis": "238.77",
-    "gisOasCombined": "846.23"
+    "gis": "248.44",
+    "gisOasCombined": "861.97"
   },
   {
     "from": "32688.00",
     "to": "32735.99",
-    "gis": "237.77",
-    "gisOasCombined": "845.23"
+    "gis": "247.44",
+    "gisOasCombined": "860.97"
   },
   {
     "from": "32736.00",
     "to": "32783.99",
-    "gis": "236.77",
-    "gisOasCombined": "844.23"
+    "gis": "246.44",
+    "gisOasCombined": "859.97"
   },
   {
     "from": "32784.00",
     "to": "32831.99",
-    "gis": "235.77",
-    "gisOasCombined": "843.23"
+    "gis": "245.44",
+    "gisOasCombined": "858.97"
   },
   {
     "from": "32832.00",
     "to": "32879.99",
-    "gis": "234.77",
-    "gisOasCombined": "842.23"
+    "gis": "244.44",
+    "gisOasCombined": "857.97"
   },
   {
     "from": "32880.00",
     "to": "32927.99",
-    "gis": "233.77",
-    "gisOasCombined": "841.23"
+    "gis": "243.44",
+    "gisOasCombined": "856.97"
   },
   {
     "from": "32928.00",
     "to": "32975.99",
-    "gis": "232.77",
-    "gisOasCombined": "840.23"
+    "gis": "242.44",
+    "gisOasCombined": "855.97"
   },
   {
     "from": "32976.00",
     "to": "33023.99",
-    "gis": "231.77",
-    "gisOasCombined": "839.23"
+    "gis": "241.44",
+    "gisOasCombined": "854.97"
   },
   {
     "from": "33024.00",
     "to": "33071.99",
-    "gis": "230.77",
-    "gisOasCombined": "838.23"
+    "gis": "240.44",
+    "gisOasCombined": "853.97"
   },
   {
     "from": "33072.00",
     "to": "33119.99",
-    "gis": "229.77",
-    "gisOasCombined": "837.23"
+    "gis": "239.44",
+    "gisOasCombined": "852.97"
   },
   {
     "from": "33120.00",
     "to": "33167.99",
-    "gis": "228.77",
-    "gisOasCombined": "836.23"
+    "gis": "238.44",
+    "gisOasCombined": "851.97"
   },
   {
     "from": "33168.00",
     "to": "33215.99",
-    "gis": "227.77",
-    "gisOasCombined": "835.23"
+    "gis": "237.44",
+    "gisOasCombined": "850.97"
   },
   {
     "from": "33216.00",
     "to": "33263.99",
-    "gis": "226.77",
-    "gisOasCombined": "834.23"
+    "gis": "236.44",
+    "gisOasCombined": "849.97"
   },
   {
     "from": "33264.00",
     "to": "33311.99",
-    "gis": "225.77",
-    "gisOasCombined": "833.23"
+    "gis": "235.44",
+    "gisOasCombined": "848.97"
   },
   {
     "from": "33312.00",
     "to": "33359.99",
-    "gis": "224.77",
-    "gisOasCombined": "832.23"
+    "gis": "234.44",
+    "gisOasCombined": "847.97"
   },
   {
     "from": "33360.00",
     "to": "33407.99",
-    "gis": "223.77",
-    "gisOasCombined": "831.23"
+    "gis": "233.44",
+    "gisOasCombined": "846.97"
   },
   {
     "from": "33408.00",
     "to": "33455.99",
-    "gis": "222.77",
-    "gisOasCombined": "830.23"
+    "gis": "232.44",
+    "gisOasCombined": "845.97"
   },
   {
     "from": "33456.00",
     "to": "33503.99",
-    "gis": "221.77",
-    "gisOasCombined": "829.23"
+    "gis": "231.44",
+    "gisOasCombined": "844.97"
   },
   {
     "from": "33504.00",
     "to": "33551.99",
-    "gis": "220.77",
-    "gisOasCombined": "828.23"
+    "gis": "230.44",
+    "gisOasCombined": "843.97"
   },
   {
     "from": "33552.00",
     "to": "33599.99",
-    "gis": "219.77",
-    "gisOasCombined": "827.23"
+    "gis": "229.44",
+    "gisOasCombined": "842.97"
   },
   {
     "from": "33600.00",
     "to": "33647.99",
-    "gis": "218.77",
-    "gisOasCombined": "826.23"
+    "gis": "228.44",
+    "gisOasCombined": "841.97"
   },
   {
     "from": "33648.00",
     "to": "33695.99",
-    "gis": "217.77",
-    "gisOasCombined": "825.23"
+    "gis": "227.44",
+    "gisOasCombined": "840.97"
   },
   {
     "from": "33696.00",
     "to": "33743.99",
-    "gis": "216.77",
-    "gisOasCombined": "824.23"
+    "gis": "226.44",
+    "gisOasCombined": "839.97"
   },
   {
     "from": "33744.00",
     "to": "33791.99",
-    "gis": "215.77",
-    "gisOasCombined": "823.23"
+    "gis": "225.44",
+    "gisOasCombined": "838.97"
   },
   {
     "from": "33792.00",
     "to": "33839.99",
-    "gis": "214.77",
-    "gisOasCombined": "822.23"
+    "gis": "224.44",
+    "gisOasCombined": "837.97"
   },
   {
     "from": "33840.00",
     "to": "33887.99",
-    "gis": "213.77",
-    "gisOasCombined": "821.23"
+    "gis": "223.44",
+    "gisOasCombined": "836.97"
   },
   {
     "from": "33888.00",
     "to": "33935.99",
-    "gis": "212.77",
-    "gisOasCombined": "820.23"
+    "gis": "222.44",
+    "gisOasCombined": "835.97"
   },
   {
     "from": "33936.00",
     "to": "33983.99",
-    "gis": "211.77",
-    "gisOasCombined": "819.23"
+    "gis": "221.44",
+    "gisOasCombined": "834.97"
   },
   {
     "from": "33984.00",
     "to": "34031.99",
-    "gis": "210.77",
-    "gisOasCombined": "818.23"
+    "gis": "220.44",
+    "gisOasCombined": "833.97"
   },
   {
     "from": "34032.00",
     "to": "34079.99",
-    "gis": "209.77",
-    "gisOasCombined": "817.23"
+    "gis": "219.44",
+    "gisOasCombined": "832.97"
   },
   {
     "from": "34080.00",
     "to": "34127.99",
-    "gis": "208.77",
-    "gisOasCombined": "816.23"
+    "gis": "218.44",
+    "gisOasCombined": "831.97"
   },
   {
     "from": "34128.00",
     "to": "34175.99",
-    "gis": "207.77",
-    "gisOasCombined": "815.23"
+    "gis": "217.44",
+    "gisOasCombined": "830.97"
   },
   {
     "from": "34176.00",
     "to": "34223.99",
-    "gis": "206.77",
-    "gisOasCombined": "814.23"
+    "gis": "216.44",
+    "gisOasCombined": "829.97"
   },
   {
     "from": "34224.00",
     "to": "34271.99",
-    "gis": "205.77",
-    "gisOasCombined": "813.23"
+    "gis": "215.44",
+    "gisOasCombined": "828.97"
   },
   {
     "from": "34272.00",
     "to": "34319.99",
-    "gis": "204.77",
-    "gisOasCombined": "812.23"
+    "gis": "214.44",
+    "gisOasCombined": "827.97"
   },
   {
     "from": "34320.00",
     "to": "34367.99",
-    "gis": "203.77",
-    "gisOasCombined": "811.23"
+    "gis": "213.44",
+    "gisOasCombined": "826.97"
   },
   {
     "from": "34368.00",
     "to": "34415.99",
-    "gis": "202.77",
-    "gisOasCombined": "810.23"
+    "gis": "212.44",
+    "gisOasCombined": "825.97"
   },
   {
     "from": "34416.00",
     "to": "34463.99",
-    "gis": "201.77",
-    "gisOasCombined": "809.23"
+    "gis": "211.44",
+    "gisOasCombined": "824.97"
   },
   {
     "from": "34464.00",
     "to": "34511.99",
-    "gis": "200.77",
-    "gisOasCombined": "808.23"
+    "gis": "210.44",
+    "gisOasCombined": "823.97"
   },
   {
     "from": "34512.00",
     "to": "34559.99",
-    "gis": "199.77",
-    "gisOasCombined": "807.23"
+    "gis": "209.44",
+    "gisOasCombined": "822.97"
   },
   {
     "from": "34560.00",
     "to": "34607.99",
-    "gis": "198.77",
-    "gisOasCombined": "806.23"
+    "gis": "208.44",
+    "gisOasCombined": "821.97"
   },
   {
     "from": "34608.00",
     "to": "34655.99",
-    "gis": "197.77",
-    "gisOasCombined": "805.23"
+    "gis": "207.44",
+    "gisOasCombined": "820.97"
   },
   {
     "from": "34656.00",
     "to": "34703.99",
-    "gis": "196.77",
-    "gisOasCombined": "804.23"
+    "gis": "206.44",
+    "gisOasCombined": "819.97"
   },
   {
     "from": "34704.00",
     "to": "34751.99",
-    "gis": "195.77",
-    "gisOasCombined": "803.23"
+    "gis": "205.44",
+    "gisOasCombined": "818.97"
   },
   {
     "from": "34752.00",
     "to": "34799.99",
-    "gis": "194.77",
-    "gisOasCombined": "802.23"
+    "gis": "204.44",
+    "gisOasCombined": "817.97"
   },
   {
     "from": "34800.00",
     "to": "34847.99",
-    "gis": "193.77",
-    "gisOasCombined": "801.23"
+    "gis": "203.44",
+    "gisOasCombined": "816.97"
   },
   {
     "from": "34848.00",
     "to": "34895.99",
-    "gis": "192.77",
-    "gisOasCombined": "800.23"
+    "gis": "202.44",
+    "gisOasCombined": "815.97"
   },
   {
     "from": "34896.00",
     "to": "34943.99",
-    "gis": "191.77",
-    "gisOasCombined": "799.23"
+    "gis": "201.44",
+    "gisOasCombined": "814.97"
   },
   {
     "from": "34944.00",
     "to": "34991.99",
-    "gis": "190.77",
-    "gisOasCombined": "798.23"
+    "gis": "200.44",
+    "gisOasCombined": "813.97"
   },
   {
     "from": "34992.00",
     "to": "35039.99",
-    "gis": "189.77",
-    "gisOasCombined": "797.23"
+    "gis": "199.44",
+    "gisOasCombined": "812.97"
   },
   {
     "from": "35040.00",
     "to": "35087.99",
-    "gis": "188.77",
-    "gisOasCombined": "796.23"
+    "gis": "198.44",
+    "gisOasCombined": "811.97"
   },
   {
     "from": "35088.00",
     "to": "35135.99",
-    "gis": "187.77",
-    "gisOasCombined": "795.23"
+    "gis": "197.44",
+    "gisOasCombined": "810.97"
   },
   {
     "from": "35136.00",
     "to": "35183.99",
-    "gis": "186.77",
-    "gisOasCombined": "794.23"
+    "gis": "196.44",
+    "gisOasCombined": "809.97"
   },
   {
     "from": "35184.00",
     "to": "35231.99",
-    "gis": "185.77",
-    "gisOasCombined": "793.23"
+    "gis": "195.44",
+    "gisOasCombined": "808.97"
   },
   {
     "from": "35232.00",
     "to": "35279.99",
-    "gis": "184.77",
-    "gisOasCombined": "792.23"
+    "gis": "194.44",
+    "gisOasCombined": "807.97"
   },
   {
     "from": "35280.00",
     "to": "35327.99",
-    "gis": "183.77",
-    "gisOasCombined": "791.23"
+    "gis": "193.44",
+    "gisOasCombined": "806.97"
   },
   {
     "from": "35328.00",
     "to": "35375.99",
-    "gis": "182.77",
-    "gisOasCombined": "790.23"
+    "gis": "192.44",
+    "gisOasCombined": "805.97"
   },
   {
     "from": "35376.00",
     "to": "35423.99",
-    "gis": "181.77",
-    "gisOasCombined": "789.23"
+    "gis": "191.44",
+    "gisOasCombined": "804.97"
   },
   {
     "from": "35424.00",
     "to": "35471.99",
-    "gis": "180.77",
-    "gisOasCombined": "788.23"
+    "gis": "190.44",
+    "gisOasCombined": "803.97"
   },
   {
     "from": "35472.00",
     "to": "35519.99",
-    "gis": "179.77",
-    "gisOasCombined": "787.23"
+    "gis": "189.44",
+    "gisOasCombined": "802.97"
   },
   {
     "from": "35520.00",
     "to": "35567.99",
-    "gis": "178.77",
-    "gisOasCombined": "786.23"
+    "gis": "188.44",
+    "gisOasCombined": "801.97"
   },
   {
     "from": "35568.00",
     "to": "35615.99",
-    "gis": "177.77",
-    "gisOasCombined": "785.23"
+    "gis": "187.44",
+    "gisOasCombined": "800.97"
   },
   {
     "from": "35616.00",
     "to": "35663.99",
-    "gis": "176.77",
-    "gisOasCombined": "784.23"
+    "gis": "186.44",
+    "gisOasCombined": "799.97"
   },
   {
     "from": "35664.00",
     "to": "35711.99",
-    "gis": "175.77",
-    "gisOasCombined": "783.23"
+    "gis": "185.44",
+    "gisOasCombined": "798.97"
   },
   {
     "from": "35712.00",
     "to": "35759.99",
-    "gis": "174.77",
-    "gisOasCombined": "782.23"
+    "gis": "184.44",
+    "gisOasCombined": "797.97"
   },
   {
     "from": "35760.00",
     "to": "35807.99",
-    "gis": "173.77",
-    "gisOasCombined": "781.23"
+    "gis": "183.44",
+    "gisOasCombined": "796.97"
   },
   {
     "from": "35808.00",
     "to": "35855.99",
-    "gis": "172.77",
-    "gisOasCombined": "780.23"
+    "gis": "182.44",
+    "gisOasCombined": "795.97"
   },
   {
     "from": "35856.00",
     "to": "35903.99",
-    "gis": "171.77",
-    "gisOasCombined": "779.23"
+    "gis": "181.44",
+    "gisOasCombined": "794.97"
   },
   {
     "from": "35904.00",
     "to": "35951.99",
-    "gis": "170.77",
-    "gisOasCombined": "778.23"
+    "gis": "180.44",
+    "gisOasCombined": "793.97"
   },
   {
     "from": "35952.00",
     "to": "35999.99",
-    "gis": "169.77",
-    "gisOasCombined": "777.23"
+    "gis": "179.44",
+    "gisOasCombined": "792.97"
   },
   {
     "from": "36000.00",
     "to": "36047.99",
-    "gis": "168.77",
-    "gisOasCombined": "776.23"
+    "gis": "178.44",
+    "gisOasCombined": "791.97"
   },
   {
     "from": "36048.00",
     "to": "36095.99",
-    "gis": "167.77",
-    "gisOasCombined": "775.23"
+    "gis": "177.44",
+    "gisOasCombined": "790.97"
   },
   {
     "from": "36096.00",
     "to": "36143.99",
-    "gis": "166.77",
-    "gisOasCombined": "774.23"
+    "gis": "176.44",
+    "gisOasCombined": "789.97"
   },
   {
     "from": "36144.00",
     "to": "36191.99",
-    "gis": "165.77",
-    "gisOasCombined": "773.23"
+    "gis": "175.44",
+    "gisOasCombined": "788.97"
   },
   {
     "from": "36192.00",
     "to": "36239.99",
-    "gis": "164.77",
-    "gisOasCombined": "772.23"
+    "gis": "174.44",
+    "gisOasCombined": "787.97"
   },
   {
     "from": "36240.00",
     "to": "36287.99",
-    "gis": "163.77",
-    "gisOasCombined": "771.23"
+    "gis": "173.44",
+    "gisOasCombined": "786.97"
   },
   {
     "from": "36288.00",
     "to": "36335.99",
-    "gis": "162.77",
-    "gisOasCombined": "770.23"
+    "gis": "172.44",
+    "gisOasCombined": "785.97"
   },
   {
     "from": "36336.00",
     "to": "36383.99",
-    "gis": "161.77",
-    "gisOasCombined": "769.23"
+    "gis": "171.44",
+    "gisOasCombined": "784.97"
   },
   {
     "from": "36384.00",
     "to": "36431.99",
-    "gis": "160.77",
-    "gisOasCombined": "768.23"
+    "gis": "170.44",
+    "gisOasCombined": "783.97"
   },
   {
     "from": "36432.00",
     "to": "36479.99",
-    "gis": "159.77",
-    "gisOasCombined": "767.23"
+    "gis": "169.44",
+    "gisOasCombined": "782.97"
   },
   {
     "from": "36480.00",
     "to": "36527.99",
-    "gis": "158.77",
-    "gisOasCombined": "766.23"
+    "gis": "168.44",
+    "gisOasCombined": "781.97"
   },
   {
     "from": "36528.00",
     "to": "36575.99",
-    "gis": "157.77",
-    "gisOasCombined": "765.23"
+    "gis": "167.44",
+    "gisOasCombined": "780.97"
   },
   {
     "from": "36576.00",
     "to": "36623.99",
-    "gis": "156.77",
-    "gisOasCombined": "764.23"
+    "gis": "166.44",
+    "gisOasCombined": "779.97"
   },
   {
     "from": "36624.00",
     "to": "36671.99",
-    "gis": "155.77",
-    "gisOasCombined": "763.23"
+    "gis": "165.44",
+    "gisOasCombined": "778.97"
   },
   {
     "from": "36672.00",
     "to": "36719.99",
-    "gis": "154.77",
-    "gisOasCombined": "762.23"
+    "gis": "164.44",
+    "gisOasCombined": "777.97"
   },
   {
     "from": "36720.00",
     "to": "36767.99",
-    "gis": "153.77",
-    "gisOasCombined": "761.23"
+    "gis": "163.44",
+    "gisOasCombined": "776.97"
   },
   {
     "from": "36768.00",
     "to": "36815.99",
-    "gis": "152.77",
-    "gisOasCombined": "760.23"
+    "gis": "162.44",
+    "gisOasCombined": "775.97"
   },
   {
     "from": "36816.00",
     "to": "36863.99",
-    "gis": "151.77",
-    "gisOasCombined": "759.23"
+    "gis": "161.44",
+    "gisOasCombined": "774.97"
   },
   {
     "from": "36864.00",
     "to": "36911.99",
-    "gis": "150.77",
-    "gisOasCombined": "758.23"
+    "gis": "160.44",
+    "gisOasCombined": "773.97"
   },
   {
     "from": "36912.00",
     "to": "36959.99",
-    "gis": "149.77",
-    "gisOasCombined": "757.23"
+    "gis": "159.44",
+    "gisOasCombined": "772.97"
   },
   {
     "from": "36960.00",
     "to": "37007.99",
-    "gis": "148.77",
-    "gisOasCombined": "756.23"
+    "gis": "158.44",
+    "gisOasCombined": "771.97"
   },
   {
     "from": "37008.00",
     "to": "37055.99",
-    "gis": "147.77",
-    "gisOasCombined": "755.23"
+    "gis": "157.44",
+    "gisOasCombined": "770.97"
   },
   {
     "from": "37056.00",
     "to": "37103.99",
-    "gis": "146.77",
-    "gisOasCombined": "754.23"
+    "gis": "156.44",
+    "gisOasCombined": "769.97"
   },
   {
     "from": "37104.00",
     "to": "37151.99",
-    "gis": "145.77",
-    "gisOasCombined": "753.23"
+    "gis": "155.44",
+    "gisOasCombined": "768.97"
   },
   {
     "from": "37152.00",
     "to": "37199.99",
-    "gis": "144.77",
-    "gisOasCombined": "752.23"
+    "gis": "154.44",
+    "gisOasCombined": "767.97"
   },
   {
     "from": "37200.00",
     "to": "37247.99",
-    "gis": "143.77",
-    "gisOasCombined": "751.23"
+    "gis": "153.44",
+    "gisOasCombined": "766.97"
   },
   {
     "from": "37248.00",
     "to": "37295.99",
-    "gis": "142.77",
-    "gisOasCombined": "750.23"
+    "gis": "152.44",
+    "gisOasCombined": "765.97"
   },
   {
     "from": "37296.00",
     "to": "37343.99",
-    "gis": "141.77",
-    "gisOasCombined": "749.23"
+    "gis": "151.44",
+    "gisOasCombined": "764.97"
   },
   {
     "from": "37344.00",
     "to": "37391.99",
-    "gis": "140.77",
-    "gisOasCombined": "748.23"
+    "gis": "150.44",
+    "gisOasCombined": "763.97"
   },
   {
     "from": "37392.00",
     "to": "37439.99",
-    "gis": "139.77",
-    "gisOasCombined": "747.23"
+    "gis": "149.44",
+    "gisOasCombined": "762.97"
   },
   {
     "from": "37440.00",
     "to": "37487.99",
-    "gis": "138.77",
-    "gisOasCombined": "746.23"
+    "gis": "148.44",
+    "gisOasCombined": "761.97"
   },
   {
     "from": "37488.00",
     "to": "37535.99",
-    "gis": "137.77",
-    "gisOasCombined": "745.23"
+    "gis": "147.44",
+    "gisOasCombined": "760.97"
   },
   {
     "from": "37536.00",
     "to": "37583.99",
-    "gis": "136.77",
-    "gisOasCombined": "744.23"
+    "gis": "146.44",
+    "gisOasCombined": "759.97"
   },
   {
     "from": "37584.00",
     "to": "37631.99",
-    "gis": "135.77",
-    "gisOasCombined": "743.23"
+    "gis": "145.44",
+    "gisOasCombined": "758.97"
   },
   {
     "from": "37632.00",
     "to": "37679.99",
-    "gis": "134.77",
-    "gisOasCombined": "742.23"
+    "gis": "144.44",
+    "gisOasCombined": "757.97"
   },
   {
     "from": "37680.00",
     "to": "37727.99",
-    "gis": "133.77",
-    "gisOasCombined": "741.23"
+    "gis": "143.44",
+    "gisOasCombined": "756.97"
   },
   {
     "from": "37728.00",
     "to": "37775.99",
-    "gis": "132.77",
-    "gisOasCombined": "740.23"
+    "gis": "142.44",
+    "gisOasCombined": "755.97"
   },
   {
     "from": "37776.00",
     "to": "37823.99",
-    "gis": "131.77",
-    "gisOasCombined": "739.23"
+    "gis": "141.44",
+    "gisOasCombined": "754.97"
   },
   {
     "from": "37824.00",
     "to": "37871.99",
-    "gis": "130.77",
-    "gisOasCombined": "738.23"
+    "gis": "140.44",
+    "gisOasCombined": "753.97"
   },
   {
     "from": "37872.00",
     "to": "37919.99",
-    "gis": "129.77",
-    "gisOasCombined": "737.23"
+    "gis": "139.44",
+    "gisOasCombined": "752.97"
   },
   {
     "from": "37920.00",
     "to": "37967.99",
-    "gis": "128.77",
-    "gisOasCombined": "736.23"
+    "gis": "138.44",
+    "gisOasCombined": "751.97"
   },
   {
     "from": "37968.00",
     "to": "38015.99",
-    "gis": "127.77",
-    "gisOasCombined": "735.23"
+    "gis": "137.44",
+    "gisOasCombined": "750.97"
   },
   {
     "from": "38016.00",
     "to": "38063.99",
-    "gis": "126.77",
-    "gisOasCombined": "734.23"
+    "gis": "136.44",
+    "gisOasCombined": "749.97"
   },
   {
     "from": "38064.00",
     "to": "38111.99",
-    "gis": "125.77",
-    "gisOasCombined": "733.23"
+    "gis": "135.44",
+    "gisOasCombined": "748.97"
   },
   {
     "from": "38112.00",
     "to": "38159.99",
-    "gis": "124.77",
-    "gisOasCombined": "732.23"
+    "gis": "134.44",
+    "gisOasCombined": "747.97"
   },
   {
     "from": "38160.00",
     "to": "38207.99",
-    "gis": "123.77",
-    "gisOasCombined": "731.23"
+    "gis": "133.44",
+    "gisOasCombined": "746.97"
   },
   {
     "from": "38208.00",
     "to": "38255.99",
-    "gis": "122.77",
-    "gisOasCombined": "730.23"
+    "gis": "132.44",
+    "gisOasCombined": "745.97"
   },
   {
     "from": "38256.00",
     "to": "38303.99",
-    "gis": "121.77",
-    "gisOasCombined": "729.23"
+    "gis": "131.44",
+    "gisOasCombined": "744.97"
   },
   {
     "from": "38304.00",
     "to": "38351.99",
-    "gis": "120.77",
-    "gisOasCombined": "728.23"
+    "gis": "130.44",
+    "gisOasCombined": "743.97"
   },
   {
     "from": "38352.00",
     "to": "38399.99",
-    "gis": "119.77",
-    "gisOasCombined": "727.23"
+    "gis": "129.44",
+    "gisOasCombined": "742.97"
   },
   {
     "from": "38400.00",
     "to": "38447.99",
-    "gis": "118.77",
-    "gisOasCombined": "726.23"
+    "gis": "128.44",
+    "gisOasCombined": "741.97"
   },
   {
     "from": "38448.00",
     "to": "38495.99",
-    "gis": "117.77",
-    "gisOasCombined": "725.23"
+    "gis": "127.44",
+    "gisOasCombined": "740.97"
   },
   {
     "from": "38496.00",
     "to": "38543.99",
-    "gis": "116.77",
-    "gisOasCombined": "724.23"
+    "gis": "126.44",
+    "gisOasCombined": "739.97"
   },
   {
     "from": "38544.00",
     "to": "38591.99",
-    "gis": "115.77",
-    "gisOasCombined": "723.23"
+    "gis": "125.44",
+    "gisOasCombined": "738.97"
   },
   {
     "from": "38592.00",
     "to": "38639.99",
-    "gis": "114.77",
-    "gisOasCombined": "722.23"
+    "gis": "124.44",
+    "gisOasCombined": "737.97"
   },
   {
     "from": "38640.00",
     "to": "38687.99",
-    "gis": "113.77",
-    "gisOasCombined": "721.23"
+    "gis": "123.44",
+    "gisOasCombined": "736.97"
   },
   {
     "from": "38688.00",
     "to": "38735.99",
-    "gis": "112.77",
-    "gisOasCombined": "720.23"
+    "gis": "122.44",
+    "gisOasCombined": "735.97"
   },
   {
     "from": "38736.00",
     "to": "38783.99",
-    "gis": "111.77",
-    "gisOasCombined": "719.23"
+    "gis": "121.44",
+    "gisOasCombined": "734.97"
   },
   {
     "from": "38784.00",
     "to": "38831.99",
-    "gis": "110.77",
-    "gisOasCombined": "718.23"
+    "gis": "120.44",
+    "gisOasCombined": "733.97"
   },
   {
     "from": "38832.00",
     "to": "38879.99",
-    "gis": "109.77",
-    "gisOasCombined": "717.23"
+    "gis": "119.44",
+    "gisOasCombined": "732.97"
   },
   {
     "from": "38880.00",
     "to": "38927.99",
-    "gis": "108.77",
-    "gisOasCombined": "716.23"
+    "gis": "118.44",
+    "gisOasCombined": "731.97"
   },
   {
     "from": "38928.00",
     "to": "38975.99",
-    "gis": "107.77",
-    "gisOasCombined": "715.23"
+    "gis": "117.44",
+    "gisOasCombined": "730.97"
   },
   {
     "from": "38976.00",
     "to": "39023.99",
-    "gis": "106.77",
-    "gisOasCombined": "714.23"
+    "gis": "116.44",
+    "gisOasCombined": "729.97"
   },
   {
     "from": "39024.00",
     "to": "39071.99",
-    "gis": "105.77",
-    "gisOasCombined": "713.23"
+    "gis": "115.44",
+    "gisOasCombined": "728.97"
   },
   {
     "from": "39072.00",
     "to": "39119.99",
-    "gis": "104.77",
-    "gisOasCombined": "712.23"
+    "gis": "114.44",
+    "gisOasCombined": "727.97"
   },
   {
     "from": "39120.00",
     "to": "39167.99",
-    "gis": "103.77",
-    "gisOasCombined": "711.23"
+    "gis": "113.44",
+    "gisOasCombined": "726.97"
   },
   {
     "from": "39168.00",
     "to": "39215.99",
-    "gis": "102.77",
-    "gisOasCombined": "710.23"
+    "gis": "112.44",
+    "gisOasCombined": "725.97"
   },
   {
     "from": "39216.00",
     "to": "39263.99",
-    "gis": "101.77",
-    "gisOasCombined": "709.23"
+    "gis": "111.44",
+    "gisOasCombined": "724.97"
   },
   {
     "from": "39264.00",
     "to": "39311.99",
-    "gis": "100.77",
-    "gisOasCombined": "708.23"
+    "gis": "110.44",
+    "gisOasCombined": "723.97"
   },
   {
     "from": "39312.00",
     "to": "39359.99",
-    "gis": "99.77",
-    "gisOasCombined": "707.23"
+    "gis": "109.44",
+    "gisOasCombined": "722.97"
   },
   {
     "from": "39360.00",
     "to": "39407.99",
-    "gis": "98.77",
-    "gisOasCombined": "706.23"
+    "gis": "108.44",
+    "gisOasCombined": "721.97"
   },
   {
     "from": "39408.00",
     "to": "39455.99",
-    "gis": "97.77",
-    "gisOasCombined": "705.23"
+    "gis": "107.44",
+    "gisOasCombined": "720.97"
   },
   {
     "from": "39456.00",
     "to": "39503.99",
-    "gis": "96.77",
-    "gisOasCombined": "704.23"
+    "gis": "106.44",
+    "gisOasCombined": "719.97"
   },
   {
     "from": "39504.00",
     "to": "39551.99",
-    "gis": "95.77",
-    "gisOasCombined": "703.23"
+    "gis": "105.44",
+    "gisOasCombined": "718.97"
   },
   {
     "from": "39552.00",
     "to": "39599.99",
-    "gis": "94.77",
-    "gisOasCombined": "702.23"
+    "gis": "104.44",
+    "gisOasCombined": "717.97"
   },
   {
     "from": "39600.00",
     "to": "39647.99",
-    "gis": "93.77",
-    "gisOasCombined": "701.23"
+    "gis": "103.44",
+    "gisOasCombined": "716.97"
   },
   {
     "from": "39648.00",
     "to": "39695.99",
-    "gis": "92.77",
-    "gisOasCombined": "700.23"
+    "gis": "102.44",
+    "gisOasCombined": "715.97"
   },
   {
     "from": "39696.00",
     "to": "39743.99",
-    "gis": "91.77",
-    "gisOasCombined": "699.23"
+    "gis": "101.44",
+    "gisOasCombined": "714.97"
   },
   {
     "from": "39744.00",
     "to": "39791.99",
-    "gis": "90.77",
-    "gisOasCombined": "698.23"
+    "gis": "100.44",
+    "gisOasCombined": "713.97"
   },
   {
     "from": "39792.00",
     "to": "39839.99",
-    "gis": "89.77",
-    "gisOasCombined": "697.23"
+    "gis": "99.44",
+    "gisOasCombined": "712.97"
   },
   {
     "from": "39840.00",
     "to": "39887.99",
-    "gis": "88.77",
-    "gisOasCombined": "696.23"
+    "gis": "98.44",
+    "gisOasCombined": "711.97"
   },
   {
     "from": "39888.00",
     "to": "39935.99",
-    "gis": "87.77",
-    "gisOasCombined": "695.23"
+    "gis": "97.44",
+    "gisOasCombined": "710.97"
   },
   {
     "from": "39936.00",
     "to": "39983.99",
-    "gis": "86.77",
-    "gisOasCombined": "694.23"
+    "gis": "96.44",
+    "gisOasCombined": "709.97"
   },
   {
     "from": "39984.00",
     "to": "40031.99",
-    "gis": "85.77",
-    "gisOasCombined": "693.23"
+    "gis": "95.44",
+    "gisOasCombined": "708.97"
   },
   {
     "from": "40032.00",
     "to": "40079.99",
-    "gis": "84.77",
-    "gisOasCombined": "692.23"
+    "gis": "94.44",
+    "gisOasCombined": "707.97"
   },
   {
     "from": "40080.00",
     "to": "40127.99",
-    "gis": "83.77",
-    "gisOasCombined": "691.23"
+    "gis": "93.44",
+    "gisOasCombined": "706.97"
   },
   {
     "from": "40128.00",
     "to": "40175.99",
-    "gis": "82.77",
-    "gisOasCombined": "690.23"
+    "gis": "92.44",
+    "gisOasCombined": "705.97"
   },
   {
     "from": "40176.00",
     "to": "40223.99",
-    "gis": "81.77",
-    "gisOasCombined": "689.23"
+    "gis": "91.44",
+    "gisOasCombined": "704.97"
   },
   {
     "from": "40224.00",
     "to": "40271.99",
-    "gis": "80.77",
-    "gisOasCombined": "688.23"
+    "gis": "90.44",
+    "gisOasCombined": "703.97"
   },
   {
     "from": "40272.00",
     "to": "40319.99",
-    "gis": "79.77",
-    "gisOasCombined": "687.23"
+    "gis": "89.44",
+    "gisOasCombined": "702.97"
   },
   {
     "from": "40320.00",
     "to": "40367.99",
-    "gis": "78.77",
-    "gisOasCombined": "686.23"
+    "gis": "88.44",
+    "gisOasCombined": "701.97"
   },
   {
     "from": "40368.00",
     "to": "40415.99",
-    "gis": "77.77",
-    "gisOasCombined": "685.23"
+    "gis": "87.44",
+    "gisOasCombined": "700.97"
   },
   {
     "from": "40416.00",
     "to": "40463.99",
-    "gis": "76.77",
-    "gisOasCombined": "684.23"
+    "gis": "86.44",
+    "gisOasCombined": "699.97"
   },
   {
     "from": "40464.00",
     "to": "40511.99",
-    "gis": "75.77",
-    "gisOasCombined": "683.23"
+    "gis": "85.44",
+    "gisOasCombined": "698.97"
   },
   {
     "from": "40512.00",
     "to": "40559.99",
-    "gis": "74.77",
-    "gisOasCombined": "682.23"
+    "gis": "84.44",
+    "gisOasCombined": "697.97"
   },
   {
     "from": "40560.00",
     "to": "40607.99",
-    "gis": "73.77",
-    "gisOasCombined": "681.23"
+    "gis": "83.44",
+    "gisOasCombined": "696.97"
   },
   {
     "from": "40608.00",
     "to": "40655.99",
-    "gis": "72.77",
-    "gisOasCombined": "680.23"
+    "gis": "82.44",
+    "gisOasCombined": "695.97"
   },
   {
     "from": "40656.00",
     "to": "40703.99",
-    "gis": "71.77",
-    "gisOasCombined": "679.23"
+    "gis": "81.44",
+    "gisOasCombined": "694.97"
   },
   {
     "from": "40704.00",
     "to": "40751.99",
-    "gis": "70.77",
-    "gisOasCombined": "678.23"
+    "gis": "80.44",
+    "gisOasCombined": "693.97"
   },
   {
     "from": "40752.00",
     "to": "40799.99",
-    "gis": "69.77",
-    "gisOasCombined": "677.23"
+    "gis": "79.44",
+    "gisOasCombined": "692.97"
   },
   {
     "from": "40800.00",
     "to": "40847.99",
-    "gis": "68.77",
-    "gisOasCombined": "676.23"
+    "gis": "78.44",
+    "gisOasCombined": "691.97"
   },
   {
     "from": "40848.00",
     "to": "40895.99",
-    "gis": "67.77",
-    "gisOasCombined": "675.23"
+    "gis": "77.44",
+    "gisOasCombined": "690.97"
   },
   {
     "from": "40896.00",
     "to": "40943.99",
-    "gis": "66.77",
-    "gisOasCombined": "674.23"
+    "gis": "76.44",
+    "gisOasCombined": "689.97"
   },
   {
     "from": "40944.00",
     "to": "40991.99",
-    "gis": "65.77",
-    "gisOasCombined": "673.23"
+    "gis": "75.44",
+    "gisOasCombined": "688.97"
   },
   {
     "from": "40992.00",
     "to": "41039.99",
-    "gis": "64.77",
-    "gisOasCombined": "672.23"
+    "gis": "74.44",
+    "gisOasCombined": "687.97"
   },
   {
     "from": "41040.00",
     "to": "41087.99",
-    "gis": "63.77",
-    "gisOasCombined": "671.23"
+    "gis": "73.44",
+    "gisOasCombined": "686.97"
   },
   {
     "from": "41088.00",
     "to": "41135.99",
-    "gis": "62.77",
-    "gisOasCombined": "670.23"
+    "gis": "72.44",
+    "gisOasCombined": "685.97"
   },
   {
     "from": "41136.00",
     "to": "41183.99",
-    "gis": "61.77",
-    "gisOasCombined": "669.23"
+    "gis": "71.44",
+    "gisOasCombined": "684.97"
   },
   {
     "from": "41184.00",
     "to": "41231.99",
-    "gis": "60.77",
-    "gisOasCombined": "668.23"
+    "gis": "70.44",
+    "gisOasCombined": "683.97"
   },
   {
     "from": "41232.00",
     "to": "41279.99",
-    "gis": "59.77",
-    "gisOasCombined": "667.23"
+    "gis": "69.44",
+    "gisOasCombined": "682.97"
   },
   {
     "from": "41280.00",
     "to": "41327.99",
-    "gis": "58.77",
-    "gisOasCombined": "666.23"
+    "gis": "68.44",
+    "gisOasCombined": "681.97"
   },
   {
     "from": "41328.00",
     "to": "41375.99",
-    "gis": "57.77",
-    "gisOasCombined": "665.23"
+    "gis": "67.44",
+    "gisOasCombined": "680.97"
   },
   {
     "from": "41376.00",
     "to": "41423.99",
-    "gis": "56.77",
-    "gisOasCombined": "664.23"
+    "gis": "66.44",
+    "gisOasCombined": "679.97"
   },
   {
     "from": "41424.00",
     "to": "41471.99",
-    "gis": "55.77",
-    "gisOasCombined": "663.23"
+    "gis": "65.44",
+    "gisOasCombined": "678.97"
   },
   {
     "from": "41472.00",
     "to": "41519.99",
-    "gis": "54.77",
-    "gisOasCombined": "662.23"
+    "gis": "64.44",
+    "gisOasCombined": "677.97"
   },
   {
     "from": "41520.00",
     "to": "41567.99",
-    "gis": "53.77",
-    "gisOasCombined": "661.23"
+    "gis": "63.44",
+    "gisOasCombined": "676.97"
   },
   {
     "from": "41568.00",
     "to": "41615.99",
-    "gis": "52.77",
-    "gisOasCombined": "660.23"
+    "gis": "62.44",
+    "gisOasCombined": "675.97"
   },
   {
     "from": "41616.00",
     "to": "41663.99",
-    "gis": "51.77",
-    "gisOasCombined": "659.23"
+    "gis": "61.44",
+    "gisOasCombined": "674.97"
   },
   {
     "from": "41664.00",
     "to": "41711.99",
-    "gis": "50.77",
-    "gisOasCombined": "658.23"
+    "gis": "60.44",
+    "gisOasCombined": "673.97"
   },
   {
     "from": "41712.00",
     "to": "41759.99",
-    "gis": "49.77",
-    "gisOasCombined": "657.23"
+    "gis": "59.44",
+    "gisOasCombined": "672.97"
   },
   {
     "from": "41760.00",
     "to": "41807.99",
-    "gis": "48.77",
-    "gisOasCombined": "656.23"
+    "gis": "58.44",
+    "gisOasCombined": "671.97"
   },
   {
     "from": "41808.00",
     "to": "41855.99",
-    "gis": "47.77",
-    "gisOasCombined": "655.23"
+    "gis": "57.44",
+    "gisOasCombined": "670.97"
   },
   {
     "from": "41856.00",
     "to": "41903.99",
-    "gis": "46.77",
-    "gisOasCombined": "654.23"
+    "gis": "56.44",
+    "gisOasCombined": "669.97"
   },
   {
     "from": "41904.00",
     "to": "41951.99",
-    "gis": "45.77",
-    "gisOasCombined": "653.23"
+    "gis": "55.44",
+    "gisOasCombined": "668.97"
   },
   {
     "from": "41952.00",
     "to": "41999.99",
-    "gis": "44.77",
-    "gisOasCombined": "652.23"
+    "gis": "54.44",
+    "gisOasCombined": "667.97"
   },
   {
     "from": "42000.00",
     "to": "42047.99",
-    "gis": "43.77",
-    "gisOasCombined": "651.23"
+    "gis": "53.44",
+    "gisOasCombined": "666.97"
   },
   {
     "from": "42048.00",
     "to": "42095.99",
-    "gis": "42.77",
-    "gisOasCombined": "650.23"
+    "gis": "52.44",
+    "gisOasCombined": "665.97"
   },
   {
     "from": "42096.00",
     "to": "42143.99",
-    "gis": "41.77",
-    "gisOasCombined": "649.23"
+    "gis": "51.44",
+    "gisOasCombined": "664.97"
   },
   {
     "from": "42144.00",
     "to": "42191.99",
-    "gis": "40.77",
-    "gisOasCombined": "648.23"
+    "gis": "50.44",
+    "gisOasCombined": "663.97"
   },
   {
     "from": "42192.00",
     "to": "42239.99",
-    "gis": "39.77",
-    "gisOasCombined": "647.23"
+    "gis": "49.44",
+    "gisOasCombined": "662.97"
   },
   {
     "from": "42240.00",
     "to": "42287.99",
-    "gis": "38.77",
-    "gisOasCombined": "646.23"
+    "gis": "48.44",
+    "gisOasCombined": "661.97"
   },
   {
     "from": "42288.00",
     "to": "42335.99",
-    "gis": "37.77",
-    "gisOasCombined": "645.23"
+    "gis": "47.44",
+    "gisOasCombined": "660.97"
   },
   {
     "from": "42336.00",
     "to": "42383.99",
-    "gis": "36.77",
-    "gisOasCombined": "644.23"
+    "gis": "46.44",
+    "gisOasCombined": "659.97"
   },
   {
     "from": "42384.00",
     "to": "42431.99",
-    "gis": "35.77",
-    "gisOasCombined": "643.23"
+    "gis": "45.44",
+    "gisOasCombined": "658.97"
   },
   {
     "from": "42432.00",
     "to": "42479.99",
-    "gis": "34.77",
-    "gisOasCombined": "642.23"
+    "gis": "44.44",
+    "gisOasCombined": "657.97"
   },
   {
     "from": "42480.00",
     "to": "42527.99",
-    "gis": "33.77",
-    "gisOasCombined": "641.23"
+    "gis": "43.44",
+    "gisOasCombined": "656.97"
   },
   {
     "from": "42528.00",
     "to": "42575.99",
-    "gis": "32.77",
-    "gisOasCombined": "640.23"
+    "gis": "42.44",
+    "gisOasCombined": "655.97"
   },
   {
     "from": "42576.00",
     "to": "42623.99",
-    "gis": "31.77",
-    "gisOasCombined": "639.23"
+    "gis": "41.44",
+    "gisOasCombined": "654.97"
   },
   {
     "from": "42624.00",
     "to": "42671.99",
-    "gis": "30.77",
-    "gisOasCombined": "638.23"
+    "gis": "40.44",
+    "gisOasCombined": "653.97"
   },
   {
     "from": "42672.00",
     "to": "42719.99",
-    "gis": "29.77",
-    "gisOasCombined": "637.23"
+    "gis": "39.44",
+    "gisOasCombined": "652.97"
   },
   {
     "from": "42720.00",
     "to": "42767.99",
-    "gis": "28.77",
-    "gisOasCombined": "636.23"
+    "gis": "38.44",
+    "gisOasCombined": "651.97"
   },
   {
     "from": "42768.00",
     "to": "42815.99",
-    "gis": "27.77",
-    "gisOasCombined": "635.23"
+    "gis": "37.44",
+    "gisOasCombined": "650.97"
   },
   {
     "from": "42816.00",
     "to": "42863.99",
-    "gis": "26.77",
-    "gisOasCombined": "634.23"
+    "gis": "36.44",
+    "gisOasCombined": "649.97"
   },
   {
     "from": "42864.00",
     "to": "42911.99",
-    "gis": "25.77",
-    "gisOasCombined": "633.23"
+    "gis": "35.44",
+    "gisOasCombined": "648.97"
   },
   {
     "from": "42912.00",
     "to": "42959.99",
-    "gis": "24.77",
-    "gisOasCombined": "632.23"
+    "gis": "34.44",
+    "gisOasCombined": "647.97"
   },
   {
     "from": "42960.00",
     "to": "43007.99",
-    "gis": "23.77",
-    "gisOasCombined": "631.23"
+    "gis": "33.44",
+    "gisOasCombined": "646.97"
   },
   {
     "from": "43008.00",
     "to": "43055.99",
-    "gis": "22.77",
-    "gisOasCombined": "630.23"
+    "gis": "32.44",
+    "gisOasCombined": "645.97"
   },
   {
     "from": "43056.00",
     "to": "43103.99",
-    "gis": "21.77",
-    "gisOasCombined": "629.23"
+    "gis": "31.44",
+    "gisOasCombined": "644.97"
   },
   {
     "from": "43104.00",
     "to": "43151.99",
-    "gis": "20.77",
-    "gisOasCombined": "628.23"
+    "gis": "30.44",
+    "gisOasCombined": "643.97"
   },
   {
     "from": "43152.00",
     "to": "43199.99",
-    "gis": "19.77",
-    "gisOasCombined": "627.23"
+    "gis": "29.44",
+    "gisOasCombined": "642.97"
   },
   {
     "from": "43200.00",
     "to": "43247.99",
-    "gis": "18.77",
-    "gisOasCombined": "626.23"
+    "gis": "28.44",
+    "gisOasCombined": "641.97"
   },
   {
     "from": "43248.00",
     "to": "43295.99",
-    "gis": "17.77",
-    "gisOasCombined": "625.23"
+    "gis": "27.44",
+    "gisOasCombined": "640.97"
   },
   {
     "from": "43296.00",
     "to": "43343.99",
-    "gis": "16.77",
-    "gisOasCombined": "624.23"
+    "gis": "26.44",
+    "gisOasCombined": "639.97"
   },
   {
     "from": "43344.00",
     "to": "43391.99",
-    "gis": "15.77",
-    "gisOasCombined": "623.23"
+    "gis": "25.44",
+    "gisOasCombined": "638.97"
   },
   {
     "from": "43392.00",
     "to": "43439.99",
-    "gis": "14.77",
-    "gisOasCombined": "622.23"
+    "gis": "24.44",
+    "gisOasCombined": "637.97"
   },
   {
     "from": "43440.00",
     "to": "43487.99",
-    "gis": "13.77",
-    "gisOasCombined": "621.23"
+    "gis": "23.44",
+    "gisOasCombined": "636.97"
   },
   {
     "from": "43488.00",
     "to": "43535.99",
-    "gis": "12.77",
-    "gisOasCombined": "620.23"
+    "gis": "22.44",
+    "gisOasCombined": "635.97"
   },
   {
     "from": "43536.00",
     "to": "43583.99",
-    "gis": "11.77",
-    "gisOasCombined": "619.23"
+    "gis": "21.44",
+    "gisOasCombined": "634.97"
   },
   {
     "from": "43584.00",
     "to": "43631.99",
-    "gis": "10.77",
-    "gisOasCombined": "618.23"
+    "gis": "20.44",
+    "gisOasCombined": "633.97"
   },
   {
     "from": "43632.00",
     "to": "43679.99",
-    "gis": "9.77",
-    "gisOasCombined": "617.23"
+    "gis": "19.44",
+    "gisOasCombined": "632.97"
   },
   {
     "from": "43680.00",
     "to": "43727.99",
-    "gis": "8.77",
-    "gisOasCombined": "616.23"
+    "gis": "18.44",
+    "gisOasCombined": "631.97"
   },
   {
     "from": "43728.00",
     "to": "43775.99",
-    "gis": "7.77",
-    "gisOasCombined": "615.23"
+    "gis": "17.44",
+    "gisOasCombined": "630.97"
   },
   {
     "from": "43776.00",
     "to": "43823.99",
-    "gis": "6.77",
-    "gisOasCombined": "614.23"
+    "gis": "16.44",
+    "gisOasCombined": "629.97"
   },
   {
     "from": "43824.00",
     "to": "43871.99",
-    "gis": "5.77",
-    "gisOasCombined": "613.23"
+    "gis": "15.44",
+    "gisOasCombined": "628.97"
   },
   {
     "from": "43872.00",
     "to": "43919.99",
-    "gis": "4.77",
-    "gisOasCombined": "612.23"
+    "gis": "14.44",
+    "gisOasCombined": "627.97"
   },
   {
     "from": "43920.00",
     "to": "43967.99",
-    "gis": "3.77",
-    "gisOasCombined": "611.23"
+    "gis": "13.44",
+    "gisOasCombined": "626.97"
   },
   {
     "from": "43968.00",
     "to": "44015.99",
-    "gis": "2.77",
-    "gisOasCombined": "610.23"
+    "gis": "12.44",
+    "gisOasCombined": "625.97"
   },
   {
     "from": "44016.00",
     "to": "44063.99",
-    "gis": "1.77",
-    "gisOasCombined": "609.23"
+    "gis": "11.44",
+    "gisOasCombined": "624.97"
   },
   {
     "from": "44064.00",
     "to": "44111.99",
-    "gis": "0.77",
-    "gisOasCombined": "608.23"
+    "gis": "10.44",
+    "gisOasCombined": "623.97"
+  },
+  {
+    "from": "44112.00",
+    "to": "44159.99",
+    "gis": "9.44",
+    "gisOasCombined": "622.97"
+  },
+  {
+    "from": "44160.00",
+    "to": "44207.99",
+    "gis": "8.44",
+    "gisOasCombined": "621.97"
+  },
+  {
+    "from": "44208.00",
+    "to": "44255.99",
+    "gis": "7.44",
+    "gisOasCombined": "620.97"
+  },
+  {
+    "from": "44256.00",
+    "to": "44303.99",
+    "gis": "6.44",
+    "gisOasCombined": "619.97"
+  },
+  {
+    "from": "44304.00",
+    "to": "44351.99",
+    "gis": "5.44",
+    "gisOasCombined": "618.97"
+  },
+  {
+    "from": "44352.00",
+    "to": "44399.99",
+    "gis": "4.44",
+    "gisOasCombined": "617.97"
+  },
+  {
+    "from": "44400.00",
+    "to": "44447.99",
+    "gis": "3.44",
+    "gisOasCombined": "616.97"
+  },
+  {
+    "from": "44448.00",
+    "to": "44495.99",
+    "gis": "2.44",
+    "gisOasCombined": "615.97"
+  },
+  {
+    "from": "44496.00",
+    "to": "44543.99",
+    "gis": "1.44",
+    "gisOasCombined": "614.97"
+  },
+  {
+    "from": "44544.00",
+    "to": "44591.99",
+    "gis": "0.44",
+    "gisOasCombined": "613.97"
   }
 ]
