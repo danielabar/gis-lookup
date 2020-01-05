@@ -83,11 +83,11 @@ describe('index', () => {
     it('returns 0 for income that is too high to be eligible for gis', () => {
       // Given
       const status = index.STATUS.SINGLE;
-      const income = '18408';
+      const income = '18600';
       // When
       const result = index.find(status, income);
       // Then
-      expect(result.output.gis).to.equal('7.44');
+      expect(result.output.gis).to.equal('0');
     });
 
     it('returns an error for unknown status', () => {
