@@ -1,6 +1,6 @@
 {
   "name": "gis-lookup",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Lookup Guaranteed Income Supplement amounts for Canada",
   "repository": {
     "type": "git",
