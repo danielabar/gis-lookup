@@ -20,6 +20,9 @@
     "retirement"
   ],
   "author": "Daniela Baron",
+  "contributors": [
+    "Paul Wright"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/danielabar/gis-lookup",
   "bugs": {
