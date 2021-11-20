@@ -10,7 +10,7 @@ describe('index', () => {
       // When
       const result = index.find(status, income);
       // Then
-      expect(result.output.gis).to.equal('673.38');
+      expect(result.output.gis).to.equal('705.82');
     });
 
     it('looks up a gis value by string income', () => {
@@ -20,7 +20,7 @@ describe('index', () => {
       // When
       const result = index.find(status, income);
       // Then
-      expect(result.output.gis).to.equal('673.38');
+      expect(result.output.gis).to.equal('705.82');
     });
 
     it('switches to partner oas table', () => {
@@ -30,7 +30,7 @@ describe('index', () => {
       // When
       const result = index.find(status, income);
       // Then
-      expect(result.output.gis).to.equal('544.63');
+      expect(result.output.gis).to.equal('564.15');
     });
 
     it('switches to partner no oas table', () => {
@@ -40,7 +40,7 @@ describe('index', () => {
       // When
       const result = index.find(status, income);
       // Then
-      expect(result.output.gis).to.equal('916.38');
+      expect(result.output.gis).to.equal('948.82');
     });
 
     it('result includes input, output and metadadta', () => {
@@ -52,7 +52,7 @@ describe('index', () => {
       // Then
       expect(result.input.status).to.equal('SINGLE');
       expect(result.input.income).to.equal(72.01);
-      expect(result.output.gis).to.equal('913.38');
+      expect(result.output.gis).to.equal('945.82');
       expect(result.metadata).to.exist;
     });
 
@@ -63,8 +63,8 @@ describe('index', () => {
       // When
       const result = index.find(status, income);
       // Then
-      expect(result.coverage.start).to.equal('2020-01-01');
-      expect(result.coverage.end).to.equal('2020-03-31');
+      expect(result.coverage.start).to.equal('2021-04-01');
+      expect(result.coverage.end).to.equal('2021-12-31');
     });
 
     it('returns result for 0 income', () => {
@@ -76,7 +76,7 @@ describe('index', () => {
       // Then
       expect(result.input.status).to.equal('SINGLE');
       expect(result.input.income).to.equal('0');
-      expect(result.output.gis).to.equal('916.38');
+      expect(result.output.gis).to.equal('948.82');
       expect(result.metadata).to.exist;
     });
 
@@ -87,7 +87,7 @@ describe('index', () => {
       // When
       const result = index.find(status, income);
       // Then
-      expect(result.output.gis).to.equal('0');
+      expect(result.output.gis).to.equal('26.86');
     });
 
     it('returns an error for unknown status', () => {
