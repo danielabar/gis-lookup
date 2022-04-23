@@ -3,7 +3,7 @@
   "success": true,
   "result": {
     "notes_translated": {
-      "fr": "Cette base de données fournit l’information sur des montants des prestations du supplément de revenu garanti et de l'allocation en fonction du niveau de revenu et du statut marital. Ces tableaux sont mis à jour à tous les trois mois. Les tableaux suivants présentent les paiements que vous pourriez recevoir, en fonction de votre âge, de votre revenu et de votre état matrimonial. La version pdf et html est disponible sur une autre site web: \r\nhttps://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/paiements.html#montants\r\n",
+      "fr": "Cette base de donn\u00e9es fournit l\u2019information sur des montants des prestations du suppl\u00e9ment de revenu garanti et de l'allocation en fonction du niveau de revenu et du statut marital. Ces tableaux sont mis \u00e0 jour \u00e0 tous les trois mois. Les tableaux suivants pr\u00e9sentent les paiements que vous pourriez recevoir, en fonction de votre \u00e2ge, de votre revenu et de votre \u00e9tat matrimonial. La version pdf et html est disponible sur une autre site web: \r\nhttps://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/paiements.html#montants\r\n",
       "en": "This dataset provides information on Benefits Amounts for Income Supplement and the Allowances according to income level and marital status. This is updated on a quarterly basis. The following tables of amounts will provide you with the amount of your monthly benefit, which will be based on your age, income level and marital status. PDF and html version are available on other web page: \r\nhttps://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments.html#amounts\r\n\r\n"
     },
     "imso_approval": "true",
@@ -24,8 +24,13 @@
     },
     "frequency": "P3M",
     "keywords": {
-      "fr": ["Sécurité de la vieillesse SV"],
-      "en": ["Old Age Security", "OAS"]
+      "fr": [
+        "S\u00e9curit\u00e9 de la vieillesse SV"
+      ],
+      "en": [
+        "Old Age Security",
+        "OAS"
+      ]
     },
     "data_series_issue_identification": {
       "fr": "",
@@ -34,10 +39,12 @@
     "ready_to_publish": "true",
     "id": "dfa4daf1-669e-4514-82cd-982f27707ed0",
     "metadata_created": "2016-09-25T15:28:20.763069",
-    "subject": ["society_and_culture"],
-    "date_modified": "2022-03-31 00:00:00",
+    "subject": [
+      "society_and_culture"
+    ],
+    "date_modified": "2021-10-01 00:00:00",
     "spatial_representation_type": [],
-    "metadata_modified": "2022-03-31T17:36:53.691835",
+    "metadata_modified": "2021-10-20T12:01:59.613931",
     "author": null,
     "author_email": "open-ouvert@tbs-sct.gc.ca",
     "geographic_region": [],
@@ -47,9 +54,9 @@
     "state": "active",
     "version": null,
     "relationships_as_object": [],
-    "time_period_coverage_start": "2022-01-01 00:00:00",
+    "time_period_coverage_start": "2021-04-01 00:00:00",
     "title_translated": {
-      "fr": "Sécurité de la vieillesse (SV) - Tableau des montants des prestations en fonction de l'état matrimonial et du niveau de revenu",
+      "fr": "S\u00e9curit\u00e9 de la vieillesse (SV) - Tableau des montants des prestations en fonction de l'\u00e9tat matrimonial et du niveau de revenu",
       "en": "Old Age Security (OAS) - Table of Benefit Amounts by marital status and income level"
     },
     "type": "dataset",
@@ -59,14 +66,12 @@
         "unique_identifier": "",
         "package_id": "dfa4daf1-669e-4514-82cd-982f27707ed0",
         "datastore_contains_all_records_of_source_file": false,
-        "validation_status": "",
         "datastore_active": false,
         "character_set": "",
-        "validation_timestamp": "",
         "id": "a2f5faf4-07fe-4a3c-9bd3-62bbf11a426f",
         "state": "active",
         "name_translated": {
-          "fr": "Table 1 - SRG pour bénéficiaire célibataire recevant la pension de la SV",
+          "fr": "Table 1 - SRG pour b\u00e9n\u00e9ficiaire c\u00e9libataire recevant la pension de la SV",
           "en": "Table 1 - GIS for single person who receives an OAS pension"
         },
         "hash": "",
@@ -78,13 +83,16 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 1 - GIS for single person who receives an OAS pension",
-        "language": ["en", "fr"],
+        "language": [
+          "en",
+          "fr"
+        ],
         "created": "2016-10-13T12:56:32.981594",
-        "url": "https://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table1_GIS_for_single_who_receives_OAS_pension_April2022.csv",
+        "url": "http://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table1_GIS_for_single_who_receives_OAS_pension_October2021.csv",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 0,
-        "revision_id": "e3b6446f-5f07-4e9f-a552-2b4697935691",
+        "revision_id": "3ba4e0fc-2482-4695-be25-bbf09a3cfb89",
         "data_quality": []
       },
       {
@@ -92,14 +100,12 @@
         "unique_identifier": "",
         "package_id": "dfa4daf1-669e-4514-82cd-982f27707ed0",
         "datastore_contains_all_records_of_source_file": false,
-        "validation_status": "",
         "datastore_active": false,
         "character_set": "",
-        "validation_timestamp": "",
         "id": "5d87eeb6-5305-4a0e-bc1d-fdf96e691749",
         "state": "active",
         "name_translated": {
-          "fr": "Table 2 SRG pour époux/conjoint de fait d'une personne qui reçoit une pension de la SV",
+          "fr": "Table 2 SRG pour \u00e9poux/conjoint de fait d'une personne qui re\u00e7oit une pension de la SV",
           "en": "Table 2 - GIS for spouse/common-law partner of someone who receives an OAS pension"
         },
         "hash": "",
@@ -111,13 +117,16 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 2 - GIS for spouse/common-law partner of someone who receives an OAS pension",
-        "language": ["en", "fr"],
+        "language": [
+          "en",
+          "fr"
+        ],
         "created": "2016-10-13T12:56:32.981642",
-        "url": "https://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table2_GIS_for_spouse_of_someone_receiving_OAS_pension_April2022.csv",
+        "url": "http://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table2_GIS_for_spouse_of_someone_receiving_OAS_pension_October2021.csv",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 1,
-        "revision_id": "e3b6446f-5f07-4e9f-a552-2b4697935691",
+        "revision_id": "3ba4e0fc-2482-4695-be25-bbf09a3cfb89",
         "data_quality": []
       },
       {
@@ -125,14 +134,12 @@
         "unique_identifier": "",
         "package_id": "dfa4daf1-669e-4514-82cd-982f27707ed0",
         "datastore_contains_all_records_of_source_file": false,
-        "validation_status": "",
         "datastore_active": false,
         "character_set": "",
-        "validation_timestamp": "",
         "id": "bdc68e9a-9e15-40eb-b1f2-05afc48a828a",
         "state": "active",
         "name_translated": {
-          "fr": "Table 3 - SRG pour époux/conjoint de fait d'une personne qui ne reçoit pas de pension de la SV",
+          "fr": "Table 3 - SRG pour \u00e9poux/conjoint de fait d'une personne qui ne re\u00e7oit pas de pension de la SV",
           "en": "Table 3 - GIS for spouse/common-law partner of someone who does not receive an OAS pension"
         },
         "hash": "",
@@ -144,13 +151,16 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 3 - GIS for spouse/common-law partner of someone who does not receive an OAS pension",
-        "language": ["en", "fr"],
+        "language": [
+          "en",
+          "fr"
+        ],
         "created": "2016-10-13T12:56:32.981656",
-        "url": "https://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table3_GIS_for_spouse_of_someone_who_does_not_receive_OAS_pension_April2022.csv",
+        "url": "http://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table3_GIS_for_spouse_of_someone_who_does_not_receive_OAS_pension_October2021.csv",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 2,
-        "revision_id": "e3b6446f-5f07-4e9f-a552-2b4697935691",
+        "revision_id": "a1b7e5ee-c6e6-46c4-9692-bf57152c022f",
         "data_quality": []
       },
       {
@@ -158,10 +168,8 @@
         "unique_identifier": "",
         "package_id": "dfa4daf1-669e-4514-82cd-982f27707ed0",
         "datastore_contains_all_records_of_source_file": false,
-        "validation_status": "",
         "datastore_active": false,
         "character_set": "",
-        "validation_timestamp": "",
         "id": "a5fec3bd-e1e4-4a98-bf0d-1b0e8735ec7a",
         "state": "active",
         "name_translated": {
@@ -177,13 +185,16 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 4 - GIS and Allowance for couple",
-        "language": ["en", "fr"],
+        "language": [
+          "en",
+          "fr"
+        ],
         "created": "2016-10-13T12:56:32.981668",
-        "url": "https://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table4_GIS_and_Allowance_for_couple_April2022.csv",
+        "url": "http://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table4_GIS_and_Allowance_for_couple_October2021.csv",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 3,
-        "revision_id": "e3b6446f-5f07-4e9f-a552-2b4697935691",
+        "revision_id": "a1b7e5ee-c6e6-46c4-9692-bf57152c022f",
         "data_quality": []
       },
       {
@@ -191,10 +202,8 @@
         "unique_identifier": "",
         "package_id": "dfa4daf1-669e-4514-82cd-982f27707ed0",
         "datastore_contains_all_records_of_source_file": false,
-        "validation_status": "",
         "datastore_active": false,
         "character_set": "",
-        "validation_timestamp": "",
         "id": "fc52e37f-1520-47d1-bff6-5925deb6974f",
         "state": "active",
         "name_translated": {
@@ -210,13 +219,16 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 5 - Allowance for the Survivor",
-        "language": ["en", "fr"],
+        "language": [
+          "en",
+          "fr"
+        ],
         "created": "2016-10-13T12:56:32.981681",
-        "url": "https://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table5_Allowance_for_the_survivor_April2022.csv",
+        "url": "http://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table5_Allowance_for_the_survivor_October2021.csv",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 4,
-        "revision_id": "e3b6446f-5f07-4e9f-a552-2b4697935691",
+        "revision_id": "a1b7e5ee-c6e6-46c4-9692-bf57152c022f",
         "data_quality": []
       },
       {
@@ -224,14 +236,12 @@
         "unique_identifier": "",
         "package_id": "dfa4daf1-669e-4514-82cd-982f27707ed0",
         "datastore_contains_all_records_of_source_file": false,
-        "validation_status": "",
         "datastore_active": false,
         "character_set": "",
-        "validation_timestamp": "",
         "id": "0a7918f0-6e8a-433b-9ea2-60e2b8674cb5",
         "state": "active",
         "name_translated": {
-          "fr": "Table 1 - SRG pour bénéficiaire célibataire recevant la pension de la SV",
+          "fr": "Table 1 - SRG pour b\u00e9n\u00e9ficiaire c\u00e9libataire recevant la pension de la SV",
           "en": "Table 1 - GIS for single person who receives an OAS pension"
         },
         "hash": "",
@@ -243,13 +253,16 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 1 - GIS for single person who receives an OAS pension",
-        "language": ["en", "fr"],
+        "language": [
+          "en",
+          "fr"
+        ],
         "created": "2016-12-29T12:10:17.254609",
-        "url": "https://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table1_GIS_for_single_who_receives_OAS_pension_April2022.xlsx",
+        "url": "http://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table1_GIS_for_single_who_receives_OAS_pension_October2021.xlsx",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 5,
-        "revision_id": "e3b6446f-5f07-4e9f-a552-2b4697935691",
+        "revision_id": "a1b7e5ee-c6e6-46c4-9692-bf57152c022f",
         "data_quality": []
       },
       {
@@ -257,14 +270,12 @@
         "unique_identifier": "",
         "package_id": "dfa4daf1-669e-4514-82cd-982f27707ed0",
         "datastore_contains_all_records_of_source_file": false,
-        "validation_status": "",
         "datastore_active": false,
         "character_set": "",
-        "validation_timestamp": "",
         "id": "5efa3920-83f6-4108-bb51-db2456e7b37c",
         "state": "active",
         "name_translated": {
-          "fr": "Table 2 - SRG pour époux/conjoint de fait d'une personne qui reçoit une pension de la SV",
+          "fr": "Table 2 - SRG pour \u00e9poux/conjoint de fait d'une personne qui re\u00e7oit une pension de la SV",
           "en": "Table 2 - GIS for spouse/common-law partner of someone who receives an OAS pension"
         },
         "hash": "",
@@ -276,13 +287,16 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 2 - GIS for spouse/common-law partner of someone who receives an OAS pension",
-        "language": ["en", "fr"],
+        "language": [
+          "en",
+          "fr"
+        ],
         "created": "2016-12-29T12:20:17.757598",
-        "url": "https://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table2_GIS_for_spouse_of_someone_receiving_OAS_pension_April2022.xlsx",
+        "url": "http://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table2_GIS_for_spouse_of_someone_receiving_OAS_pension_October2021.xlsx",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 6,
-        "revision_id": "e3b6446f-5f07-4e9f-a552-2b4697935691",
+        "revision_id": "a1b7e5ee-c6e6-46c4-9692-bf57152c022f",
         "data_quality": []
       },
       {
@@ -290,14 +304,12 @@
         "unique_identifier": "",
         "package_id": "dfa4daf1-669e-4514-82cd-982f27707ed0",
         "datastore_contains_all_records_of_source_file": false,
-        "validation_status": "",
         "datastore_active": false,
         "character_set": "",
-        "validation_timestamp": "",
         "id": "b4e1258c-2a72-4c64-b202-d0ab6aa2d21a",
         "state": "active",
         "name_translated": {
-          "fr": "Table 3 - SRG pour époux/conjoint de fait d'une personne qui ne reçoit pas de pension de la SV",
+          "fr": "Table 3 - SRG pour \u00e9poux/conjoint de fait d'une personne qui ne re\u00e7oit pas de pension de la SV",
           "en": "Table 3 - GIS for spouse/common-law partner of someone who does not receive an OAS pension"
         },
         "hash": "",
@@ -309,13 +321,16 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 3 - GIS for spouse/common-law partner of someone who does not receive an OAS pension",
-        "language": ["en", "fr"],
+        "language": [
+          "en",
+          "fr"
+        ],
         "created": "2016-12-29T12:20:17.757684",
-        "url": "https://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table3_GIS_for_spouse_of_someone_who_does_not_receive_OAS_pension_April2022.xlsx",
+        "url": "http://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table3_GIS_for_spouse_of_someone_who_does_not_receive_OAS_pension_October2021.xlsx",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 7,
-        "revision_id": "e3b6446f-5f07-4e9f-a552-2b4697935691",
+        "revision_id": "a1b7e5ee-c6e6-46c4-9692-bf57152c022f",
         "data_quality": []
       },
       {
@@ -323,10 +338,8 @@
         "unique_identifier": "",
         "package_id": "dfa4daf1-669e-4514-82cd-982f27707ed0",
         "datastore_contains_all_records_of_source_file": false,
-        "validation_status": "",
         "datastore_active": false,
         "character_set": "",
-        "validation_timestamp": "",
         "id": "89b0fa2c-af49-4fb5-a74c-1cf2268fb521",
         "state": "active",
         "name_translated": {
@@ -342,13 +355,16 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 4 - GIS and Allowance for couple",
-        "language": ["en", "fr"],
+        "language": [
+          "en",
+          "fr"
+        ],
         "created": "2016-12-29T12:30:17.927871",
-        "url": "https://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table4_GIS_and_Allowance_for_couple_April2022.xlsx",
+        "url": "http://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table4_GIS_and_Allowance_for_couple_October2021.xlsx",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 8,
-        "revision_id": "e3b6446f-5f07-4e9f-a552-2b4697935691",
+        "revision_id": "a1b7e5ee-c6e6-46c4-9692-bf57152c022f",
         "data_quality": []
       },
       {
@@ -356,10 +372,8 @@
         "unique_identifier": "",
         "package_id": "dfa4daf1-669e-4514-82cd-982f27707ed0",
         "datastore_contains_all_records_of_source_file": false,
-        "validation_status": "",
         "datastore_active": false,
         "character_set": "",
-        "validation_timestamp": "",
         "id": "807c638f-10e7-4c79-b756-677d3af7265c",
         "state": "active",
         "name_translated": {
@@ -375,13 +389,16 @@
         "mimetype": null,
         "cache_url": null,
         "name": "Table 5 - Allowance for the Survivor",
-        "language": ["en", "fr"],
+        "language": [
+          "en",
+          "fr"
+        ],
         "created": "2016-12-29T12:30:17.927907",
-        "url": "https://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table5_Allowance_for_the_survivor_April2022.xlsx",
+        "url": "http://www.esdc.gc.ca/ouvert-open/isp/oas_gis-psv_srg/Table5_Allowance_for_the_survivor_October2021.xlsx",
         "last_modified": null,
         "resource_type": "dataset",
         "position": 9,
-        "revision_id": "e3b6446f-5f07-4e9f-a552-2b4697935691",
+        "revision_id": "a1b7e5ee-c6e6-46c4-9692-bf57152c022f",
         "data_quality": []
       }
     ],
@@ -393,7 +410,7 @@
     "spatial": "",
     "collection": "primary",
     "org_title_at_publication": {
-      "fr": "Emploi et Développement social Canada",
+      "fr": "Emploi et D\u00e9veloppement social Canada",
       "en": "Employment and Social Development Canada"
     },
     "date_published": "2015-12-01 00:00:00",
@@ -404,15 +421,14 @@
       "fr": "",
       "en": ""
     },
-    "maintainer_contact_form": {},
     "relationships_as_subject": [],
     "license_title": "Open Government Licence - Canada",
-    "time_period_coverage_end": "2022-06-30 00:00:00",
+    "time_period_coverage_end": "2021-12-31 00:00:00",
     "restrictions": "unrestricted",
     "organization": {
       "description": "",
       "created": "2016-09-23T17:25:26.246118",
-      "title": "Employment and Social Development Canada | Emploi et Développement social Canada",
+      "title": "Employment and Social Development Canada | Emploi et D\u00e9veloppement social Canada",
       "name": "esdc-edsc",
       "is_organization": true,
       "state": "active",

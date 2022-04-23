@@ -45,7 +45,7 @@ TBD, too manual currently...
 ```shell
 # time_period_coverage_start and time_period_coverage_end are values from current/metadata.json, just take yyyy-mm-dd
 mkdir data/historica/from-{time_period_coverage_start}-to-{time_period_coverage_end}
-mv current/* historical/from-{time_period_coverage_start}-to-{time_period_coverage_end}
+mv data/current/* historical/from-{time_period_coverage_start}-to-{time_period_coverage_end}
 # download new metadata.json from Open Government Canada site (see Reference Data section below) to data/current
 # download tables 1 through 3 to data/current
 npm run generate
@@ -57,4 +57,4 @@ npm test
 
 Lookup [tables](https://open.canada.ca/data/en/dataset/dfa4daf1-669e-4514-82cd-982f27707ed0) from Open Government Canada.
 
-GIS lookup tables licensed under the [Open Government Licence - Canada](https://open.canada.ca/en/open-government-licence-canada)
+GIS lookup tables licensed under the [Open Government License - Canada](https://open.canada.ca/en/open-government-licence-canada)
